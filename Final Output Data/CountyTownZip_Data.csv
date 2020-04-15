@@ -1,0 +1,732 @@
+County,Town,Zip Code,Zip Type
+Middlesex,Avenel,07001,Standard
+Hudson,Bayonne,07002,Standard
+Essex,Bloomfield,07003,Standard
+Essex,Fairfield,07004,Standard
+Morris,Boonton,07005,Standard
+Essex,Caldwell,07006,Standard
+Essex,Caldwell,07007,P.O. Box
+Middlesex,Carteret,07008,Standard
+Essex,Cedar Grove,07009,Standard
+Bergen,Cliffside Park,07010,Standard
+Passaic,Clifton,07011,Standard
+Passaic,Clifton,07012,Standard
+Passaic,Clifton,07013,Standard
+Passaic,Clifton,07014,Standard
+Passaic,Clifton,07015,P.O. Box
+Union,Cranford,07016,Standard
+Essex,East Orange,07017,Standard
+Essex,East Orange,07018,Standard
+Essex,East Orange,07019,P.O. Box
+Bergen,Edgewater,07020,Standard
+Essex,Essex Fells,07021,Standard
+Bergen,Fairview,07022,Standard
+Union,Fanwood,07023,Standard
+Bergen,Fort Lee,07024,Standard
+Bergen,Garfield,07026,Standard
+Union,Garwood,07027,Standard
+Essex,Glen Ridge,07028,Standard
+Hudson,Harrison,07029,Standard
+Hudson,Hoboken,07030,Standard
+Bergen,North Arlington,07031,Standard
+Hudson,Kearny,07032,Standard
+Union,Kenilworth,07033,Standard
+Morris,Lake Hiawatha,07034,Standard
+Morris,Lincoln Park,07035,Standard
+Union,Linden,07036,Standard
+Essex,Livingston,07039,Standard
+Essex,Maplewood,07040,Standard
+Essex,Millburn,07041,Standard
+Essex,Montclair,07042,Standard
+Essex,Montclair,07043,Standard
+Essex,Verona,07044,Standard
+Morris,Montville,07045,Standard
+Morris,Mountain Lakes,07046,Standard
+Hudson,North Bergen,07047,Standard
+Essex,Orange,07050,Standard
+Essex,Orange,07051,P.O. Box
+Essex,West Orange,07052,Standard
+Morris,Parsippany,07054,Standard
+Passaic,Passaic,07055,Standard
+Bergen,Wallington,07057,Standard
+Morris,Pine Brook,07058,Standard
+Somerset,Warren,07059,Standard
+Union,Plainfield,07060,Standard
+Union,Plainfield,07061,P.O. Box
+Union,Plainfield,07062,Standard
+Union,Plainfield,07063,Standard
+Middlesex,Port Reading,07064,Standard
+Union,Rahway,07065,Standard
+Union,Clark,07066,Standard
+Middlesex,Colonia,07067,Standard
+Essex,Roseland,07068,Standard
+Somerset,Watchung,07069,Standard
+Bergen,Rutherford,07070,Standard
+Bergen,Lyndhurst,07071,Standard
+Bergen,Carlstadt,07072,Standard
+Bergen,East Rutherford,07073,Standard
+Bergen,Moonachie,07074,Standard
+Bergen,Wood Ridge,07075,Standard
+Union,Scotch Plains,07076,Standard
+Middlesex,Sewaren,07077,Standard
+Essex,Short Hills,07078,Standard
+Essex,South Orange,07079,Standard
+Middlesex,South Plainfield,07080,Standard
+Union,Springfield,07081,Standard
+Morris,Towaco,07082,Standard
+Union,Union,07083,Standard
+Hudson,Weehawken,07086,Standard
+Hudson,Union City,07087,Standard
+Union,Vauxhall,07088,Standard
+Union,Westfield,07090,Standard
+Union,Westfield,07091,P.O. Box
+Union,Mountainside,07092,Standard
+Hudson,West New York,07093,Standard
+Hudson,Secaucus,07094,Standard
+Middlesex,Woodbridge,07095,Standard
+Hudson,Secaucus,07096,P.O. Box
+Hudson,Jersey City,07097,Unique
+Hudson,Kearny,07099,Unique
+Essex,Newark,07101,P.O. Box
+Essex,Newark,07102,Standard
+Essex,Newark,07103,Standard
+Essex,Newark,07104,Standard
+Essex,Newark,07105,Standard
+Essex,Newark,07106,Standard
+Essex,Newark,07107,Standard
+Essex,Newark,07108,Standard
+Essex,Belleville,07109,Standard
+Essex,Nutley,07110,Standard
+Essex,Irvington,07111,Standard
+Essex,Newark,07112,Standard
+Essex,Newark,07114,Standard
+Essex,Newark,07175,Unique
+Essex,Newark,07184,Unique
+Essex,Newark,07188,Unique
+Essex,Newark,07189,Unique
+Essex,Newark,07191,Unique
+Essex,Newark,07192,Unique
+Essex,Newark,07193,Unique
+Essex,Newark,07195,Unique
+Essex,Newark,07198,Unique
+Essex,Newark,07199,Unique
+Union,Elizabeth,07201,Standard
+Union,Elizabeth,07202,Standard
+Union,Roselle,07203,Standard
+Union,Roselle Park,07204,Standard
+Union,Hillside,07205,Standard
+Union,Elizabethport,07206,Standard
+Union,Elizabeth,07207,P.O. Box
+Union,Elizabeth,07208,Standard
+Hudson,Jersey City,07302,Standard
+Hudson,Jersey City,07303,P.O. Box
+Hudson,Jersey City,07304,Standard
+Hudson,Jersey City,07305,Standard
+Hudson,Jersey City,07306,Standard
+Hudson,Jersey City,07307,Standard
+Hudson,Jersey City,07308,P.O. Box
+Hudson,Jersey City,07310,Standard
+Hudson,Jersey City,07311,Standard
+Hudson,Jersey City,07395,Unique
+Hudson,Jersey City,07399,Unique
+Bergen,Allendale,07401,Standard
+Passaic,Bloomingdale,07403,Standard
+Morris,Butler,07405,Standard
+Bergen,Elmwood Park,07407,Standard
+Bergen,Fair Lawn,07410,Standard
+Sussex,Franklin,07416,Standard
+Bergen,Franklin Lakes,07417,Standard
+Sussex,Glenwood,07418,Standard
+Sussex,Hamburg,07419,Standard
+Passaic,Haskell,07420,Standard
+Passaic,Hewitt,07421,Standard
+Sussex,Highland Lakes,07422,Standard
+Bergen,Ho Ho Kus,07423,Standard
+Passaic,Little Falls,07424,Standard
+Sussex,Mc Afee,07428,P.O. Box
+Bergen,Mahwah,07430,Standard
+Bergen,Midland Park,07432,Standard
+Passaic,Newfoundland,07435,Standard
+Bergen,Oakland,07436,Standard
+Passaic,Oak Ridge,07438,Standard
+Sussex,Ogdensburg,07439,Standard
+Morris,Pequannock,07440,Standard
+Passaic,Pompton Lakes,07442,Standard
+Morris,Pompton Plains,07444,Standard
+Bergen,Ramsey,07446,Standard
+Bergen,Ridgewood,07450,Standard
+Bergen,Ridgewood,07451,P.O. Box
+Bergen,Glen Rock,07452,Standard
+Passaic,Ringwood,07456,Standard
+Morris,Riverdale,07457,Standard
+Bergen,Saddle River,07458,Standard
+Sussex,Stockholm,07460,Standard
+Sussex,Sussex,07461,Standard
+Sussex,Vernon,07462,Standard
+Bergen,Waldwick,07463,Standard
+Passaic,Wanaque,07465,Standard
+Passaic,Wayne,07470,Standard
+Passaic,Wayne,07474,P.O. Box
+Passaic,West Milford,07480,Standard
+Bergen,Wyckoff,07481,Standard
+Bergen,Mahwah,07495,Standard
+Passaic,Paterson,07501,Standard
+Passaic,Paterson,07502,Standard
+Passaic,Paterson,07503,Standard
+Passaic,Paterson,07504,Standard
+Passaic,Paterson,07505,Standard
+Passaic,Hawthorne,07506,Standard
+Passaic,Hawthorne,07507,P.O. Box
+Passaic,Haledon,07508,Standard
+Passaic,Paterson,07509,P.O. Box
+Passaic,Paterson,07510,Standard
+Passaic,Totowa,07511,P.O. Box
+Passaic,Totowa,07512,Standard
+Passaic,Paterson,07513,Standard
+Passaic,Paterson,07514,Standard
+Passaic,Paterson,07522,Standard
+Passaic,Paterson,07524,Standard
+Passaic,Paterson,07533,P.O. Box
+Passaic,Haledon,07538,P.O. Box
+Passaic,Paterson,07543,P.O. Box
+Passaic,Paterson,07544,P.O. Box
+Bergen,Hackensack,07601,Standard
+Bergen,Hackensack,07602,P.O. Box
+Bergen,Bogota,07603,Standard
+Bergen,Hasbrouck Heights,07604,Standard
+Bergen,Leonia,07605,Standard
+Bergen,South Hackensack,07606,Standard
+Bergen,Maywood,07607,Standard
+Bergen,Teterboro,07608,Standard
+Bergen,Alpine,07620,P.O. Box
+Bergen,Bergenfield,07621,Standard
+Bergen,Closter,07624,Standard
+Bergen,Cresskill,07626,Standard
+Bergen,Demarest,07627,Standard
+Bergen,Dumont,07628,Standard
+Bergen,Emerson,07630,Standard
+Bergen,Englewood,07631,Standard
+Bergen,Englewood Cliffs,07632,Standard
+Bergen,Harrington Park,07640,Standard
+Bergen,Haworth,07641,Standard
+Bergen,Hillsdale,07642,Standard
+Bergen,Little Ferry,07643,Standard
+Bergen,Lodi,07644,Standard
+Bergen,Montvale,07645,Standard
+Bergen,New Milford,07646,Standard
+Bergen,Northvale,07647,Standard
+Bergen,Norwood,07648,Standard
+Bergen,Oradell,07649,Standard
+Bergen,Palisades Park,07650,Standard
+Bergen,Paramus,07652,Standard
+Bergen,Paramus,07653,P.O. Box
+Bergen,Park Ridge,07656,Standard
+Bergen,Ridgefield,07657,Standard
+Bergen,Ridgefield Park,07660,Standard
+Bergen,River Edge,07661,Standard
+Bergen,Rochelle Park,07662,Standard
+Bergen,Saddle Brook,07663,Standard
+Bergen,Teaneck,07666,Standard
+Bergen,Tenafly,07670,Standard
+Bergen,Westwood,07675,Standard
+Bergen,Township Of Washington,07676,Standard
+Bergen,Woodcliff Lake,07677,Standard
+Bergen,Teterboro,07699,Unique
+Monmouth,Red Bank,07701,Standard
+Monmouth,Shrewsbury,07702,Standard
+Monmouth,Fort Monmouth,07703,Standard
+Monmouth,Fair Haven,07704,Standard
+Monmouth,Adelphia,07710,P.O. Box
+Monmouth,Allenhurst,07711,Standard
+Monmouth,Asbury Park,07712,Standard
+Monmouth,Belmar,07715,Unique
+Monmouth,Atlantic Highlands,07716,Standard
+Monmouth,Avon By The Sea,07717,Standard
+Monmouth,Belford,07718,Standard
+Monmouth,Belmar,07719,Standard
+Monmouth,Bradley Beach,07720,Standard
+Monmouth,Cliffwood,07721,Standard
+Monmouth,Colts Neck,07722,Standard
+Monmouth,Deal,07723,Standard
+Monmouth,Eatontown,07724,Standard
+Monmouth,Englishtown,07726,Standard
+Monmouth,Farmingdale,07727,Standard
+Monmouth,Freehold,07728,Standard
+Monmouth,Hazlet,07730,Standard
+Monmouth,Howell,07731,Standard
+Monmouth,Highlands,07732,Standard
+Monmouth,Holmdel,07733,Standard
+Monmouth,Keansburg,07734,Standard
+Monmouth,Keyport,07735,Standard
+Monmouth,Leonardo,07737,Standard
+Monmouth,Lincroft,07738,Standard
+Monmouth,Little Silver,07739,Standard
+Monmouth,Long Branch,07740,Standard
+Monmouth,Marlboro,07746,Standard
+Monmouth,Matawan,07747,Standard
+Monmouth,Middletown,07748,Standard
+Monmouth,Monmouth Beach,07750,Standard
+Monmouth,Morganville,07751,Standard
+Monmouth,Navesink,07752,P.O. Box
+Monmouth,Neptune,07753,Standard
+Monmouth,Neptune,07754,P.O. Box
+Monmouth,Oakhurst,07755,Standard
+Monmouth,Ocean Grove,07756,Standard
+Monmouth,Oceanport,07757,Standard
+Monmouth,Port Monmouth,07758,Standard
+Monmouth,Rumson,07760,Standard
+Monmouth,Spring Lake,07762,Standard
+Monmouth,Tennent,07763,P.O. Box
+Monmouth,West Long Branch,07764,Standard
+Monmouth,Wickatunk,07765,P.O. Box
+Monmouth,Eatontown,07799,Standard
+Morris,Dover,07801,Standard
+Morris,Dover,07802,P.O. Box
+Morris,Mine Hill,07803,Standard
+Morris,Picatinny Arsenal,07806,Standard
+Warren,Allamuchy,07820,P.O. Box
+Sussex,Andover,07821,Standard
+Sussex,Augusta,07822,Standard
+Warren,Belvidere,07823,Standard
+Warren,Blairstown,07825,Standard
+Sussex,Branchville,07826,Standard
+Sussex,Montague,07827,Standard
+Morris,Budd Lake,07828,Standard
+Warren,Buttzville,07829,P.O. Box
+Hunterdon,Califon,07830,Standard
+Warren,Changewater,07831,Standard
+Warren,Columbia,07832,Standard
+Warren,Delaware,07833,P.O. Box
+Morris,Denville,07834,Standard
+Morris,Flanders,07836,Standard
+Sussex,Glasser,07837,P.O. Box
+Warren,Great Meadows,07838,Standard
+Sussex,Greendell,07839,P.O. Box
+Warren,Hackettstown,07840,Standard
+Morris,Hibernia,07842,P.O. Box
+Sussex,Hopatcong,07843,Standard
+Warren,Hope,07844,P.O. Box
+Morris,Ironia,07845,P.O. Box
+Warren,Johnsonburg,07846,P.O. Box
+Morris,Kenvil,07847,Standard
+Sussex,Lafayette,07848,Standard
+Morris,Lake Hopatcong,07849,Standard
+Morris,Landing,07850,Standard
+Sussex,Layton,07851,Standard
+Morris,Ledgewood,07852,Standard
+Morris,Long Valley,07853,Standard
+Sussex,Middleville,07855,P.O. Box
+Morris,Mount Arlington,07856,Standard
+Morris,Netcong,07857,Standard
+Sussex,Newton,07860,Standard
+Warren,Oxford,07863,Standard
+Warren,Port Murray,07865,Standard
+Morris,Rockaway,07866,Standard
+Morris,Randolph,07869,Standard
+Morris,Schooleys Mountain,07870,P.O. Box
+Sussex,Sparta,07871,Standard
+Sussex,Stanhope,07874,Standard
+Sussex,Stillwater,07875,P.O. Box
+Morris,Succasunna,07876,Standard
+Sussex,Swartswood,07877,P.O. Box
+Morris,Mount Tabor,07878,P.O. Box
+Sussex,Tranquility,07879,P.O. Box
+Warren,Vienna,07880,P.O. Box
+Sussex,Wallpack Center,07881,Standard
+Warren,Washington,07882,Standard
+Morris,Wharton,07885,Standard
+Sussex,Branchville,07890,Unique
+Union,Summit,07901,Standard
+Union,Summit,07902,P.O. Box
+Somerset,Basking Ridge,07920,Standard
+Somerset,Bedminster,07921,Standard
+Union,Berkeley Heights,07922,Standard
+Somerset,Bernardsville,07924,Standard
+Morris,Brookside,07926,P.O. Box
+Morris,Cedar Knolls,07927,Standard
+Morris,Chatham,07928,Standard
+Morris,Chester,07930,Standard
+Somerset,Far Hills,07931,Standard
+Morris,Florham Park,07932,Standard
+Morris,Gillette,07933,Standard
+Somerset,Gladstone,07934,Standard
+Morris,Green Village,07935,Standard
+Morris,East Hanover,07936,Standard
+Somerset,Liberty Corner,07938,P.O. Box
+Somerset,Lyons,07939,Standard
+Morris,Madison,07940,Standard
+Morris,Mendham,07945,Standard
+Morris,Millington,07946,Standard
+Morris,Morris Plains,07950,Standard
+Morris,Morristown,07960,Standard
+Morris,Convent Station,07961,P.O. Box
+Morris,Morristown,07962,P.O. Box
+Morris,Morristown,07963,P.O. Box
+Morris,Mount Freedom,07970,P.O. Box
+Union,New Providence,07974,Standard
+Morris,New Vernon,07976,Standard
+Somerset,Peapack,07977,P.O. Box
+Somerset,Pluckemin,07978,P.O. Box
+Hunterdon,Pottersville,07979,P.O. Box
+Morris,Stirling,07980,Standard
+Morris,Whippany,07981,Standard
+Morris,Whippany,07999,Standard
+Salem,Alloway,08001,P.O. Box
+Camden,Cherry Hill,08002,Standard
+Camden,Cherry Hill,08003,Standard
+Camden,Atco,08004,Standard
+Ocean,Barnegat,08005,Standard
+Ocean,Barnegat Light,08006,P.O. Box
+Camden,Barrington,08007,Standard
+Ocean,Beach Haven,08008,Standard
+Camden,Berlin,08009,Standard
+Burlington,Beverly,08010,Standard
+Burlington,Birmingham,08011,P.O. Box
+Camden,Blackwood,08012,Standard
+Gloucester,Bridgeport,08014,Standard
+Burlington,Browns Mills,08015,Standard
+Burlington,Burlington,08016,Standard
+Camden,Cedar Brook,08018,P.O. Box
+Burlington,Chatsworth,08019,Standard
+Gloucester,Clarksboro,08020,Standard
+Camden,Clementon,08021,Standard
+Burlington,Columbus,08022,Standard
+Salem,Deepwater,08023,P.O. Box
+Gloucester,Ewan,08025,P.O. Box
+Camden,Gibbsboro,08026,Standard
+Gloucester,Gibbstown,08027,Standard
+Gloucester,Glassboro,08028,Standard
+Camden,Glendora,08029,Standard
+Camden,Gloucester City,08030,Standard
+Camden,Bellmawr,08031,Standard
+Gloucester,Grenloch,08032,Standard
+Camden,Haddonfield,08033,Standard
+Camden,Cherry Hill,08034,Standard
+Camden,Haddon Heights,08035,Standard
+Burlington,Hainesport,08036,Standard
+Atlantic,Hammonton,08037,Standard
+Salem,Hancocks Bridge,08038,P.O. Box
+Gloucester,Harrisonville,08039,P.O. Box
+Burlington,Jobstown,08041,Standard
+Burlington,Juliustown,08042,P.O. Box
+Camden,Voorhees,08043,Standard
+Camden,Lawnside,08045,Standard
+Burlington,Willingboro,08046,Standard
+Burlington,Lumberton,08048,Standard
+Camden,Magnolia,08049,Standard
+Ocean,Manahawkin,08050,Standard
+Gloucester,Mantua,08051,Standard
+Burlington,Maple Shade,08052,Standard
+Burlington,Marlton,08053,Standard
+Burlington,Mount Laurel,08054,Standard
+Burlington,Medford,08055,Standard
+Burlington,Medford Lakes,08055,Standard
+Gloucester,Mickleton,08056,Standard
+Burlington,Moorestown,08057,Standard
+Camden,Mount Ephraim,08059,Standard
+Burlington,Mount Holly,08060,Standard
+Gloucester,Mount Royal,08061,Standard
+Gloucester,Mullica Hill,08062,Standard
+Gloucester,South Harrison Township,08062,Standard
+Gloucester,National Park,08063,Standard
+Burlington,New Lisbon,08064,P.O. Box
+Burlington,Palmyra,08065,Standard
+Gloucester,Paulsboro,08066,Standard
+Salem,Pedricktown,08067,Standard
+Burlington,Pemberton,08068,Standard
+Salem,Penns Grove,08069,Standard
+Salem,Pennsville,08070,Standard
+Gloucester,Pitman,08071,Standard
+Salem,Quinton,08072,P.O. Box
+Burlington,Rancocas,08073,P.O. Box
+Gloucester,Richwood,08074,P.O. Box
+Burlington,Delanco,08075,Standard
+Burlington,Delran,08075,Standard
+Burlington,Riverside,08075,Standard
+Burlington,Riverton,08076,P.O. Box
+Burlington,Riverton,08077,Standard
+Camden,Runnemede,08078,Standard
+Salem,Salem,08079,Standard
+Gloucester,Sewell,08080,Standard
+Camden,Sicklerville,08081,Standard
+Camden,Somerdale,08083,Standard
+Camden,Stratford,08084,Standard
+Gloucester,Swedesboro,08085,Standard
+Gloucester,Thorofare,08086,Standard
+Ocean,Little Egg Harbor Twp,08087,Standard
+Ocean,Tuckerton,08087,Standard
+Burlington,Shamong,08088,Standard
+Burlington,Southampton,08088,Standard
+Burlington,Tabernacle,08088,Standard
+Burlington,Vincentown,08088,Standard
+Camden,Waterford Works,08089,Standard
+Gloucester,Wenonah,08090,Standard
+Camden,West Berlin,08091,Standard
+Ocean,West Creek,08092,Standard
+Gloucester,Westville,08093,Standard
+Gloucester,Williamstown,08094,Standard
+Camden,Winslow,08095,P.O. Box
+Gloucester,Deptford,08096,Standard
+Gloucester,Woodbury,08096,Standard
+Gloucester,Woodbury Heights,08097,Standard
+Salem,Woodstown,08098,Standard
+Camden,Bellmawr,08099,P.O. Box
+Camden,Camden,08101,P.O. Box
+Camden,Camden,08102,Standard
+Camden,Camden,08103,Standard
+Camden,Camden,08104,Standard
+Camden,Camden,08105,Standard
+Camden,Audubon,08106,Standard
+Camden,Oaklyn,08107,Standard
+Camden,Collingswood,08108,Standard
+Camden,Merchantville,08109,Standard
+Camden,Pennsauken,08110,Standard
+Atlantic,Absecon,08201,Standard
+Cape May,Avalon,08202,Standard
+Atlantic,Brigantine,08203,Standard
+Cape May,Cape May,08204,Standard
+Atlantic,Absecon,08205,Standard
+Cape May,Cape May Court House,08210,Standard
+Cape May,Cape May Point,08212,P.O. Box
+Atlantic,Cologne,08213,P.O. Box
+Cape May,Dennisville,08214,P.O. Box
+Atlantic,Egg Harbor City,08215,Standard
+Atlantic,Elwood,08217,P.O. Box
+Cape May,Goshen,08218,P.O. Box
+Cape May,Green Creek,08219,P.O. Box
+Atlantic,Leeds Point,08220,P.O. Box
+Atlantic,Linwood,08221,Standard
+Cape May,Marmora,08223,Standard
+Burlington,New Gretna,08224,P.O. Box
+Atlantic,Northfield,08225,Standard
+Cape May,Ocean City,08226,Standard
+Cape May,Ocean View,08230,Standard
+Atlantic,Oceanville,08231,P.O. Box
+Atlantic,Pleasantville,08232,Standard
+Atlantic,Egg Harbor Township,08234,Standard
+Atlantic,Pomona,08240,P.O. Box
+Atlantic,Port Republic,08241,Standard
+Cape May,Rio Grande,08242,Standard
+Cape May,Sea Isle City,08243,Standard
+Atlantic,Somers Point,08244,Standard
+Cape May,South Dennis,08245,P.O. Box
+Cape May,South Seaville,08246,P.O. Box
+Cape May,Stone Harbor,08247,Standard
+Cape May,Strathmere,08248,P.O. Box
+Cape May,Tuckahoe,08250,P.O. Box
+Cape May,Villas,08251,Standard
+Cape May,Whitesboro,08252,P.O. Box
+Cape May,Wildwood,08260,Standard
+Cape May,Woodbine,08270,Standard
+Cumberland,Bridgeton,08302,Standard
+Atlantic,Buena,08310,Standard
+Cumberland,Cedarville,08311,Standard
+Gloucester,Clayton,08312,Standard
+Cumberland,Deerfield Street,08313,P.O. Box
+Cumberland,Delmont,08314,Standard
+Cumberland,Dividing Creek,08315,P.O. Box
+Cumberland,Dorchester,08316,P.O. Box
+Atlantic,Dorothy,08317,Standard
+Salem,Elmer,08318,Standard
+Atlantic,Estell Manor,08319,Standard
+Cumberland,Fairton,08320,P.O. Box
+Cumberland,Fortescue,08321,P.O. Box
+Gloucester,Franklinville,08322,Standard
+Cumberland,Greenwich,08323,Standard
+Cumberland,Heislerville,08324,Standard
+Atlantic,Landisville,08326,Standard
+Cumberland,Leesburg,08327,Standard
+Gloucester,Malaga,08328,Standard
+Cumberland,Mauricetown,08329,P.O. Box
+Atlantic,Mays Landing,08330,Standard
+Cumberland,Millville,08332,Standard
+Atlantic,Milmay,08340,Standard
+Atlantic,Minotola,08341,Standard
+Atlantic,Mizpah,08342,P.O. Box
+Salem,Monroeville,08343,Standard
+Gloucester,Newfield,08344,Standard
+Cumberland,Newport,08345,Standard
+Atlantic,Newtonville,08346,Standard
+Salem,Norma,08347,P.O. Box
+Cumberland,Port Elizabeth,08348,Standard
+Cumberland,Port Norris,08349,Standard
+Atlantic,Richland,08350,Standard
+Cumberland,Rosenhayn,08352,P.O. Box
+Cumberland,Shiloh,08353,P.O. Box
+Cumberland,Vineland,08360,Standard
+Cumberland,Vineland,08361,Standard
+Cumberland,Vineland,08362,P.O. Box
+Atlantic,Atlantic City,08401,Standard
+Atlantic,Margate City,08402,Standard
+Atlantic,Longport,08403,Standard
+Atlantic,Atlantic City,08404,P.O. Box
+Atlantic,Atlantic City,08405,Unique
+Atlantic,Ventnor City,08406,Standard
+Monmouth,Allentown,08501,Standard
+Somerset,Belle Mead,08502,Standard
+Somerset,Blawenburg,08504,P.O. Box
+Burlington,Bordentown,08505,Standard
+Monmouth,Millstone Township,08510,Standard
+Burlington,Cookstown,08511,Standard
+Middlesex,Cranbury,08512,Standard
+Monmouth,Cream Ridge,08514,Standard
+Burlington,Chesterfield,08515,Standard
+Burlington,Florence,08518,Standard
+Mercer,Hightstown,08520,Standard
+Mercer,Hopewell,08525,Standard
+Monmouth,Imlaystown,08526,P.O. Box
+Ocean,Jackson,08527,Standard
+Somerset,Kingston,08528,Standard
+Hunterdon,Lambertville,08530,Standard
+Ocean,New Egypt,08533,Standard
+Mercer,Pennington,08534,Standard
+Monmouth,Millstone Township,08535,Standard
+Middlesex,Plainsboro,08536,Standard
+Mercer,Princeton,08540,Standard
+Mercer,Princeton,08541,Unique
+Mercer,Princeton,08542,Standard
+Mercer,Princeton,08543,P.O. Box
+Mercer,Princeton,08544,Unique
+Mercer,Princeton Junction,08550,Standard
+Hunterdon,Ringoes,08551,Standard
+Somerset,Rocky Hill,08553,Standard
+Burlington,Roebling,08554,Standard
+Monmouth,Roosevelt,08555,P.O. Box
+Hunterdon,Rosemont,08556,Standard
+Hunterdon,Sergeantsville,08557,P.O. Box
+Somerset,Skillman,08558,Standard
+Hunterdon,Stockton,08559,Standard
+Mercer,Titusville,08560,Standard
+Mercer,Windsor,08561,P.O. Box
+Burlington,Wrightstown,08562,Standard
+Mercer,Trenton,08601,P.O. Box
+Mercer,Trenton,08602,P.O. Box
+Mercer,Trenton,08603,P.O. Box
+Mercer,Trenton,08604,P.O. Box
+Mercer,Trenton,08605,P.O. Box
+Mercer,Trenton,08606,P.O. Box
+Mercer,Trenton,08607,P.O. Box
+Mercer,Trenton,08608,Standard
+Mercer,Trenton,08609,Standard
+Mercer,Trenton,08610,Standard
+Mercer,Trenton,08611,Standard
+Mercer,Trenton,08618,Standard
+Mercer,Trenton,08619,Standard
+Mercer,Trenton,08620,Standard
+Mercer,Trenton,08625,P.O. Box
+Mercer,Trenton,08628,Standard
+Mercer,Trenton,08629,Standard
+Mercer,Trenton,08638,Standard
+Burlington,Joint Base Mdl,08640,Standard
+Burlington,Joint Base Mdl,08641,Standard
+Mercer,Trenton,08645,Unique
+Mercer,Trenton,08646,Unique
+Mercer,Trenton,08647,Unique
+Mercer,Lawrence Township,08648,Standard
+Mercer,Trenton,08650,P.O. Box
+Mercer,Trenton,08666,Unique
+Mercer,Trenton,08690,Standard
+Mercer,Trenton,08691,Standard
+Mercer,Trenton,08695,Unique
+Ocean,Lakewood,08701,Standard
+Monmouth,Allenwood,08720,P.O. Box
+Ocean,Bayville,08721,Standard
+Ocean,Beachwood,08722,Standard
+Ocean,Brick,08723,Standard
+Ocean,Brick,08724,Standard
+Monmouth,Brielle,08730,Standard
+Ocean,Forked River,08731,Standard
+Ocean,Island Heights,08732,P.O. Box
+Ocean,Lakehurst,08733,Standard
+Ocean,Lanoka Harbor,08734,Standard
+Ocean,Lavallette,08735,Standard
+Monmouth,Manasquan,08736,Standard
+Ocean,Mantoloking,08738,Standard
+Ocean,Normandy Beach,08739,P.O. Box
+Ocean,Ocean Gate,08740,P.O. Box
+Ocean,Pine Beach,08741,Standard
+Ocean,Point Pleasant Beach,08742,Standard
+Monmouth,Sea Girt,08750,Standard
+Ocean,Seaside Heights,08751,Standard
+Ocean,Seaside Park,08752,Standard
+Ocean,Toms River,08753,Standard
+Ocean,Toms River,08754,P.O. Box
+Ocean,Toms River,08755,Standard
+Ocean,Toms River,08756,P.O. Box
+Ocean,Toms River,08757,Standard
+Ocean,Waretown,08758,Standard
+Ocean,Manchester Township,08759,Standard
+Hunterdon,Annandale,08801,Standard
+Hunterdon,Asbury,08802,Standard
+Hunterdon,Baptistown,08803,P.O. Box
+Hunterdon,Bloomsbury,08804,Standard
+Somerset,Bound Brook,08805,Standard
+Somerset,Bridgewater,08807,Standard
+Warren,Broadway,08808,P.O. Box
+Hunterdon,Clinton,08809,Standard
+Middlesex,Dayton,08810,Standard
+Middlesex,Dunellen,08812,Standard
+Middlesex,East Brunswick,08816,Standard
+Middlesex,Edison,08817,Standard
+Middlesex,Edison,08818,P.O. Box
+Middlesex,Edison,08820,Standard
+Somerset,Flagtown,08821,P.O. Box
+Hunterdon,Flemington,08822,Standard
+Somerset,Franklin Park,08823,Standard
+Middlesex,Kendall Park,08824,Standard
+Hunterdon,Frenchtown,08825,Standard
+Hunterdon,Glen Gardner,08826,Standard
+Hunterdon,Hampton,08827,Standard
+Middlesex,Helmetta,08828,Standard
+Hunterdon,High Bridge,08829,Standard
+Middlesex,Iselin,08830,Standard
+Middlesex,Monroe Township,08831,Standard
+Middlesex,Keasbey,08832,Standard
+Hunterdon,Lebanon,08833,Standard
+Hunterdon,Little York,08834,P.O. Box
+Somerset,Manville,08835,Standard
+Somerset,Martinsville,08836,Standard
+Middlesex,Edison,08837,Standard
+Middlesex,Metuchen,08840,Standard
+Somerset,Hillsborough,08844,Standard
+Middlesex,Middlesex,08846,Standard
+Hunterdon,Milford,08848,Standard
+Middlesex,Milltown,08850,Standard
+Middlesex,Monmouth Junction,08852,Standard
+Somerset,Neshanic Station,08853,Standard
+Middlesex,Piscataway,08854,Standard
+Middlesex,Piscataway,08855,P.O. Box
+Middlesex,Old Bridge,08857,Standard
+Hunterdon,Oldwick,08858,P.O. Box
+Middlesex,Parlin,08859,Standard
+Middlesex,Perth Amboy,08861,Standard
+Middlesex,Perth Amboy,08862,P.O. Box
+Middlesex,Fords,08863,Standard
+Warren,Phillipsburg,08865,Standard
+Hunterdon,Pittstown,08867,Standard
+Hunterdon,Quakertown,08868,P.O. Box
+Somerset,Raritan,08869,Standard
+Hunterdon,Readington,08870,P.O. Box
+Middlesex,Sayreville,08871,P.O. Box
+Middlesex,Sayreville,08872,Standard
+Somerset,Somerset,08873,Standard
+Somerset,Somerset,08875,P.O. Box
+Somerset,Somerville,08876,Standard
+Middlesex,South Amboy,08879,Standard
+Somerset,South Bound Brook,08880,Standard
+Middlesex,South River,08882,Standard
+Middlesex,Spotswood,08884,Standard
+Hunterdon,Stanton,08885,P.O. Box
+Warren,Stewartsville,08886,Standard
+Hunterdon,Three Bridges,08887,Standard
+Hunterdon,Whitehouse,08888,P.O. Box
+Hunterdon,Whitehouse Station,08889,Standard
+Somerset,Zarephath,08890,P.O. Box
+Middlesex,Edison,08899,Standard
+Middlesex,New Brunswick,08901,Standard
+Middlesex,North Brunswick,08902,Standard
+Middlesex,New Brunswick,08903,P.O. Box
+Middlesex,Highland Park,08904,Standard
+Middlesex,New Brunswick,08906,P.O. Box
+Middlesex,New Brunswick,08933,Unique
+Middlesex,New Brunswick,08989,Unique
