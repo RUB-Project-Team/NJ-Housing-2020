@@ -1,0 +1,2413 @@
+,Unnamed: 0,School ID,City,Zip Code,2019 Rank,2019 Rank Level,2019 Avg Score,School Level
+0,0,341269004924,Paterson,7522,1.0,Elementary,98.13338,Elementary
+1,1,340933000596,Mahwah,7430,1.0,Elementary,98.13338,Elementary
+2,2,340074603143,Somerset,8873,1.0,Elementary,98.13338,Other
+3,3,341638000143,Union City,7087,1.0,Elementary,98.13338,Elementary
+4,4,340459005524,Elizabeth,7202,1.0,Elementary,98.13338,Middle
+5,5,341590005718,Summit,7901,1.0,Elementary,98.13338,Elementary
+6,6,341020002154,Short Hills,7078,1.0,Elementary,98.13338,Elementary
+7,7,340783002834,Jersey City,7302,1.0,Elementary,98.13338,Elementary
+8,8,340004300323,Princeton,8540,1.0,Elementary,98.13338,Elementary
+9,9,340993004320,Brookside,7926,1.0,Elementary,98.13338,Elementary
+10,10,340477000406,Englewood Cliffs,7632,1.0,Elementary,98.13338,Middle
+11,11,341521003628,Monmouth Junction,8852,1.0,Elementary,98.13338,Elementary
+12,12,340498000416,Fair Lawn,7410,1.0,Elementary,98.13338,Elementary
+13,13,341152002372,N Caldwell,7006,1.0,Elementary,98.13338,Elementary
+14,14,341383000780,Ridgewood,7451,1.0,Elementary,98.13338,Elementary
+15,15,340339000316,Closter,7624,1.0,Elementary,98.13338,Elementary
+16,16,341437004090,Rumson,7760,1.0,Elementary,98.13338,Elementary
+17,17,340597000490,Glen Rock,7452,1.0,Elementary,98.13338,Elementary
+18,18,341020002162,Millburn,7041,1.0,Elementary,98.13338,Elementary
+19,19,341071001142,Moorestown,8057,1.0,Elementary,98.13338,Elementary
+20,20,341383000776,Ridgewood,7451,1.0,Elementary,98.13338,Elementary
+21,21,340387004206,Denville,7834,1.0,Elementary,98.13338,Elementary
+22,22,341020002156,Short Hills,7078,1.0,Elementary,98.13338,Elementary
+23,23,341071001134,Moorestown,8057,1.0,Elementary,98.13338,Elementary
+24,24,340165000355,Basking Ridge,7920,1.0,Elementary,98.13338,Elementary
+25,25,340495003780,Fair Haven,7704,1.0,Elementary,98.13338,Elementary
+26,26,341473004098,Sea Girt,8750,1.0,Elementary,98.13338,Elementary
+27,27,340075000226,Allendale,7401,1.0,Elementary,98.13338,Elementary
+28,28,341383000772,Ridgewood,7451,1.0,Elementary,98.13338,Elementary
+29,29,341776005782,Westfield,7090,1.0,Elementary,98.13338,Elementary
+30,30,340228006126,Bridgewater,8807,1.0,Elementary,98.13338,Elementary
+31,31,341590005714,Summit,7901,1.0,Elementary,98.13338,Elementary
+32,32,340459000013,Elizabeth,7206,1.0,Elementary,98.13338,Middle
+33,33,341020002152,Short Hills,7078,1.0,Elementary,98.13338,Elementary
+34,34,341383000774,Ridgewood,7450,1.0,Elementary,98.13338,Elementary
+35,35,340450003366,Edison,8820,1.0,Elementary,98.13338,Elementary
+36,36,341152002374,N Caldwell,7006,1.0,Elementary,98.13338,Elementary
+37,37,341389000792,River Edge,7661,1.0,Elementary,98.13338,Elementary
+38,38,341101004422,Mountain Lakes,7046,1.0,Elementary,98.13338,Elementary
+39,39,341590005722,Summit,7901,1.0,Elementary,98.13338,Elementary
+40,40,341452000834,Saddle River,7458,1.0,Elementary,98.13338,Elementary
+41,41,340933000588,Mahwah,7430,1.0,Elementary,98.13338,Elementary
+42,42,340927003524,Old Bridge,8857,1.0,Elementary,98.13338,Elementary
+43,43,340483002082,Essex Fells,7021,1.0,Elementary,98.13338,Elementary
+44,44,340537000460,Franklin Lakes,7417,1.0,Elementary,98.13338,Elementary
+45,45,340153005440,Berkeley Hts,7922,1.0,Elementary,98.13338,Elementary
+46,46,341662000882,Upper Saddle River,7458,1.0,Elementary,98.13338,Elementary
+47,47,340357005466,Cranford,7016,1.0,Elementary,98.13338,Elementary
+48,48,340342001486,Collingswood,8108,1.0,Elementary,98.13338,Elementary
+49,49,340882002138,Livingston,7039,1.0,Elementary,98.13338,Elementary
+50,0,340732000530,Ho Ho Kus,7423,17.0,Elementary,95.31042,Elementary
+51,1,341776005770,Westfield,7090,17.0,Elementary,95.31042,Elementary
+52,2,340073503055,East Brunswick,8816,17.0,Elementary,95.31042,Elementary
+53,3,341386004946,Ringwood,7456,17.0,Elementary,95.31042,Elementary
+54,4,341020000230,Millburn,7041,17.0,Elementary,95.31042,Elementary
+55,5,340087000228,Alpine,7620,17.0,Elementary,95.31042,Elementary
+56,6,341131005600,New Providence,7974,17.0,Elementary,95.31042,Elementary
+57,7,341611000870,Tenafly,7670,17.0,Elementary,95.31042,Elementary
+58,8,340498000420,Fair Lawn,7410,17.0,Elementary,95.31042,Elementary
+59,9,340972003946,Marlboro,7746,17.0,Elementary,95.31042,Elementary
+60,10,340300001450,Cherry Hill,8003,17.0,Elementary,95.31042,Elementary
+61,11,341581001754,Stone Harbor,8247,17.0,Elementary,95.31042,Elementary
+62,12,340882002140,Livingston,7039,17.0,Elementary,95.31042,Elementary
+63,13,340597000488,Glen Rock,7452,17.0,Elementary,95.31042,Elementary
+64,14,340498000430,Fair Lawn,7410,17.0,Elementary,95.31042,Elementary
+65,15,341065004344,Pine Brook,7058,17.0,Elementary,95.31042,Elementary
+66,16,340498000422,Fair Lawn,7410,17.0,Elementary,95.31042,Elementary
+67,17,340153005434,Berkeley Hts,7922,17.0,Elementary,95.31042,Elementary
+68,18,340696000520,Haworth,7641,17.0,Elementary,95.31042,Elementary
+69,19,341248004452,Parsippany,7054,17.0,Elementary,95.31042,Elementary
+70,20,340873000525,Little Falls,7424,17.0,Elementary,95.31042,Elementary
+71,21,341131005594,New Providence,7974,17.0,Elementary,95.31042,Elementary
+72,22,340076703251,Jersey City,7307,17.0,Elementary,95.31042,Elementary
+73,23,340300001456,Cherry Hill,8003,17.0,Elementary,95.31042,Elementary
+74,24,340684000508,Harrington Park,7640,17.0,Elementary,95.31042,Elementary
+75,25,340753000503,Pennington,8534,17.0,Elementary,95.31042,Elementary
+76,26,340981000604,Maywood,7607,17.0,Elementary,95.31042,Elementary
+77,27,340672004260,New Vernon,7976,17.0,Elementary,95.31042,Elementary
+78,28,340261002962,Califon,7830,17.0,Elementary,95.31042,Elementary
+79,29,340000406017,Chatham,7928,17.0,Elementary,95.31042,Elementary
+80,30,340531000444,Fort Lee,7024,17.0,Elementary,95.31042,Elementary
+81,31,340450003354,Edison,8820,17.0,Elementary,95.31042,Elementary
+82,32,341224000678,Oradell,7649,17.0,Elementary,95.31042,Elementary
+83,33,340927003502,Matawan,7747,17.0,Elementary,95.31042,Elementary
+84,34,341782000910,Westwood,7675,17.0,Elementary,95.31042,Elementary
+85,35,341065004338,Pine Brook,7058,17.0,Elementary,95.31042,Elementary
+86,36,340597000482,Glen Rock,7452,17.0,Elementary,95.31042,Elementary
+87,37,340882002136,Livingston,7039,17.0,Elementary,95.31042,Elementary
+88,38,341728004970,Wayne,7470,17.0,Elementary,95.31042,Elementary
+89,39,340594002098,Glen Ridge,7028,17.0,Elementary,95.31042,Elementary
+90,40,340972003952,Morganville,7751,17.0,Elementary,95.31042,Elementary
+91,41,341290004472,Pompton Plains,7444,17.0,Elementary,95.31042,Elementary
+92,42,340153005442,Berkeley Hts,7922,17.0,Elementary,95.31042,Elementary
+93,43,340000406019,Chatham,7928,17.0,Elementary,95.31042,Elementary
+94,44,340882002142,Livingston,7039,17.0,Elementary,95.31042,Elementary
+95,45,341683001676,Voorhees,8043,17.0,Elementary,95.31042,Elementary
+96,46,340939003926,Manalapan,7726,17.0,Elementary,95.31042,Elementary
+97,47,341770003260,West Windsor,8550,17.0,Elementary,95.31042,Elementary
+98,48,340165005128,Basking Ridge,7920,17.0,Elementary,95.31042,Elementary
+99,49,341611000868,Tenafly,7670,17.0,Elementary,95.31042,Elementary
+100,0,340300001422,Cherry Hill,8034,176.0,Elementary,85.21240999999999,Elementary
+101,1,341245000714,Park Ridge,7656,176.0,Elementary,85.21240999999999,Elementary
+102,2,340450003342,Edison,8820,176.0,Elementary,85.21240999999999,Elementary
+103,3,340000406018,Chatham,7928,176.0,Elementary,85.21240999999999,Elementary
+104,4,340879003900,Little Silver,7739,176.0,Elementary,85.21240999999999,Elementary
+105,5,340939000453,Manalapan,7726,176.0,Elementary,85.21240999999999,Elementary
+106,6,341836000942,Wyckoff,7481,176.0,Elementary,85.21240999999999,Elementary
+107,7,341359000738,Ramsey,7446,176.0,Elementary,85.21240999999999,Elementary
+108,8,341212004074,Oceanport,7757,176.0,Elementary,85.21240999999999,Elementary
+109,9,340450003356,Edison,8820,176.0,Elementary,85.21240999999999,Elementary
+110,10,340639001560,Haddonfield,8033,176.0,Elementary,85.21240999999999,Elementary
+111,11,341371003034,Whitehouse Station,8889,176.0,Elementary,85.21240999999999,Elementary
+112,12,340360000328,Cresskill,7626,176.0,Elementary,85.21240999999999,Elementary
+113,13,341038004018,Monmouth Beach,7750,176.0,Elementary,85.21240999999999,Elementary
+114,14,340939003930,Manalapan,7726,176.0,Elementary,85.21240999999999,Elementary
+115,15,341065004340,Montville,7045,176.0,Elementary,85.21240999999999,Elementary
+116,16,340006400373,Newark,7102,176.0,Elementary,85.21240999999999,Elementary
+117,17,341383000782,Ridgewood,7451,176.0,Elementary,85.21240999999999,Elementary
+118,18,340360000326,Cresskill,7626,176.0,Elementary,85.21240999999999,Elementary
+119,19,341359000736,Ramsey,7446,176.0,Elementary,85.21240999999999,Elementary
+120,20,341590005712,Summit,7901,176.0,Elementary,85.21240999999999,Elementary
+121,21,341389000794,River Edge,7661,176.0,Elementary,85.21240999999999,Elementary
+122,22,340969000393,Margate City,8402,176.0,Elementary,85.21240999999999,Elementary
+123,23,340411003318,East Brunswick,8816,176.0,Elementary,85.21240999999999,Elementary
+124,24,341821000934,Woodcliff Lake,7677,176.0,Elementary,85.21240999999999,Elementary
+125,25,341611000866,Tenafly,7670,176.0,Elementary,85.21240999999999,Elementary
+126,26,341065004342,Montville,7045,176.0,Elementary,85.21240999999999,Elementary
+127,27,340924004310,Madison,7940,176.0,Elementary,85.21240999999999,Elementary
+128,28,341422004086,Roosevelt,8555,176.0,Elementary,85.21240999999999,Elementary
+129,29,341770003264,Plainsboro,8536,176.0,Elementary,85.21240999999999,Elementary
+130,30,340804004288,Kinnelon,7405,176.0,Elementary,85.21240999999999,Elementary
+131,31,341467005684,Scotch Plains,7076,176.0,Elementary,85.21240999999999,Elementary
+132,32,341782000916,Westwood,7675,176.0,Elementary,85.21240999999999,Elementary
+133,33,340231003754,Brielle,8730,176.0,Elementary,85.21240999999999,Elementary
+134,34,341611000874,Tenafly,7670,176.0,Elementary,85.21240999999999,Elementary
+135,35,341383000778,Ridgewood,7451,176.0,Elementary,85.21240999999999,Elementary
+136,36,341830000924,Wood Ridge,7075,176.0,Elementary,85.21240999999999,Elementary
+137,37,340501002086,Fairfield,7004,176.0,Elementary,85.21240999999999,Elementary
+138,38,340753003138,Titusville,8560,176.0,Elementary,85.21240999999999,Elementary
+139,39,340003200302,Hoboken,7030,176.0,Elementary,85.21240999999999,Other
+140,40,340354003282,Cranbury,8512,176.0,Elementary,85.21240999999999,Elementary
+141,41,341698006106,Warren,7059,176.0,Elementary,85.21240999999999,Elementary
+142,42,341245000712,Park Ridge,7656,176.0,Elementary,85.21240999999999,Elementary
+143,43,340411003314,East Brunswick,8816,176.0,Elementary,85.21240999999999,Elementary
+144,44,340723006068,Hillsborough,8844,176.0,Elementary,85.21240999999999,Elementary
+145,45,340882006052,Livingston,7039,176.0,Elementary,85.21240999999999,Elementary
+146,46,340771004608,Island Heights,8732,176.0,Elementary,85.21240999999999,Elementary
+147,47,340342001478,Collingswood,8108,176.0,Elementary,85.21240999999999,Elementary
+148,48,341521000509,Monmouth Junction,8852,176.0,Elementary,85.21240999999999,Elementary
+149,49,340639001556,Haddonfield,8033,176.0,Elementary,85.21240999999999,Elementary
+150,0,340741003856,Holmdel,7733,106.0,Elementary,89.43088,Elementary
+151,1,340987001120,Medford,8055,106.0,Elementary,89.43088,Elementary
+152,2,340285002030,Cedar Grove,7009,106.0,Elementary,89.43088,Elementary
+153,3,340009000829,Somerset,8873,106.0,Elementary,89.43088,Other
+154,4,340753003140,Pennington,8534,106.0,Elementary,89.43088,Elementary
+155,5,340723005228,Hillsborough,8844,106.0,Elementary,89.43088,Elementary
+156,6,340597000486,Glen Rock,7452,106.0,Elementary,89.43088,Elementary
+157,7,341776005774,Westfield,7090,106.0,Elementary,89.43088,Elementary
+158,8,341698005306,Warren,7059,106.0,Elementary,89.43088,Elementary
+159,9,341365004488,Randolph,7869,106.0,Elementary,89.43088,Elementary
+160,10,340228006047,Basking Ridge,7920,106.0,Elementary,89.43088,Elementary
+161,11,340399000342,Dumont,7628,106.0,Elementary,89.43088,Elementary
+162,12,341338000204,Port Republic,8241,106.0,Elementary,89.43088,Elementary
+163,13,340002500291,Newark,7104,106.0,Elementary,89.43088,Elementary
+164,14,340198004162,Boonton,7005,106.0,Elementary,89.43088,Elementary
+165,15,340633001534,Haddon Heights,8035,106.0,Elementary,89.43088,Elementary
+166,16,340150000276,Bergenfield,7621,106.0,Elementary,89.43088,Elementary
+167,17,341248004448,Morris Plains,7950,106.0,Elementary,89.43088,Elementary
+168,18,340073403037,Hoboken,7030,106.0,Elementary,89.43088,Elementary
+169,19,341425002418,Roseland,7068,106.0,Elementary,89.43088,Elementary
+170,20,341218000676,Old Tappan,7675,106.0,Elementary,89.43088,Elementary
+171,21,340972006030,Marlboro,7746,106.0,Elementary,89.43088,Elementary
+172,22,341104005588,Mountainside,7092,106.0,Elementary,89.43088,Middle
+173,23,341719005316,Watchung,7069,106.0,Elementary,89.43088,Elementary
+174,24,341674002458,Verona,7044,106.0,Elementary,89.43088,Elementary
+175,25,340357005470,Cranford,7016,106.0,Elementary,89.43088,Elementary
+176,26,340126000141,Bayonne,7002,106.0,Elementary,89.43088,Elementary
+177,27,340783002786,Jersey City,7302,106.0,Elementary,89.43088,Elementary
+178,28,341011004000,Atlantic Highlands,7716,106.0,Elementary,89.43088,Elementary
+179,29,341206004066,Asbury Park,7712,106.0,Elementary,89.43088,Elementary
+180,30,341698005310,Warren,7059,106.0,Elementary,89.43088,Elementary
+181,31,341770003262,West Windsor,8550,106.0,Elementary,89.43088,Elementary
+182,32,341188002388,Nutley,7110,106.0,Elementary,89.43088,Elementary
+183,33,340939003928,Manalapan,7726,106.0,Elementary,89.43088,Elementary
+184,34,340002400289,Newark,7102,106.0,Elementary,89.43088,Other
+185,35,340411003302,East Brunswick,8816,106.0,Elementary,89.43088,Elementary
+186,36,341248000241,Mount Tabor,7878,106.0,Elementary,89.43088,Elementary
+187,37,340882002134,Livingston,7039,106.0,Elementary,89.43088,Elementary
+188,38,341290004474,Pompton Plains,7444,106.0,Elementary,89.43088,Elementary
+189,39,340537000532,Franklin Lakes,7417,106.0,Elementary,89.43088,Elementary
+190,40,340735002756,Hoboken,7030,106.0,Elementary,89.43088,Elementary
+191,41,340867000150,Linwood,8221,106.0,Elementary,89.43088,Elementary
+192,42,341698000244,Warren,7059,106.0,Elementary,89.43088,Elementary
+193,43,340381006085,Demarest,7627,106.0,Elementary,89.43088,Elementary
+194,44,340723005232,Hillsborough,8844,106.0,Elementary,89.43088,Elementary
+195,45,341050002982,Monroe Township,8831,106.0,Elementary,89.43088,Elementary
+196,46,341521003614,Kendall Park,8824,106.0,Elementary,89.43088,Elementary
+197,47,340073103022,Roebling,8554,106.0,Elementary,89.43088,Elementary
+198,48,341782000914,Township Of Washington,7676,106.0,Elementary,89.43088,Elementary
+199,49,340228005168,Bridgewater,8807,106.0,Elementary,89.43088,Elementary
+200,0,341557004106,Spring Lake,7762,142.0,Elementary,86.89605,Elementary
+201,1,340183002002,Bloomfield,7003,142.0,Elementary,86.89605,Elementary
+202,2,340975003972,Aberdeen,7747,142.0,Elementary,86.89605,Elementary
+203,3,340723005226,Hillsborough,8844,142.0,Elementary,86.89605,Elementary
+204,4,340228005170,Bridgewater,8807,142.0,Elementary,86.89605,Elementary
+205,5,340525004236,Florham Park,7932,142.0,Elementary,86.89605,Elementary
+206,6,341371003032,Three Bridges,8887,142.0,Elementary,86.89605,Elementary
+207,7,340001500259,Teaneck,7666,142.0,Elementary,86.89605,Elementary
+208,8,340990004314,Mendham,7945,142.0,Elementary,86.89605,Elementary
+209,9,341062000618,Montvale,7645,142.0,Elementary,86.89605,Elementary
+210,10,341536003636,South Plainfield,7080,142.0,Elementary,86.89605,Elementary
+211,11,340165006021,Basking Ridge,7920,142.0,Elementary,86.89605,Elementary
+212,12,341617000545,Califon,7830,142.0,Elementary,86.89605,Elementary
+213,13,340726000528,Hillsdale,7642,142.0,Elementary,86.89605,Elementary
+214,14,341467005692,Scotch Plains,7076,142.0,Elementary,86.89605,Elementary
+215,15,341011003998,Middletown,7748,142.0,Elementary,86.89605,Elementary
+216,16,341761002492,West Orange,7052,142.0,Elementary,86.89605,Elementary
+217,17,340753003142,Hopewell,8525,142.0,Elementary,86.89605,Elementary
+218,18,341563005704,Springfield,7081,142.0,Elementary,86.89605,Elementary
+219,19,341065004334,Towaco,7082,142.0,Elementary,86.89605,Elementary
+220,20,341665001760,Marmora,8223,142.0,Elementary,86.89605,Elementary
+221,21,341761000182,West Orange,7052,142.0,Elementary,86.89605,Elementary
+222,22,340387004202,Denville,7834,142.0,Elementary,86.89605,Elementary
+223,23,341686000890,Waldwick,7463,142.0,Elementary,86.89605,Elementary
+224,24,341242000400,Paramus,7652,142.0,Elementary,86.89605,Elementary
+225,25,341590005716,Summit,7901,142.0,Elementary,86.89605,Elementary
+226,26,340723005234,Hillsborough,8844,142.0,Elementary,86.89605,Elementary
+227,27,341242000696,Paramus,7652,142.0,Elementary,86.89605,Elementary
+228,28,340693000514,Hasbrouck Heights,7604,142.0,Elementary,86.89605,Elementary
+229,29,341248000401,Lake Hiawatha,7034,142.0,Elementary,86.89605,Elementary
+230,30,340669004256,Morris Plains,7950,142.0,Elementary,86.89605,Elementary
+231,31,340933000492,Mahwah,7430,142.0,Elementary,86.89605,Elementary
+232,32,340450003348,Edison,8817,142.0,Elementary,86.89605,Elementary
+233,33,341836000946,Wyckoff,7481,142.0,Elementary,86.89605,Elementary
+234,34,341305000042,Piscataway,8854,142.0,Elementary,86.89605,Elementary
+235,35,340002600292,Newark,7104,142.0,Elementary,86.89605,Elementary
+236,36,340411003306,E Brunswick,8816,142.0,Elementary,86.89605,Elementary
+237,37,341560004108,Spring Lake,7762,142.0,Elementary,86.89605,Elementary
+238,38,340633001530,Haddon Heights,8035,142.0,Elementary,86.89605,Elementary
+239,39,340939003936,Manalapan,7726,142.0,Elementary,86.89605,Elementary
+240,40,341128000626,New Milford,7646,142.0,Elementary,86.89605,Elementary
+241,41,340135001974,Belleville,7109,142.0,Elementary,86.89605,Elementary
+242,42,341056002184,Montclair,7042,142.0,Elementary,86.89605,Elementary
+243,43,340987006113,Medford,8055,142.0,Elementary,86.89605,Elementary
+244,44,340735002760,Hoboken,7030,142.0,Elementary,86.89605,Elementary
+245,45,341464003588,Parlin,8859,142.0,Elementary,86.89605,Elementary
+246,46,341395000800,River Vale,7675,142.0,Elementary,86.89605,Elementary
+247,47,341497004102,Shrewsbury,7702,142.0,Elementary,86.89605,Elementary
+248,48,340228005186,Bridgewater,8807,142.0,Elementary,86.89605,Elementary
+249,49,340885005975,Lodi,7644,142.0,Elementary,86.89605,Elementary
+250,0,341776005784,Westfield,7090,136.0,Elementary,87.30976,Elementary
+251,1,340408002980,Ringoes,8551,136.0,Elementary,87.30976,Elementary
+252,2,341776005780,Westfield,7090,136.0,Elementary,87.30976,Elementary
+253,3,340306004196,Chester,7930,136.0,Elementary,87.30976,Elementary
+254,4,340612005218,Green Brook,8812,136.0,Elementary,87.30976,Elementary
+255,5,341059000398,Skillman,8558,136.0,Elementary,87.30976,Elementary
+256,6,341290004482,Pequannock,7440,136.0,Elementary,87.30976,Elementary
+257,7,341341006034,Princeton,8540,136.0,Elementary,87.30976,Elementary
+258,8,340531000450,Fort Lee,7024,136.0,Elementary,87.30976,Elementary
+259,9,340150000270,Bergenfield,7621,136.0,Elementary,87.30976,Elementary
+260,10,341188002384,Nutley,7110,136.0,Elementary,87.30976,Elementary
+261,11,340519002984,Flemington,8822,136.0,Elementary,87.30976,Elementary
+262,12,340183001988,Bloomfield,7003,136.0,Elementary,87.30976,Elementary
+263,13,341191000668,Oakland,7436,136.0,Elementary,87.30976,Elementary
+264,14,341467005686,Scotch Plains,7076,136.0,Elementary,87.30976,Elementary
+265,15,341689004134,Wall,7719,136.0,Elementary,87.30976,Elementary
+266,16,340537000462,Franklin Lakes,7417,136.0,Elementary,87.30976,Elementary
+267,17,340951000704,Columbus,8022,136.0,Elementary,87.30976,Elementary
+268,18,341305003576,Piscataway,8854,136.0,Elementary,87.30976,Elementary
+269,19,341710003252,Robbinsville,8691,136.0,Elementary,87.30976,Elementary
+270,20,340609005350,Greendell,7839,136.0,Elementary,87.30976,Elementary
+271,21,341683006061,Voorhees,8043,136.0,Elementary,87.30976,Elementary
+272,22,341404001238,Riverton,8077,136.0,Elementary,87.30976,Elementary
+273,23,341836000940,Wyckoff,7481,136.0,Elementary,87.30976,Elementary
+274,24,340630005820,Hackettstown,7840,136.0,Elementary,87.30976,Elementary
+275,25,341242000700,Paramus,7652,136.0,Elementary,87.30976,Elementary
+276,26,340003600309,Jersey City,7305,136.0,Elementary,87.30976,Elementary
+277,27,340513003782,Farmingdale,7727,136.0,Elementary,87.30976,Elementary
+278,28,340315005454,Clark,7066,136.0,Elementary,87.30976,Elementary
+279,29,341098004412,Flanders,7836,136.0,Elementary,87.30976,Elementary
+280,30,341248004442,Lake Hiawatha,7034,136.0,Elementary,87.30976,Elementary
+281,31,341011003996,Lincroft,7738,136.0,Elementary,87.30976,Elementary
+282,32,340888002582,Logan Township,8085,136.0,Elementary,87.30976,Elementary
+283,33,340972003954,Morganville,7751,136.0,Elementary,87.30976,Elementary
+284,34,341266004466,Millington,7946,136.0,Elementary,87.30976,Elementary
+285,35,341098004406,Flanders,7836,136.0,Elementary,87.30976,Elementary
+286,36,340639001562,Haddonfield,8033,136.0,Elementary,87.30976,Elementary
+287,37,341461005392,Layton,7851,136.0,Elementary,87.30976,Elementary
+288,38,340345003762,Colts Neck,7722,136.0,Elementary,87.30976,Elementary
+289,39,341077004358,Morris Plains,7950,136.0,Elementary,87.30976,Middle
+290,40,341689004142,Sea Girt,8750,136.0,Elementary,87.30976,Elementary
+291,41,341770006077,Plainsboro,8536,136.0,Elementary,87.30976,Elementary
+292,42,340972003948,Marlboro,7746,136.0,Elementary,87.30976,Elementary
+293,43,341674002450,Verona,7044,136.0,Elementary,87.30976,Elementary
+294,44,341011003990,Red Bank,7701,136.0,Elementary,87.30976,Elementary
+295,45,341713004546,Long Valley,7853,136.0,Elementary,87.30976,Elementary
+296,46,340192000290,Bogota,7603,136.0,Elementary,87.30976,Elementary
+297,47,340519000145,Ringoes,8551,136.0,Elementary,87.30976,Elementary
+298,48,341413004514,Wharton,7885,136.0,Elementary,87.30976,Elementary
+299,49,340285002036,Cedar Grove,7009,136.0,Elementary,87.30976,Elementary
+300,0,340414000007,Mickleton,8056,311.0,Elementary,77.46261,Elementary
+301,1,341566001244,Jobstown,8041,311.0,Elementary,77.46261,Elementary
+302,2,340002900297,Hoboken,7030,311.0,Elementary,77.46261,Elementary
+303,3,340004200322,Hamilton,8619,311.0,Elementary,77.46261,Elementary
+304,4,340633001536,Haddon Heights,8035,311.0,Elementary,77.46261,Elementary
+305,5,341761002490,West Orange,7052,311.0,Elementary,77.46261,Elementary
+306,6,340357005462,Cranford,7016,311.0,Elementary,77.46261,Middle
+307,7,341143000640,North Arlington,7031,311.0,Elementary,77.46261,Elementary
+308,8,341533002428,Maplewood,7040,311.0,Elementary,77.46261,Elementary
+309,9,341761002482,West Orange,7052,311.0,Elementary,77.46261,Elementary
+310,10,340726000524,Hillsdale,7642,311.0,Elementary,77.46261,Elementary
+311,11,341011004004,Middletown,7748,311.0,Elementary,77.46261,Elementary
+312,12,341011004008,Red Bank,7701,311.0,Elementary,77.46261,Elementary
+313,13,340450003350,Edison,8817,311.0,Elementary,77.46261,Elementary
+314,14,340498000426,Fair Lawn,7410,311.0,Elementary,77.46261,Elementary
+315,15,341683001678,Voorhees,8043,311.0,Elementary,77.46261,Elementary
+316,16,340927003514,Laurence Harbor,8879,311.0,Elementary,77.46261,Elementary
+317,17,341467005688,Scotch Plains,7076,311.0,Elementary,77.46261,Elementary
+318,18,340357005460,Cranford,7016,311.0,Elementary,77.46261,Elementary
+319,19,341341003190,Princeton,8540,311.0,Elementary,77.46261,Elementary
+320,20,340690002578,Mullica Hill,8062,311.0,Elementary,77.46261,Elementary
+321,21,340258002016,Caldwell,7006,311.0,Elementary,77.46261,Elementary
+322,22,340924004304,Madison,7940,311.0,Elementary,77.46261,Elementary
+323,23,341521003616,Kendall Park,8824,311.0,Elementary,77.46261,Elementary
+324,24,341575005406,Stillwater,7875,311.0,Elementary,77.46261,Elementary
+325,25,340411003310,E Brunswick,8816,311.0,Elementary,77.46261,Elementary
+326,26,341341000067,Princeton,8540,311.0,Elementary,77.46261,Elementary
+327,27,341533002444,Maplewood,7040,311.0,Elementary,77.46261,Elementary
+328,28,341434004530,Succasunna,7876,311.0,Elementary,77.46261,Elementary
+329,29,340150000274,Bergenfield,7621,311.0,Elementary,77.46261,Elementary
+330,30,340327000312,Cliffside Park,7010,311.0,Elementary,77.46261,Elementary
+331,31,341248004438,Parsippany,7054,311.0,Elementary,77.46261,Elementary
+332,32,340564003822,Freehold,7728,311.0,Elementary,77.46261,Elementary
+333,33,340411005994,East Brunswick,8816,311.0,Elementary,77.46261,Elementary
+334,34,341782000918,Township Of Washington,7676,311.0,Elementary,77.46261,Elementary
+335,35,340987000540,Medford,8055,311.0,Elementary,77.46261,Elementary
+336,36,341749006107,West Long Branch,7764,311.0,Elementary,77.46261,Elementary
+337,37,340330004778,Clifton,7014,311.0,Elementary,77.46261,Elementary
+338,38,340258002022,West Caldwell,7006,311.0,Elementary,77.46261,Elementary
+339,39,341659005110,Monroeville,8343,311.0,Elementary,77.46261,Elementary
+340,40,341650005760,Union,7083,311.0,Elementary,77.46261,Elementary
+341,41,340987001126,Medford,8055,311.0,Elementary,77.46261,Elementary
+342,42,340300001428,Cherry Hill,8003,311.0,Elementary,77.46261,Elementary
+343,43,341683001680,Voorhees,8043,311.0,Elementary,77.46261,Elementary
+344,44,340165005132,Liberty Corner,7938,311.0,Elementary,77.46261,Elementary
+345,45,340531000448,Fort Lee,7024,311.0,Elementary,77.46261,Elementary
+346,46,340783002848,Jersey City,7306,311.0,Elementary,77.46261,Elementary
+347,47,341242000706,Paramus,7652,311.0,Elementary,77.46261,Elementary
+348,48,341395000802,River Vale,7675,311.0,Elementary,77.46261,Elementary
+349,49,340114003748,Avon by the Sea,7717,311.0,Elementary,77.46261,Elementary
+350,0,340192000286,Bogota,7603,374.0,Elementary,74.62688,Elementary
+351,1,340000800109,Great Meadows,7838,374.0,Elementary,74.62688,Elementary
+352,2,341191000666,Oakland,7436,374.0,Elementary,74.62688,Elementary
+353,3,341071001138,Moorestown,8057,374.0,Elementary,74.62688,Elementary
+354,4,340774000725,Jackson,8527,374.0,Elementary,74.62688,Elementary
+355,5,341836000948,Wyckoff,7481,374.0,Elementary,74.62688,Elementary
+356,6,340852000538,Leonia,7605,374.0,Elementary,74.62688,Elementary
+357,7,340756003870,Howell,7731,374.0,Elementary,74.62688,Elementary
+358,8,341086004394,Mount Arlington,7856,374.0,Elementary,74.62688,Middle
+359,9,341248004458,Parsippany,7054,374.0,Elementary,74.62688,Elementary
+360,10,340831004648,Lavallette,8735,374.0,Elementary,74.62688,Elementary
+361,11,341521003612,Kendall Park,8824,374.0,Elementary,74.62688,Elementary
+362,12,340417004224,East Hanover,7936,374.0,Elementary,74.62688,Elementary
+363,13,341323004688,New Egypt,8533,374.0,Elementary,74.62688,Elementary
+364,14,341728004982,Wayne,7470,374.0,Elementary,74.62688,Elementary
+365,15,340258002020,West Caldwell,7006,374.0,Elementary,74.62688,Elementary
+366,16,340132005120,Bedminster,7921,374.0,Elementary,74.62688,Elementary
+367,17,341521000043,Dayton,8810,374.0,Elementary,74.62688,Elementary
+368,18,341563005702,Springfield,7081,374.0,Elementary,74.62688,Elementary
+369,19,341650005758,Union,7083,374.0,Elementary,74.62688,Elementary
+370,20,341533002432,Maplewood,7040,374.0,Elementary,74.62688,Elementary
+371,21,340858004294,Lincoln Park,7035,374.0,Elementary,74.62688,Elementary
+372,22,341776005778,Westfield,7090,374.0,Elementary,74.62688,Elementary
+373,23,340756003862,Farmingdale,7727,374.0,Elementary,74.62688,Elementary
+374,24,340564003818,Freehold,7728,374.0,Elementary,74.62688,Elementary
+375,25,341050006096,Monroe Township,8831,374.0,Elementary,74.62688,Elementary
+376,26,341536003638,South Plainfield,7080,374.0,Elementary,74.62688,Elementary
+377,27,340150000280,Bergenfield,7621,374.0,Elementary,74.62688,Elementary
+378,28,340669004258,Whippany,7981,374.0,Elementary,74.62688,Elementary
+379,29,340960002586,Mantua,8051,374.0,Elementary,74.62688,Elementary
+380,30,340399000348,Dumont,7628,374.0,Elementary,74.62688,Elementary
+381,31,340384001716,Cape May Court House,8210,374.0,Elementary,74.62688,Elementary
+382,32,341185000660,Norwood,7648,374.0,Elementary,74.62688,Elementary
+383,33,341686000892,Waldwick,7463,374.0,Elementary,74.62688,Elementary
+384,34,341248004446,Parsippany,7054,374.0,Elementary,74.62688,Elementary
+385,35,340987001128,Medford,8055,374.0,Elementary,74.62688,Elementary
+386,36,340258002014,West Caldwell,7006,374.0,Elementary,74.62688,Elementary
+387,37,340924004302,Madison,7940,374.0,Elementary,74.62688,Elementary
+388,38,341689004144,Wall,7719,374.0,Elementary,74.62688,Elementary
+389,39,341728000408,Wayne,7470,374.0,Elementary,74.62688,Elementary
+390,40,340663005354,Newton,7860,374.0,Elementary,74.62688,Elementary
+391,41,340693000518,Hasbrouck Heights,7604,374.0,Elementary,74.62688,Elementary
+392,42,340576000478,Garfield,7026,374.0,Elementary,74.62688,Elementary
+393,43,341047005938,Williamstown,8094,374.0,Elementary,74.62688,Elementary
+394,44,340861005582,Linden,7036,374.0,Elementary,74.62688,Elementary
+395,45,341536003640,South Plainfield,7080,374.0,Elementary,74.62688,Elementary
+396,46,340531000446,Fort Lee,7024,374.0,Elementary,74.62688,Elementary
+397,47,341188002392,Nutley,7110,374.0,Elementary,74.62688,Elementary
+398,48,341182000656,Northvale,7647,374.0,Elementary,74.62688,Elementary
+399,49,341014000612,Midland Park,7432,374.0,Elementary,74.62688,Elementary
+400,0,341188002390,Nutley,7110,386.0,Elementary,73.95821,Elementary
+401,1,341023000159,Clarksburg,8510,386.0,Elementary,73.95821,Elementary
+402,2,341365004496,Randolph,7869,386.0,Elementary,73.95821,Elementary
+403,3,341128000628,New Milford,7646,386.0,Elementary,73.95821,Elementary
+404,4,340534005336,Branchville,7826,386.0,Elementary,73.95821,Elementary
+405,5,341467005682,Scotch Plains,7076,386.0,Elementary,73.95821,Elementary
+406,6,340927003504,Old Bridge,8857,386.0,Elementary,73.95821,Elementary
+407,7,341623004736,Toms River,8753,386.0,Elementary,73.95821,Elementary
+408,8,340783003395,Jersey City,7306,386.0,Elementary,73.95821,Elementary
+409,9,341081000337,Morristown,7960,386.0,Elementary,73.95821,Elementary
+410,10,340102003746,Atlantic Highlands,7716,386.0,Elementary,73.95821,Elementary
+411,11,341329004696,Point Pleasant Beach,8742,386.0,Elementary,73.95821,Elementary
+412,12,341644000805,Hampton,8827,386.0,Elementary,73.95821,Elementary
+413,13,340336002970,Lebanon,8833,386.0,Elementary,73.95821,Elementary
+414,14,341707002656,Turnersville,8012,386.0,Elementary,73.95821,Elementary
+415,15,340885000554,Lodi,7644,386.0,Elementary,73.95821,Elementary
+416,16,340123004568,Bay Head,8742,386.0,Elementary,73.95821,Elementary
+417,17,340828001566,Laurel Springs,8021,386.0,Elementary,73.95821,Elementary
+418,18,341692000900,Wallington,7057,386.0,Elementary,73.95821,Elementary
+419,19,341386004948,Ringwood,7456,386.0,Elementary,73.95821,Elementary
+420,20,341095000423,Mount Laurel,8054,386.0,Elementary,73.95821,Elementary
+421,21,341056002168,Upper Montclair,7042,386.0,Elementary,73.95821,Elementary
+422,22,340003500307,Jersey City,7304,386.0,Elementary,73.95821,Elementary
+423,23,340975003970,Matawan,7747,386.0,Elementary,73.95821,Elementary
+424,24,340300001444,Cherry Hill,8003,386.0,Elementary,73.95821,Elementary
+425,25,340927003510,Keyport,7735,386.0,Elementary,73.95821,Elementary
+426,26,340519002988,Flemington,8822,386.0,Elementary,73.95821,Elementary
+427,27,340327000308,Cliffside Park,7010,386.0,Elementary,73.95821,Elementary
+428,28,341695004960,Wanaque,7465,386.0,Elementary,73.95821,Elementary
+429,29,341242000702,Paramus,7652,386.0,Elementary,73.95821,Elementary
+430,30,340330004780,Clifton,7012,386.0,Elementary,73.95821,Elementary
+431,31,340126002710,Bayonne,7002,386.0,Elementary,73.95821,Elementary
+432,32,341308002618,Pitman,8071,386.0,Elementary,73.95821,Elementary
+433,33,341533002442,South Orange,7079,386.0,Elementary,73.95821,Elementary
+434,34,341056002176,Montclair,7042,386.0,Elementary,73.95821,Elementary
+435,35,340756003868,Howell,7731,386.0,Elementary,73.95821,Elementary
+436,36,341197001750,Ocean City,8226,386.0,Elementary,73.95821,Elementary
+437,37,340216000199,Neshanic Station,8853,386.0,Elementary,73.95821,Elementary
+438,38,340327000306,Cliffside Park,7010,386.0,Elementary,73.95821,Elementary
+439,39,340342001484,Collingswood,8108,386.0,Elementary,73.95821,Elementary
+440,40,340636001550,Haddonfield,8033,386.0,Elementary,73.95821,Elementary
+441,41,341551003243,Sparta,7871,386.0,Elementary,73.95821,Elementary
+442,42,341248004440,Boonton,7005,386.0,Elementary,73.95821,Elementary
+443,43,341056005984,Montclair,7042,386.0,Elementary,73.95821,Elementary
+444,44,340255000728,Stanhope,7874,386.0,Elementary,73.95821,Elementary
+445,45,340999003394,Metuchen,8840,386.0,Elementary,73.95821,Elementary
+446,46,340723005230,Hillsborough,8844,386.0,Elementary,73.95821,Elementary
+447,47,340927003516,Old Bridge,8857,386.0,Elementary,73.95821,Elementary
+448,48,341068000620,Moonachie,7074,386.0,Elementary,73.95821,Elementary
+449,49,341248004454,Parsippany,7054,386.0,Elementary,73.95821,Elementary
+450,0,341098004410,Budd Lake,7828,220.0,Elementary,82.29576,Elementary
+451,1,341056002170,Montclair,7042,220.0,Elementary,82.29576,Elementary
+452,2,340711003002,High Bridge,8829,220.0,Elementary,82.29576,Elementary
+453,3,340195004156,Boonton,7005,220.0,Elementary,82.29576,Middle
+454,4,340885000552,Lodi,7644,220.0,Elementary,82.29576,Elementary
+455,5,341431005672,Roselle Park,7204,220.0,Elementary,82.29576,Elementary
+456,6,341734002658,Wenonah,8090,220.0,Elementary,82.29576,Elementary
+457,7,340840003162,Lawrenceville,8648,220.0,Elementary,82.29576,Elementary
+458,8,340000900177,Bernardsville,7924,220.0,Elementary,82.29576,Elementary
+459,9,340309001016,Chesterfield,8515,220.0,Elementary,82.29576,Elementary
+460,10,340183001994,Bloomfield,7003,220.0,Elementary,82.29576,Elementary
+461,11,340927000195,Old Bridge,8857,220.0,Elementary,82.29576,Elementary
+462,12,341464003584,Parlin,8859,220.0,Elementary,82.29576,Elementary
+463,13,341089001600,Mount Ephraim,8059,220.0,Elementary,82.29576,Elementary
+464,14,340203005927,Bordentown,8505,220.0,Elementary,82.29576,Elementary
+465,15,340411003312,E Brunswick,8816,220.0,Elementary,82.29576,Elementary
+466,16,341398004498,Riverdale,7457,220.0,Elementary,82.29576,Elementary
+467,17,340342001480,Collingswood,8108,220.0,Elementary,82.29576,Elementary
+468,18,340300001440,Cherry Hill,8003,220.0,Elementary,82.29576,Elementary
+469,19,341713004542,Long Valley,7853,220.0,Elementary,82.29576,Elementary
+470,20,341035004326,Mine Hill,7803,220.0,Elementary,82.29576,Elementary
+471,21,341812003698,Iselin,8830,220.0,Elementary,82.29576,Elementary
+472,22,340567005804,Johnsonburg,7846,220.0,Elementary,82.29576,Elementary
+473,23,340576000387,Garfield,7026,220.0,Elementary,82.29576,Elementary
+474,24,341095001156,Mount Laurel,8054,220.0,Elementary,82.29576,Elementary
+475,25,340315005450,Clark,7066,220.0,Elementary,82.29576,Elementary
+476,26,340135001972,Belleville,7109,220.0,Elementary,82.29576,Elementary
+477,27,340810004630,Lanoka Harbor,8734,220.0,Elementary,82.29576,Elementary
+478,28,341464003598,Sayreville,8872,220.0,Elementary,82.29576,Elementary
+479,29,341446000812,Rutherford,7070,220.0,Elementary,82.29576,Elementary
+480,30,341656004126,Allentown,8501,220.0,Elementary,82.29576,Elementary
+481,31,340699004814,Hawthorne,7507,220.0,Elementary,82.29576,Elementary
+482,32,341620004114,Tinton Falls,7724,220.0,Elementary,82.29576,Elementary
+483,33,341047002596,Williamstown,8094,220.0,Elementary,82.29576,Elementary
+484,34,340466000372,Elmwood Park,7407,220.0,Elementary,82.29576,Elementary
+485,35,340942003942,Manasquan,8736,220.0,Elementary,82.29576,Elementary
+486,36,341608000856,Teaneck,7666,220.0,Elementary,82.29576,Elementary
+487,37,340300001462,Cherry Hill,8003,220.0,Elementary,82.29576,Elementary
+488,38,341833005116,Woodstown,8098,220.0,Elementary,82.29576,Elementary
+489,39,341365004492,Randolph,7869,220.0,Elementary,82.29576,Elementary
+490,40,341098004404,Budd Lake,7828,220.0,Elementary,82.29576,Elementary
+491,41,341056002182,Upper Montclair,7042,220.0,Elementary,82.29576,Elementary
+492,42,340171005895,Asbury,8802,220.0,Elementary,82.29576,Elementary
+493,43,340441003774,Eatontown,7724,220.0,Elementary,82.29576,Elementary
+494,44,340411003300,E Brunswick,8816,220.0,Elementary,82.29576,Elementary
+495,45,340399000346,Dumont,7628,220.0,Elementary,82.29576,Elementary
+496,46,341095001166,Mount Laurel,8054,220.0,Elementary,82.29576,Elementary
+497,47,341335004936,Pompton Lakes,7442,220.0,Elementary,82.29576,Elementary
+498,48,341413004510,Dover,7801,220.0,Elementary,82.29576,Elementary
+499,49,341191000664,Oakland,7436,220.0,Elementary,82.29576,Elementary
+500,0,341572005404,Stanhope,7874,554.0,Elementary,62.21891,Elementary
+501,1,340546002990,Quakertown,8868,554.0,Elementary,62.21891,Elementary
+502,2,340399000344,Dumont,7628,554.0,Elementary,62.21891,Elementary
+503,3,340948005036,Salem,8079,554.0,Elementary,62.21891,Elementary
+504,4,340654003114,Hamilton,8690,554.0,Elementary,62.21891,Elementary
+505,5,340927003520,Old Bridge,8857,554.0,Elementary,62.21891,Elementary
+506,6,340654003130,Hamilton,8620,554.0,Elementary,62.21891,Elementary
+507,7,341752005004,West Milford,7480,554.0,Elementary,62.21891,Elementary
+508,8,341221005042,Pedricktown,8067,554.0,Elementary,62.21891,Elementary
+509,9,340252004168,Butler,7405,554.0,Elementary,62.21891,Elementary
+510,10,340222004596,Brick,8724,554.0,Elementary,62.21891,Elementary
+511,11,340570002992,Frenchtown,8825,554.0,Elementary,62.21891,Elementary
+512,12,340603001518,Glendora,8029,554.0,Elementary,62.21891,Elementary
+513,13,340203005926,Bordentown,8505,554.0,Elementary,62.21891,Elementary
+514,14,341524000836,South Hackensack,7606,554.0,Elementary,62.21891,Elementary
+515,15,340330004792,Clifton,7013,554.0,Elementary,62.21891,Elementary
+516,16,341413004518,Rockaway,7866,554.0,Elementary,62.21891,Elementary
+517,17,340429000474,East Rutherford,7073,554.0,Elementary,62.21891,Elementary
+518,18,341413004516,Dover,7801,554.0,Elementary,62.21891,Elementary
+519,19,341740001762,West Cape May,8204,554.0,Elementary,62.21891,Elementary
+520,20,340813005374,Lafayette,7848,554.0,Elementary,62.21891,Elementary
+521,21,340621000471,Stewartsville,8886,554.0,Elementary,62.21891,Elementary
+522,22,341752005006,West Milford,7480,554.0,Elementary,62.21891,Elementary
+523,23,341689004136,Wall,7719,554.0,Elementary,62.21891,Elementary
+524,24,341728004978,Wayne,7470,554.0,Elementary,62.21891,Elementary
+525,25,340300001458,Cherry Hill,8034,554.0,Elementary,62.21891,Elementary
+526,26,340001400258,Englewood,7631,554.0,Elementary,62.21891,Elementary
+527,27,341029003434,Milltown,8850,554.0,Elementary,62.21891,Elementary
+528,28,340945000031,Manchester,8733,554.0,Elementary,62.21891,Elementary
+529,29,341464003586,Parlin,8859,554.0,Elementary,62.21891,Elementary
+530,30,341728004992,Wayne,7470,554.0,Elementary,62.21891,Elementary
+531,31,341329004698,Point Pleasant Beach,8742,554.0,Elementary,62.21891,Elementary
+532,32,340333002964,Clinton,8809,554.0,Elementary,62.21891,Elementary
+533,33,341650000247,Union,7083,554.0,Elementary,62.21891,Elementary
+534,34,340519006086,Flemington,8822,554.0,Elementary,62.21891,Elementary
+535,35,341341003192,Princeton,8540,554.0,Elementary,62.21891,Elementary
+536,36,340489000056,Marlton,8053,554.0,Elementary,62.21891,Elementary
+537,37,340564003820,Freehold,7728,554.0,Elementary,62.21891,Elementary
+538,38,340669004250,Whippany,7981,554.0,Elementary,62.21891,Elementary
+539,39,341308002620,Pitman,8071,554.0,Elementary,62.21891,Elementary
+540,40,341269005942,Paterson,7505,554.0,Elementary,62.21891,Elementary
+541,41,341017003020,Milford,8848,554.0,Elementary,62.21891,Elementary
+542,42,341536003644,South Plainfield,7080,554.0,Elementary,62.21891,Elementary
+543,43,341752005012,West Milford,7480,554.0,Elementary,62.21891,Elementary
+544,44,341752004998,West Milford,7480,554.0,Elementary,62.21891,Elementary
+545,45,341434004532,Succasunna,7876,554.0,Elementary,62.21891,Elementary
+546,46,340885000562,Lodi,7644,554.0,Elementary,62.21891,Elementary
+547,47,340555005344,Newton,7860,554.0,Elementary,62.21891,Elementary
+548,48,340327000310,Cliffside Park,7010,554.0,Elementary,62.21891,Elementary
+549,49,340330004788,Clifton,7012,554.0,Elementary,62.21891,Elementary
+550,0,341005003406,Middlesex,8846,636.0,Elementary,55.2555,Elementary
+551,1,341812003718,Colonia,7067,636.0,Elementary,55.2555,Elementary
+552,2,340840006069,Lawrenceville,8648,636.0,Elementary,55.2555,Elementary
+553,3,341728004984,Wayne,7470,636.0,Elementary,55.2555,Elementary
+554,4,340783002810,Jersey City,7307,636.0,Elementary,55.2555,Elementary
+555,5,340783002812,Jersey City,7307,636.0,Elementary,55.2555,Elementary
+556,6,340642001088,Hainesport,8036,636.0,Elementary,55.2555,Elementary
+557,7,340927003512,Parlin,8859,636.0,Elementary,55.2555,Elementary
+558,8,341134002330,Newark,7105,636.0,Elementary,55.2555,Elementary
+559,9,340105001302,Audubon,8106,636.0,Elementary,55.2555,Elementary
+560,10,341695004958,Haskell,7420,636.0,Elementary,55.2555,Elementary
+561,11,340552005802,Washington,7882,636.0,Elementary,55.2555,Elementary
+562,12,340459005522,Elizabeth,7208,636.0,Elementary,55.2555,Elementary
+563,13,340564003812,Freehold,7728,636.0,Elementary,55.2555,Elementary
+564,14,341011003986,Belford,7718,636.0,Elementary,55.2555,Elementary
+565,15,341155004832,North Haledon,7508,636.0,Elementary,55.2555,Elementary
+566,16,341308002626,Pitman,8071,636.0,Elementary,55.2555,Elementary
+567,17,341752005010,Hewitt,7421,636.0,Elementary,55.2555,Elementary
+568,18,340747005826,Hope,7844,636.0,Elementary,55.2555,Elementary
+569,19,340807005832,Delaware,7833,636.0,Elementary,55.2555,Elementary
+570,20,341674002454,Verona,7044,636.0,Elementary,55.2555,Elementary
+571,21,341269006099,Paterson,7514,636.0,Elementary,55.2555,Elementary
+572,22,341638002916,Union City,7087,636.0,Elementary,55.2555,Elementary
+573,23,340471000382,Emerson,7630,636.0,Elementary,55.2555,Elementary
+574,24,341143000642,North Arlington,7031,636.0,Elementary,55.2555,Elementary
+575,25,340774004622,Jackson,8527,636.0,Elementary,55.2555,Elementary
+576,26,340774004620,Jackson,8527,636.0,Elementary,55.2555,Elementary
+577,27,340756003860,Howell,7731,636.0,Elementary,55.2555,Elementary
+578,28,341081004386,Morristown,7960,636.0,Elementary,55.2555,Elementary
+579,29,340393004216,Dover,7801,636.0,Elementary,55.2555,Elementary
+580,30,341413004520,Rockaway,7866,636.0,Elementary,55.2555,Elementary
+581,31,341485002902,Secaucus,7094,636.0,Elementary,55.2555,Elementary
+582,32,340654003118,Hamilton,8619,636.0,Elementary,55.2555,Elementary
+583,33,341134002274,Newark,7107,636.0,Elementary,55.2555,Elementary
+584,34,341527002628,Harrisonville,8039,636.0,Elementary,55.2555,Elementary
+585,35,340636001544,Oaklyn,8107,636.0,Elementary,55.2555,Elementary
+586,36,341305003568,Piscataway,8854,636.0,Elementary,55.2555,Elementary
+587,37,341335004934,Pompton Lakes,7442,636.0,Elementary,55.2555,Elementary
+588,38,341377000750,Ridgefield,7657,636.0,Elementary,55.2555,Other
+589,39,341812003710,Woodbridge,7095,636.0,Elementary,55.2555,Elementary
+590,40,340774004618,Jackson,8527,636.0,Elementary,55.2555,Elementary
+591,41,341365004490,Randolph,7869,636.0,Elementary,55.2555,Elementary
+592,42,341293003417,Fords,8863,636.0,Elementary,55.2555,Elementary
+593,43,341485002904,Secaucus,7094,636.0,Elementary,55.2555,Elementary
+594,44,340450003346,Edison,8837,636.0,Elementary,55.2555,Elementary
+595,45,340603000428,Sicklerville,8081,636.0,Elementary,55.2555,Elementary
+596,46,340927003522,Old Bridge,8857,636.0,Elementary,55.2555,Elementary
+597,47,341728004986,Wayne,7470,636.0,Elementary,55.2555,Elementary
+598,48,341332004704,Point Pleasant Beach,8742,636.0,Elementary,55.2555,Elementary
+599,49,341095001160,Mount Laurel,8054,636.0,Elementary,55.2555,Elementary
+600,0,340450003364,Edison,8817,599.0,Elementary,58.486709999999995,Elementary
+601,1,340228005166,Bridgewater,8807,599.0,Elementary,58.486709999999995,Elementary
+602,2,340810006050,Lanoka Harbor,8734,599.0,Elementary,58.486709999999995,Elementary
+603,3,341650005752,Union,7083,599.0,Elementary,58.486709999999995,Elementary
+604,4,341134002244,Newark,7104,599.0,Elementary,58.486709999999995,Elementary
+605,5,340300001454,Cherry Hill,8034,599.0,Elementary,58.486709999999995,Elementary
+606,6,341368003834,Hazlet,7730,599.0,Elementary,58.486709999999995,Elementary
+607,7,341812003714,Colonia,7067,599.0,Elementary,58.486709999999995,Elementary
+608,8,340843003012,Lebanon,8833,599.0,Elementary,58.486709999999995,Elementary
+609,9,341647000461,Barnegat,8005,599.0,Elementary,58.486709999999995,Elementary
+610,10,340984001114,Medford Lakes,8055,599.0,Elementary,58.486709999999995,Middle
+611,11,340627000498,Hackensack,7601,599.0,Elementary,58.486709999999995,Elementary
+612,12,341269000353,Paterson,7501,599.0,Elementary,58.486709999999995,Elementary
+613,13,340636001542,Westmont,8108,599.0,Elementary,58.486709999999995,Elementary
+614,14,341707002646,Turnersville,8012,599.0,Elementary,58.486709999999995,Elementary
+615,15,340801003008,Frenchtown,8825,599.0,Elementary,58.486709999999995,Elementary
+616,16,340576000480,Garfield,7026,599.0,Elementary,58.486709999999995,Elementary
+617,17,340222000166,Brick,8723,599.0,Elementary,58.486709999999995,Elementary
+618,18,341707002650,Sewell,8080,599.0,Elementary,58.486709999999995,Elementary
+619,19,340927003498,Old Bridge,8857,599.0,Elementary,58.486709999999995,Elementary
+620,20,340432003058,Hightstown,8520,599.0,Elementary,58.486709999999995,Elementary
+621,21,341599002995,Woolwich Township,8085,599.0,Elementary,58.486709999999995,Elementary
+622,22,340282003276,Carteret,7008,599.0,Elementary,58.486709999999995,Elementary
+623,23,341674002452,Verona,7044,599.0,Elementary,58.486709999999995,Elementary
+624,24,340579005532,Garwood,7027,599.0,Elementary,58.486709999999995,Elementary
+625,25,340444000362,Edgewater,7020,599.0,Elementary,58.486709999999995,Elementary
+626,26,341095001158,Mount Laurel,8054,599.0,Elementary,58.486709999999995,Elementary
+627,27,340117001308,Haddonfield,8033,599.0,Elementary,58.486709999999995,Elementary
+628,28,341812003688,Iselin,8830,599.0,Elementary,58.486709999999995,Elementary
+629,29,340654003128,Hamilton,8690,599.0,Elementary,58.486709999999995,Elementary
+630,30,340330004770,Clifton,7013,599.0,Elementary,58.486709999999995,Elementary
+631,31,341569004718,Manahawkin,8050,599.0,Elementary,58.486709999999995,Elementary
+632,32,340005100339,Morristown,7960,599.0,Elementary,58.486709999999995,Elementary
+633,33,340564003810,Freehold,7728,599.0,Elementary,58.486709999999995,Elementary
+634,34,341269004910,Paterson,7502,599.0,Elementary,58.486709999999995,Elementary
+635,35,340222004598,Brick,8723,599.0,Elementary,58.486709999999995,Elementary
+636,36,341206004068,Ocean,7712,599.0,Elementary,58.486709999999995,Elementary
+637,37,340300001430,Cherry Hill,8034,599.0,Elementary,58.486709999999995,Elementary
+638,38,340300001452,Cherry Hill,8002,599.0,Elementary,58.486709999999995,Elementary
+639,39,341431005666,Roselle Park,7204,599.0,Elementary,58.486709999999995,Elementary
+640,40,341818002698,Woodbury Hts,8097,599.0,Elementary,58.486709999999995,Elementary
+641,41,341638002918,Union City,7087,599.0,Elementary,58.486709999999995,Elementary
+642,42,341716005892,Washington,7882,599.0,Elementary,58.486709999999995,Elementary
+643,43,340654003100,Hamilton,8690,599.0,Elementary,58.486709999999995,Elementary
+644,44,341081004368,Morristown,7960,599.0,Elementary,58.486709999999995,Elementary
+645,45,340630005818,Hackettstown,7840,599.0,Elementary,58.486709999999995,Elementary
+646,46,340654003120,Hamilton,8619,599.0,Elementary,58.486709999999995,Elementary
+647,47,340489001076,Marlton,8053,599.0,Elementary,58.486709999999995,Elementary
+648,48,340900005840,Phillipsburg,8865,599.0,Elementary,58.486709999999995,Elementary
+649,49,341380000756,Ridgefield Park,7660,599.0,Elementary,58.486709999999995,Elementary
+650,0,340270001704,Cape May,8204,570.0,Elementary,60.70975,Elementary
+651,1,340780004278,Oak Ridge,7438,570.0,Elementary,60.70975,Elementary
+652,2,340183002000,Bloomfield,7003,570.0,Elementary,60.70975,Elementary
+653,3,340222004588,Brick,8724,570.0,Elementary,60.70975,Elementary
+654,4,341554003662,Spotswood,8884,570.0,Elementary,60.70975,Elementary
+655,5,341812003690,Colonia,7067,570.0,Elementary,60.70975,Elementary
+656,6,340720003846,Highlands,7732,570.0,Elementary,60.70975,Elementary
+657,7,341449000830,Saddle Brook,7663,570.0,Elementary,60.70975,Elementary
+658,8,341011003992,New Monmouth,7748,570.0,Elementary,60.70975,Elementary
+659,9,340075903196,Jersey City,7302,570.0,Elementary,60.70975,Elementary
+660,10,341761002488,West Orange,7052,570.0,Elementary,60.70975,Elementary
+661,11,340312001028,Cinnaminson,8077,570.0,Elementary,60.70975,Elementary
+662,12,340738003004,Milford,8848,570.0,Elementary,60.70975,Elementary
+663,13,341743002666,Woodbury,8096,570.0,Elementary,60.70975,Elementary
+664,14,341143000638,North Arlington,7031,570.0,Elementary,60.70975,Elementary
+665,15,341728004976,Wayne,7470,570.0,Elementary,60.70975,Elementary
+666,16,340840003164,Lawrenceville,8648,570.0,Elementary,60.70975,Elementary
+667,17,340618002574,Gibbstown,8027,570.0,Elementary,60.70975,Elementary
+668,18,341081004384,Morristown,7960,570.0,Elementary,60.70975,Elementary
+669,19,340159001324,Berlin,8009,570.0,Elementary,60.70975,Elementary
+670,20,340603001520,Blackwood,8012,570.0,Elementary,60.70975,Elementary
+671,21,340783002822,Jersey City,7304,570.0,Elementary,60.70975,Elementary
+672,22,340996001594,Merchantville,8109,570.0,Elementary,60.70975,Elementary
+673,23,341812003712,Metuchen,8840,570.0,Elementary,60.70975,Elementary
+674,24,341431005668,Roselle Park,7204,570.0,Elementary,60.70975,Elementary
+675,25,341713000815,Long Valley,7853,570.0,Elementary,60.70975,Elementary
+676,26,340126002728,Bayonne,7002,570.0,Elementary,60.70975,Elementary
+677,27,341011004002,Middletown,7748,570.0,Elementary,60.70975,Elementary
+678,28,341521006007,Kendall Park,8824,570.0,Elementary,60.70975,Elementary
+679,29,341005003414,Middlesex,8846,570.0,Elementary,60.70975,Elementary
+680,30,340846003018,Califon,7830,570.0,Elementary,60.70975,Elementary
+681,31,341281001216,Fort Dix,8640,570.0,Elementary,60.70975,Elementary
+682,32,340885000564,Lodi,7644,570.0,Elementary,60.70975,Elementary
+683,33,340861005572,Linden,7036,570.0,Elementary,60.70975,Elementary
+684,34,341194001604,Oaklyn,8107,570.0,Elementary,60.70975,Elementary
+685,35,341188002382,Nutley,7110,570.0,Elementary,60.70975,Elementary
+686,36,340489006065,Marlton,8053,570.0,Elementary,60.70975,Elementary
+687,37,340126002730,Bayonne,7002,570.0,Elementary,60.70975,Elementary
+688,38,341806001698,Sicklerville,8081,570.0,Elementary,60.70975,Elementary
+689,39,341254003365,Passaic,7055,570.0,Elementary,60.70975,Middle
+690,40,341047002600,Williamstown,8094,570.0,Elementary,60.70975,Elementary
+691,41,340372002974,Sergeantsville,8557,570.0,Elementary,60.70975,Elementary
+692,42,340096000028,Atlantic City,8401,570.0,Elementary,60.70975,Elementary
+693,43,340459000245,Elizabeth,7202,570.0,Elementary,60.70975,Elementary
+694,44,340636001546,Haddonfield,8033,570.0,Elementary,60.70975,Elementary
+695,45,340699004816,Hawthorne,7506,570.0,Elementary,60.70975,Elementary
+696,46,341608000852,Teaneck,7666,570.0,Elementary,60.70975,Elementary
+697,47,340756006123,Freehold,7728,570.0,Elementary,60.70975,Elementary
+698,48,340498000418,Fair Lawn,7410,570.0,Elementary,60.70975,Elementary
+699,49,340636001548,Westmont,8108,570.0,Elementary,60.70975,Elementary
+700,0,341752005008,Oak Ridge,7438,802.0,Elementary,44.54215,Elementary
+701,1,340300001446,Cherry Hill,8034,802.0,Elementary,44.54215,Elementary
+702,2,340783002784,Jersey City,7302,802.0,Elementary,44.54215,Elementary
+703,3,341608000860,Teaneck,7666,802.0,Elementary,44.54215,Elementary
+704,4,340393004214,Dover,7801,802.0,Elementary,44.54215,Elementary
+705,5,340072703029,Jersey City,7306,802.0,Elementary,44.54215,Elementary
+706,6,341311005084,Pittsgrove,8318,802.0,Elementary,44.54215,Elementary
+707,7,340549005206,Somerset,8873,802.0,Elementary,44.54215,Elementary
+708,8,340078103335,Jersey City,7304,802.0,Elementary,44.54215,Elementary
+709,9,340186004756,Bloomingdale,7403,802.0,Elementary,44.54215,Elementary
+710,10,340603005995,Erial,8081,802.0,Elementary,44.54215,Elementary
+711,11,340228005180,Raritan,8869,802.0,Elementary,44.54215,Elementary
+712,12,341179000217,Northfield,8225,802.0,Elementary,44.54215,Elementary
+713,13,341005003408,Middlesex,8846,802.0,Elementary,44.54215,Elementary
+714,14,340699004812,Hawthorne,7506,802.0,Elementary,44.54215,Elementary
+715,15,340468005032,Salem,8079,802.0,Elementary,44.54215,Elementary
+716,16,340183001996,Bloomfield,7003,802.0,Elementary,44.54215,Elementary
+717,17,340600000129,Gloucester City,8030,802.0,Elementary,44.54215,Elementary
+718,18,341368003836,Hazlet,7730,802.0,Elementary,44.54215,Elementary
+719,19,341791005894,Belvidere,7823,802.0,Elementary,44.54215,Elementary
+720,20,340861005578,Linden,7036,802.0,Elementary,44.54215,Elementary
+721,21,340180005800,Blairstown,7825,802.0,Elementary,44.54215,Elementary
+722,22,340003400305,Jersey City,7306,802.0,Elementary,44.54215,Elementary
+723,23,341434004536,Landing,7850,802.0,Elementary,44.54215,Elementary
+724,24,341764005018,Woodland Park,7424,802.0,Elementary,44.54215,Elementary
+725,25,340330004786,Clifton,7013,802.0,Elementary,44.54215,Elementary
+726,26,341047000397,Williamstown,8094,802.0,Elementary,44.54215,Elementary
+727,27,340456000051,Egg Harbor Township,8234,802.0,Elementary,44.54215,Elementary
+728,28,341149003488,North Brunswick,8902,802.0,Elementary,44.54215,Elementary
+729,29,340927003518,Old Bridge,8857,802.0,Elementary,44.54215,Elementary
+730,30,340393004220,Dover,7801,802.0,Elementary,44.54215,Elementary
+731,31,340789002876,Kearny,7032,802.0,Elementary,44.54215,Elementary
+732,32,341623004740,Toms River,8753,802.0,Elementary,44.54215,Elementary
+733,33,340657000138,Hammonton,8037,802.0,Elementary,44.54215,Elementary
+734,34,341167001742,North Wildwood,8260,802.0,Elementary,44.54215,Elementary
+735,35,340129004570,Beach Haven,8008,802.0,Elementary,44.54215,Elementary
+736,36,340717003380,Highland Park,8904,802.0,Elementary,44.54215,Elementary
+737,37,341623004734,Toms River,8753,802.0,Elementary,44.54215,Elementary
+738,38,340246000260,Burlington,8016,802.0,Elementary,44.54215,Elementary
+739,39,341407000804,Rochelle Park,7662,802.0,Elementary,44.54215,Elementary
+740,40,340861005580,Linden,7036,802.0,Elementary,44.54215,Elementary
+741,41,340432003062,East Windsor,8520,802.0,Elementary,44.54215,Elementary
+742,42,340735002764,Hoboken,7030,802.0,Elementary,44.54215,Elementary
+743,43,340006100378,Plainfield,7063,802.0,Elementary,44.54215,Elementary
+744,44,340654003116,Hamilton,8610,802.0,Elementary,44.54215,Elementary
+745,45,340789002868,Kearny,7032,802.0,Elementary,44.54215,Elementary
+746,46,340004600329,Trenton,8638,802.0,Elementary,44.54215,Elementary
+747,47,341596005412,Sussex,7461,802.0,Elementary,44.54215,Elementary
+748,48,340456000092,Egg Harbor Township,8234,802.0,Elementary,44.54215,Elementary
+749,49,341812003708,Colonia,7067,802.0,Elementary,44.54215,Elementary
+750,0,341623004730,Toms River,8753,671.0,Elementary,52.82635,Elementary
+751,1,341443001652,Runnemede,8078,671.0,Elementary,52.82635,Elementary
+752,2,341107000172,Elwood,8217,671.0,Elementary,52.82635,Elementary
+753,3,341053005380,Montague,7827,671.0,Elementary,52.82635,Elementary
+754,4,341584001890,Bridgeton,8323,671.0,Elementary,52.82635,Elementary
+755,5,341635004120,Union Beach,7735,671.0,Elementary,52.82635,Elementary
+756,6,340783002814,Jersey City,7307,671.0,Elementary,52.82635,Elementary
+757,7,340071502923,Garfield,7026,671.0,Elementary,52.82635,Other
+758,8,341785000220,Dorothy,8317,671.0,Elementary,52.82635,Elementary
+759,9,340234000002,Brigantine,8203,671.0,Elementary,52.82635,Elementary
+760,10,341533002440,Maplewood,7040,671.0,Elementary,52.82635,Elementary
+761,11,341761002484,West Orange,7052,671.0,Elementary,52.82635,Elementary
+762,12,340466000374,Elmwood Park,7407,671.0,Elementary,52.82635,Elementary
+763,13,340402003288,Dunellen,8812,671.0,Elementary,52.82635,Elementary
+764,14,340405004606,West Creek,8092,671.0,Elementary,52.82635,Elementary
+765,15,340279000813,Carlstadt,7072,671.0,Elementary,52.82635,Elementary
+766,16,341353005644,Rahway,7065,671.0,Elementary,52.82635,Elementary
+767,17,341050003446,Monroe Twp,8831,671.0,Elementary,52.82635,Elementary
+768,18,340330004790,Clifton,7011,671.0,Elementary,52.82635,Elementary
+769,19,341758002942,West New York,7093,671.0,Elementary,52.82635,Elementary
+770,20,340678005356,Franklin,7416,671.0,Elementary,52.82635,Elementary
+771,21,340390002524,Wenonah,8090,671.0,Elementary,52.82635,Elementary
+772,22,340459000825,Elizabeth,7208,671.0,Elementary,52.82635,Elementary
+773,23,340324005899,Clementon,8021,671.0,Elementary,52.82635,Elementary
+774,24,341134002228,Newark,7105,671.0,Elementary,52.82635,Elementary
+775,25,340008300573,Plainfield,7060,671.0,Elementary,52.82635,Other
+776,26,341305003564,Piscataway,8854,671.0,Elementary,52.82635,Elementary
+777,27,340627000502,Hackensack,7601,671.0,Elementary,52.82635,Elementary
+778,28,341227002402,Orange,7050,671.0,Elementary,52.82635,Elementary
+779,29,340549005200,Franklin Park,8823,671.0,Elementary,52.82635,Elementary
+780,30,341146002894,North Bergen,7047,671.0,Elementary,52.82635,Elementary
+781,31,340783002788,Jersey City,7307,671.0,Elementary,52.82635,Elementary
+782,32,340156004574,Bayville,8721,671.0,Elementary,52.82635,Elementary
+783,33,341647003007,Barnegat,8005,671.0,Elementary,52.82635,Elementary
+784,34,341542006035,Southampton,8088,671.0,Elementary,52.82635,Elementary
+785,35,341671005426,Vernon,7462,671.0,Elementary,52.82635,Elementary
+786,36,341509005296,Somerville,8876,671.0,Elementary,52.82635,Elementary
+787,37,341011003994,Leonardo,7737,671.0,Elementary,52.82635,Elementary
+788,38,340540005342,Franklin,7416,671.0,Elementary,52.82635,Elementary
+789,39,340489000058,Marlton,8053,671.0,Elementary,52.82635,Elementary
+790,40,340330004782,Clifton,7011,671.0,Elementary,52.82635,Elementary
+791,41,340576000476,Garfield,7026,671.0,Elementary,52.82635,Elementary
+792,42,341149003482,North Brunswick,8902,671.0,Elementary,52.82635,Elementary
+793,43,340090005324,Newton,7860,671.0,Elementary,52.82635,Elementary
+794,44,341692000902,Wallington,7057,671.0,Elementary,52.82635,Elementary
+795,45,340072903027,Vineland,8332,671.0,Elementary,52.82635,Other
+796,46,340150000272,Bergenfield,7621,671.0,Elementary,52.82635,Elementary
+797,47,340783002792,Jersey City,7306,671.0,Elementary,52.82635,Elementary
+798,48,341623000345,Toms River,8755,671.0,Elementary,52.82635,Elementary
+799,49,341623004746,Toms River,8753,671.0,Elementary,52.82635,Elementary
+800,0,340789002874,Kearny,7032,829.0,Elementary,41.91681,Elementary
+801,1,341011003988,North Middletown,7748,829.0,Elementary,41.91681,Elementary
+802,2,340954005842,Port Murray,7865,829.0,Elementary,41.91681,Elementary
+803,3,341149003484,North Brunswick,8902,829.0,Elementary,41.91681,Elementary
+804,4,341215005390,Ogdensburg,7439,829.0,Elementary,41.91681,Elementary
+805,5,341650005754,Union,7083,829.0,Elementary,41.91681,Elementary
+806,6,340654003124,Hamilton,8690,829.0,Elementary,41.91681,Elementary
+807,7,340876000544,Little Ferry,7643,829.0,Elementary,41.91681,Elementary
+808,8,341602001250,Tabernacle,8088,829.0,Elementary,41.91681,Elementary
+809,9,341788004560,Wharton,7885,829.0,Elementary,41.91681,Elementary
+810,10,341134003061,Newark,7104,829.0,Elementary,41.91681,Elementary
+811,11,340135001964,Belleville,7109,829.0,Elementary,41.91681,Elementary
+812,12,341140005388,Newton,7860,829.0,Elementary,41.91681,Elementary
+813,13,340489001070,Marlton,8053,829.0,Elementary,41.91681,Elementary
+814,14,341488001240,Shamong,8088,829.0,Elementary,41.91681,Elementary
+815,15,341647005947,Barnegat,8005,829.0,Elementary,41.91681,Elementary
+816,16,340945004662,Manchester,8759,829.0,Elementary,41.91681,Elementary
+817,17,340774000463,Jackson,8527,829.0,Elementary,41.91681,Elementary
+818,18,340486000102,Estell Manor,8319,829.0,Elementary,41.91681,Elementary
+819,19,340783002828,Jersey City,7302,829.0,Elementary,41.91681,Elementary
+820,20,340135001966,Belleville,7109,829.0,Elementary,41.91681,Elementary
+821,21,340450003336,Edison,8817,829.0,Elementary,41.91681,Elementary
+822,22,340654003122,Hamilton,8610,829.0,Elementary,41.91681,Elementary
+823,23,341761002494,West Orange,7052,829.0,Elementary,41.91681,Elementary
+824,24,341518000465,South Bound Brook,8880,829.0,Elementary,41.91681,Elementary
+825,25,340492003076,Ewing,8628,829.0,Elementary,41.91681,Elementary
+826,26,341293003544,Perth Amboy,8861,829.0,Elementary,41.91681,Elementary
+827,27,341587001666,Stratford,8084,829.0,Elementary,41.91681,Elementary
+828,28,340777003388,Jamesburg,8831,829.0,Elementary,41.91681,Elementary
+829,29,340076903048,Lambertville,8530,829.0,Elementary,41.91681,Elementary
+830,30,340078503390,Camden,8105,829.0,Elementary,41.91681,Other
+831,31,340903005034,Salem,8079,829.0,Elementary,41.91681,Elementary
+832,32,340222004584,Brick,8723,829.0,Elementary,41.91681,Elementary
+833,33,340654003132,Hamilton,8620,829.0,Elementary,41.91681,Elementary
+834,34,341449000826,Saddle Brook,7663,829.0,Elementary,41.91681,Elementary
+835,35,340603001508,Blackwood,8012,829.0,Elementary,41.91681,Elementary
+836,36,341650005748,Union,7083,829.0,Elementary,41.91681,Elementary
+837,37,340840003156,Lawrenceville,8648,829.0,Elementary,41.91681,Elementary
+838,38,340077603299,Camden,8104,829.0,Elementary,41.91681,Elementary
+839,39,340489001072,Marlton,8053,829.0,Elementary,41.91681,Elementary
+840,40,340945004664,Whiting,8759,829.0,Elementary,41.91681,Elementary
+841,41,341326000366,Phillipsburg,8865,829.0,Elementary,41.91681,Elementary
+842,42,340141003750,Belmar,7719,829.0,Elementary,41.91681,Elementary
+843,43,341701005884,Washington,7882,829.0,Elementary,41.91681,Elementary
+844,44,340183001992,Bloomfield,7003,829.0,Elementary,41.91681,Elementary
+845,45,341368003832,Hazlet,7730,829.0,Elementary,41.91681,Elementary
+846,46,340462002538,Glassboro,8028,829.0,Elementary,41.91681,Elementary
+847,47,341158001178,Wrightstown,8562,829.0,Elementary,41.91681,Elementary
+848,48,340603001514,Sicklerville,8081,829.0,Elementary,41.91681,Elementary
+849,49,340390002520,Deptford,8096,829.0,Elementary,41.91681,Elementary
+850,0,340423005901,East Orange,7017,912.0,Elementary,36.70539,Elementary
+851,1,340603001512,Blackwood,8012,912.0,Elementary,36.70539,Elementary
+852,2,340891004656,Ship Bottom,8008,912.0,Elementary,36.70539,Elementary
+853,3,341350005086,Quinton,8072,912.0,Elementary,36.70539,Elementary
+854,4,340780004266,Wharton,7885,912.0,Elementary,36.70539,Elementary
+855,5,341230005846,Oxford,7863,912.0,Elementary,36.70539,Elementary
+856,6,340126002718,Bayonne,7002,912.0,Elementary,36.70539,Elementary
+857,7,341638002922,Union City,7087,912.0,Elementary,36.70539,Elementary
+858,8,340007906129,Camden,8102,912.0,Elementary,36.70539,Elementary
+859,9,340624002734,Guttenberg,7093,912.0,Elementary,36.70539,Elementary
+860,10,340549005196,Somerset,8873,912.0,Elementary,36.70539,Elementary
+861,11,341779002684,Westville,8093,912.0,Elementary,36.70539,Elementary
+862,12,340126002722,Bayonne,7002,912.0,Elementary,36.70539,Elementary
+863,13,341095006070,Mount Laurel,8054,912.0,Elementary,36.70539,Elementary
+864,14,340126002720,Bayonne,7002,912.0,Elementary,36.70539,Elementary
+865,15,341758002950,West New York,7093,912.0,Elementary,36.70539,Elementary
+866,16,341707002644,Turnersville,8012,912.0,Elementary,36.70539,Elementary
+867,17,341380000257,Ridgefield Park,7660,912.0,Elementary,36.70539,Elementary
+868,18,340921003279,Lyndhurst,7071,912.0,Elementary,36.70539,Elementary
+869,19,340456000086,Egg Harbor Township,8234,912.0,Elementary,36.70539,Elementary
+870,20,341632004750,Tuckerton,8087,912.0,Elementary,36.70539,Elementary
+871,21,340603001524,Blackwood,8012,912.0,Elementary,36.70539,Elementary
+872,22,340681005824,Phillipsburg,8865,912.0,Elementary,36.70539,Elementary
+873,23,340330004776,Clifton,7013,912.0,Elementary,36.70539,Elementary
+874,24,340573006089,Galloway,8205,912.0,Elementary,36.70539,Elementary
+875,25,340837001856,Cedarville,8311,912.0,Elementary,36.70539,Elementary
+876,26,340076903010,Lambertville,8530,912.0,Elementary,36.70539,Elementary
+877,27,340008200569,Blairstown,7825,912.0,Elementary,36.70539,Elementary
+878,28,341239001190,Palmyra,8065,912.0,Elementary,36.70539,Elementary
+879,29,341110002602,National Park,8063,912.0,Elementary,36.70539,Elementary
+880,30,340066000006,Absecon,8201,912.0,Elementary,36.70539,Elementary
+881,31,340783002842,Jersey City,7305,912.0,Elementary,36.70539,Elementary
+882,32,341011004006,Port Monmouth,7758,912.0,Elementary,36.70539,Elementary
+883,33,341119004426,Netcong,7857,912.0,Elementary,36.70539,Elementary
+884,34,341797001776,Wildwood Crest,8260,912.0,Elementary,36.70539,Elementary
+885,35,340074803144,Paterson,7501,912.0,Elementary,36.70539,Elementary
+886,36,340792005552,Kenilworth,7033,912.0,Elementary,36.70539,Elementary
+887,37,340078703387,Kearny,7032,912.0,Elementary,36.70539,Elementary
+888,38,340330004784,Clifton,7011,912.0,Elementary,36.70539,Elementary
+889,39,341002000033,Cape May Court House,8210,912.0,Elementary,36.70539,Elementary
+890,40,340390002518,Deptford,8096,912.0,Elementary,36.70539,Elementary
+891,41,340615001848,Greenwich,8323,912.0,Elementary,36.70539,Elementary
+892,42,340459000806,Elizabeth,7208,912.0,Elementary,36.70539,Elementary
+893,43,340366001826,Rosenhayn,8352,912.0,Elementary,36.70539,Elementary
+894,44,340189002960,Bloomsbury,8804,912.0,Elementary,36.70539,Elementary
+895,45,341434004528,Succasunna,7876,912.0,Elementary,36.70539,Elementary
+896,46,340069002956,Pittstown,8867,912.0,Elementary,36.70539,Elementary
+897,47,340789002870,Kearny,7032,912.0,Elementary,36.70539,Elementary
+898,48,341626004954,Totowa,7512,912.0,Elementary,36.70539,Middle
+899,49,341380000760,Ridgefield Park,7660,912.0,Elementary,36.70539,Elementary
+900,0,340648005352,Hamburg,7419,1065.0,Elementary,24.144270000000002,Elementary
+901,1,341134002298,Newark,7105,1065.0,Elementary,24.144270000000002,Elementary
+902,2,340096000016,Atlantic City,8401,1065.0,Elementary,24.144270000000002,Elementary
+903,3,341449000828,Saddle Brook,7663,1065.0,Elementary,24.144270000000002,Elementary
+904,4,341512003604,South Amboy,8879,1065.0,Elementary,24.144270000000002,Elementary
+905,5,340162001332,West Berlin,8091,1065.0,Elementary,24.144270000000002,Elementary
+906,6,340573000108,Galloway,8205,1065.0,Elementary,24.144270000000002,Elementary
+907,7,340573006028,Galloway,8205,1065.0,Elementary,24.144270000000002,Elementary
+908,8,341623006037,Beachwood,8722,1065.0,Elementary,24.144270000000002,Elementary
+909,9,340783002794,Jersey City,7304,1065.0,Elementary,24.144270000000002,Elementary
+910,10,340126002712,Bayonne,7002,1065.0,Elementary,24.144270000000002,Elementary
+911,11,341146002886,North Bergen,7047,1065.0,Elementary,24.144270000000002,Elementary
+912,12,340330004772,Clifton,7011,1065.0,Elementary,24.144270000000002,Elementary
+913,13,341728004988,Wayne,7470,1065.0,Elementary,24.144270000000002,Elementary
+914,14,341731002932,Weehawken,7086,1065.0,Elementary,24.144270000000002,Elementary
+915,15,340528000104,Hammonton,8037,1065.0,Elementary,24.144270000000002,Elementary
+916,16,341500001660,Somerdale,8083,1065.0,Elementary,24.144270000000002,Elementary
+917,17,341428005652,Roselle,7203,1065.0,Elementary,24.144270000000002,Elementary
+918,18,341806001696,Sicklerville,8081,1065.0,Elementary,24.144270000000002,Elementary
+919,19,340004900336,Red Bank,7701,1065.0,Elementary,24.144270000000002,Elementary
+920,20,340963000175,Manville,8835,1065.0,Elementary,24.144270000000002,Elementary
+921,21,340423000134,East Orange,7017,1065.0,Elementary,24.144270000000002,Elementary
+922,22,340466000376,Elmwood Park,7407,1065.0,Elementary,24.144270000000002,Elementary
+923,23,341125001168,Wrightstown,8562,1065.0,Elementary,24.144270000000002,Elementary
+924,24,340378000123,Delran,8075,1065.0,Elementary,24.144270000000002,Elementary
+925,25,340081005028,Alloway,8001,1065.0,Elementary,24.144270000000002,Elementary
+926,26,341281001220,Browns Mills,8015,1065.0,Elementary,24.144270000000002,Elementary
+927,27,340007000529,Newark,7102,1065.0,Elementary,24.144270000000002,Other
+928,28,341638002920,Union City,7087,1065.0,Elementary,24.144270000000002,Elementary
+929,29,341707002654,Sewell,8080,1065.0,Elementary,24.144270000000002,Elementary
+930,30,341203004678,Ocean Gate,8740,1065.0,Elementary,24.144270000000002,Elementary
+931,31,341410004504,Rockaway,7866,1065.0,Elementary,24.144270000000002,Elementary
+932,32,341812003726,Avenel,7001,1065.0,Elementary,24.144270000000002,Elementary
+933,33,340654003126,Hamilton,8620,1065.0,Elementary,24.144270000000002,Elementary
+934,34,340585001490,Gibbsboro,8026,1065.0,Elementary,24.144270000000002,Elementary
+935,35,341707005922,Turnersville,8012,1065.0,Elementary,24.144270000000002,Elementary
+936,36,340138001318,Bellmawr,8031,1065.0,Elementary,24.144270000000002,Elementary
+937,37,341293000404,Perth Amboy,8861,1065.0,Elementary,24.144270000000002,Elementary
+938,38,341227002404,Orange,7050,1065.0,Elementary,24.144270000000002,Elementary
+939,39,340007600483,Asbury Park,7712,1065.0,Elementary,24.144270000000002,Elementary
+940,40,340774004614,Jackson,8527,1065.0,Elementary,24.144270000000002,Elementary
+941,41,341623004748,Toms River,8753,1065.0,Elementary,24.144270000000002,Elementary
+942,42,341236000684,Palisades Park,7650,1065.0,Elementary,24.144270000000002,Elementary
+943,43,340076403256,Newark,7103,1065.0,Elementary,24.144270000000002,Elementary
+944,44,341647004564,Barnegat,8005,1065.0,Elementary,24.144270000000002,Elementary
+945,45,340627000500,Hackensack,7601,1065.0,Elementary,24.144270000000002,Elementary
+946,46,341815002694,Woodbury,8096,1065.0,Elementary,24.144270000000002,Elementary
+947,47,340363003764,Deal,7723,1065.0,Elementary,24.144270000000002,Elementary
+948,48,340008700735,Paterson,7503,1065.0,Elementary,24.144270000000002,Other
+949,49,340174000952,Beverly,8010,1065.0,Elementary,24.144270000000002,Elementary
+950,0,340459005518,Elizabeth,7202,1001.0,Elementary,29.466890000000003,Elementary
+951,1,340558003792,Freehold,7728,1001.0,Elementary,29.466890000000003,Elementary
+952,2,340120000950,New Gretna,8224,1001.0,Elementary,29.466890000000003,Elementary
+953,3,341638003215,Union City,7087,1001.0,Elementary,29.466890000000003,Elementary
+954,4,340126002714,Bayonne,7002,1001.0,Elementary,29.466890000000003,Elementary
+955,5,341773001256,Westampton,8060,1001.0,Elementary,29.466890000000003,Elementary
+956,6,341680001924,Vineland,8360,1001.0,Elementary,29.466890000000003,Elementary
+957,7,341758002946,West New York,7093,1001.0,Elementary,29.466890000000003,Elementary
+958,8,341284005054,Carneys Point,8069,1001.0,Elementary,29.466890000000003,Elementary
+959,9,340156004576,Bayville,8721,1001.0,Elementary,29.466890000000003,Elementary
+960,10,341116004050,Neptune,7753,1001.0,Elementary,29.466890000000003,Elementary
+961,11,340789002878,Kearny,7032,1001.0,Elementary,29.466890000000003,Elementary
+962,12,340645005904,Haledon,7508,1001.0,Elementary,29.466890000000003,Elementary
+963,13,340138001320,Bellmawr,8031,1001.0,Elementary,29.466890000000003,Elementary
+964,14,341812003692,Fords,8863,1001.0,Elementary,29.466890000000003,Elementary
+965,15,340075103180,Newark,7102,1001.0,Elementary,29.466890000000003,Other
+966,16,340076503254,Paterson,7501,1001.0,Elementary,29.466890000000003,Other
+967,17,341092001150,Mount Holly,8060,1001.0,Elementary,29.466890000000003,Elementary
+968,18,340072403011,Irvington,7111,1001.0,Elementary,29.466890000000003,Elementary
+969,19,340071702925,Trenton,8608,1001.0,Elementary,29.466890000000003,Other
+970,20,341299001644,Pine Hill,8021,1001.0,Elementary,29.466890000000003,Elementary
+971,21,340810004628,Forked River,8731,1001.0,Elementary,29.466890000000003,Elementary
+972,22,341680000807,Vineland,8631,1001.0,Elementary,29.466890000000003,Elementary
+973,23,340861005574,Linden,7036,1001.0,Elementary,29.466890000000003,Elementary
+974,24,340654003104,Hamilton,8609,1001.0,Elementary,29.466890000000003,Elementary
+975,25,340549005210,Somerset,8873,1001.0,Elementary,29.466890000000003,Elementary
+976,26,340222004600,Brick,8724,1001.0,Elementary,29.466890000000003,Elementary
+977,27,340072005788,Allamuchy,7820,1001.0,Elementary,29.466890000000003,Middle
+978,28,340795003890,Keyport,7735,1001.0,Elementary,29.466890000000003,Elementary
+979,29,340420002732,East Newark,7029,1001.0,Elementary,29.466890000000003,Elementary
+980,30,340576000468,Garfield,7026,1001.0,Elementary,29.466890000000003,Elementary
+981,31,340222004586,Brick,8723,1001.0,Elementary,29.466890000000003,Elementary
+982,32,340915001728,Cape May,8204,1001.0,Elementary,29.466890000000003,Elementary
+983,33,341812003720,Port Reading,7064,1001.0,Elementary,29.466890000000003,Elementary
+984,34,341269004922,Paterson,7502,1001.0,Elementary,29.466890000000003,Elementary
+985,35,341812003686,Avenel,7001,1001.0,Elementary,29.466890000000003,Elementary
+986,36,340222004592,Brick,8724,1001.0,Elementary,29.466890000000003,Elementary
+987,37,340912005068,Pennsville,8070,1001.0,Elementary,29.466890000000003,Elementary
+988,38,340237001340,Brooklawn,8030,1001.0,Elementary,29.466890000000003,Elementary
+989,39,340435001056,Eastampton,8060,1001.0,Elementary,29.466890000000003,Elementary
+990,40,341638000715,Union City,7087,1001.0,Elementary,29.466890000000003,Elementary
+991,41,340459005504,Elizabeth,7208,1001.0,Elementary,29.466890000000003,Elementary
+992,42,340079203419,Newark,7112,1001.0,Elementary,29.466890000000003,Elementary
+993,43,341446000820,Rutherford,7070,1001.0,Elementary,29.466890000000003,Elementary
+994,44,341623004732,Toms River,8753,1001.0,Elementary,29.466890000000003,Elementary
+995,45,340735000065,Hoboken,7030,1001.0,Elementary,29.466890000000003,Elementary
+996,46,340459005508,Elizabeth,7202,1001.0,Elementary,29.466890000000003,Elementary
+997,47,340627000504,Hackensack,7601,1001.0,Elementary,29.466890000000003,Elementary
+998,48,341680005921,Vineland,8360,1001.0,Elementary,29.466890000000003,Elementary
+999,49,340156004578,Bayville,8721,1001.0,Elementary,29.466890000000003,Elementary
+1000,0,340330004768,Clifton,7011,722.0,Elementary,49.06118,Elementary
+1001,1,340084005790,Alpha,8865,722.0,Elementary,49.06118,Elementary
+1002,2,341638002912,Union City,7087,722.0,Elementary,49.06118,Elementary
+1003,3,341812003694,Sewaren,7077,722.0,Elementary,49.06118,Elementary
+1004,4,340076603265,Vineland,8360,722.0,Elementary,49.06118,Elementary
+1005,5,340687002740,Harrison,7029,722.0,Elementary,49.06118,Elementary
+1006,6,341293000152,Perth Amboy,8861,722.0,Elementary,49.06118,Elementary
+1007,7,341146002892,North Bergen,7047,722.0,Elementary,49.06118,Elementary
+1008,8,341803005786,Winfield Park,7036,722.0,Elementary,49.06118,Elementary
+1009,9,341113004028,Neptune City,7753,722.0,Elementary,49.06118,Elementary
+1010,10,341146002888,North Bergen,7047,722.0,Elementary,49.06118,Elementary
+1011,11,341134002222,Newark,7107,722.0,Elementary,49.06118,Elementary
+1012,12,340135001962,Belleville,7109,722.0,Elementary,49.06118,Elementary
+1013,13,340330006132,Clifton,7011,722.0,Elementary,49.06118,Elementary
+1014,14,341134002368,Newark,7108,722.0,Elementary,49.06118,Elementary
+1015,15,340492003082,Ewing,8618,722.0,Elementary,49.06118,Elementary
+1016,16,341623004744,Toms River,8753,722.0,Elementary,49.06118,Elementary
+1017,17,340450003352,Edison,8817,722.0,Elementary,49.06118,Elementary
+1018,18,340861005562,Linden,7036,722.0,Elementary,49.06118,Elementary
+1019,19,340573006088,Galloway,8205,722.0,Elementary,49.06118,Elementary
+1020,20,341281001222,Pemberton,8068,722.0,Elementary,49.06118,Elementary
+1021,21,340183002004,Bloomfield,7003,722.0,Elementary,49.06118,Elementary
+1022,22,340459005512,Elizabeth,7201,722.0,Elementary,49.06118,Elementary
+1023,23,340870004650,Little Egg Harbor,8087,722.0,Elementary,49.06118,Elementary
+1024,24,340549005198,Somerset,8873,722.0,Elementary,49.06118,Elementary
+1025,25,340423002050,East Orange,7017,722.0,Elementary,49.06118,Elementary
+1026,26,340492003086,Ewing,8638,722.0,Elementary,49.06118,Elementary
+1027,27,341812003706,Fords,8863,722.0,Elementary,49.06118,Elementary
+1028,28,341269004890,Paterson,7503,722.0,Elementary,49.06118,Elementary
+1029,29,341353005646,Rahway,7065,722.0,Elementary,49.06118,Elementary
+1030,30,341134002338,Newark,7104,722.0,Elementary,49.06118,Elementary
+1031,31,341680001948,Vineland,8360,722.0,Elementary,49.06118,Elementary
+1032,32,341806001692,Hammonton,8037,722.0,Elementary,49.06118,Elementary
+1033,33,340096000012,Atlantic City,8401,722.0,Elementary,49.06118,Elementary
+1034,34,340861005570,Linden,7036,722.0,Elementary,49.06118,Elementary
+1035,35,340135001970,Belleville,7109,722.0,Elementary,49.06118,Elementary
+1036,36,340930001592,Magnolia,8049,722.0,Elementary,49.06118,Elementary
+1037,37,340783002802,Jersey City,7305,722.0,Elementary,49.06118,Elementary
+1038,38,341116004052,Neptune,7753,722.0,Elementary,49.06118,Elementary
+1039,39,340126002716,Bayonne,7002,722.0,Elementary,49.06118,Elementary
+1040,40,341134002326,Newark,7106,722.0,Elementary,49.06118,Elementary
+1041,41,341680001916,Vineland,8360,722.0,Elementary,49.06118,Elementary
+1042,42,341293003540,Perth Amboy,8861,722.0,Elementary,49.06118,Elementary
+1043,43,341287001624,Pennsauken,8109,722.0,Elementary,49.06118,Elementary
+1044,44,341800001288,Willingboro,8046,722.0,Elementary,49.06118,Elementary
+1045,45,341122003476,New Brunswick,8901,722.0,Elementary,49.06118,Elementary
+1046,46,341638002924,Union City,7087,722.0,Elementary,49.06118,Elementary
+1047,47,341269004882,Paterson,7502,722.0,Elementary,49.06118,Elementary
+1048,48,341353005640,Rahway,7065,722.0,Elementary,49.06118,Elementary
+1049,49,341653001894,Seabrook,8302,722.0,Elementary,49.06118,Elementary
+1050,0,341623004738,Pine Beach,8741,1058.0,Elementary,25.1267,Elementary
+1051,1,340076303247,Camden,8103,1058.0,Elementary,25.1267,Elementary
+1052,2,340282000451,Carteret,7008,1058.0,Elementary,25.1267,Elementary
+1053,3,341320000198,Pleasantville,8232,1058.0,Elementary,25.1267,Elementary
+1054,4,340447001062,Edgewater Park,8010,1058.0,Elementary,25.1267,Elementary
+1055,5,340543002550,Newfield,8344,1058.0,Elementary,25.1267,Elementary
+1056,6,341299001642,Pine Hill,8021,1058.0,Elementary,25.1267,Elementary
+1057,7,340783002806,Jersey City,7306,1058.0,Elementary,25.1267,Elementary
+1058,8,341539000236,South River,8882,1058.0,Elementary,25.1267,Elementary
+1059,9,341668000407,Ventnor City,8406,1058.0,Elementary,25.1267,Elementary
+1060,10,340459005962,Elizabeth,7202,1058.0,Elementary,25.1267,Elementary
+1061,11,341134002342,Newark,7104,1058.0,Elementary,25.1267,Elementary
+1062,12,341134003374,Newark,7104,1058.0,Elementary,25.1267,Elementary
+1063,13,340894003916,Long Branch,7740,1058.0,Elementary,25.1267,Elementary
+1064,14,340126000001,Bayonne,7002,1058.0,Elementary,25.1267,Elementary
+1065,15,340651000015,Mays Landing,8330,1058.0,Elementary,25.1267,Elementary
+1066,16,341206004064,Oakhurst,7755,1058.0,Elementary,25.1267,Elementary
+1067,17,340459005482,Elizabeth,7202,1058.0,Elementary,25.1267,Elementary
+1068,18,341680001910,Vineland,8360,1058.0,Elementary,25.1267,Elementary
+1069,19,341428005658,Roselle,7203,1058.0,Elementary,25.1267,Elementary
+1070,20,341758002940,West New York,7093,1058.0,Elementary,25.1267,Elementary
+1071,21,340330004774,Clifton,7011,1058.0,Elementary,25.1267,Elementary
+1072,22,340390002528,Westville,8093,1058.0,Elementary,25.1267,Elementary
+1073,23,341269004916,Paterson,7513,1058.0,Elementary,25.1267,Elementary
+1074,24,340004700330,New Brunswick,8901,1058.0,Elementary,25.1267,Elementary
+1075,25,340654003106,Hamilton,8610,1058.0,Elementary,25.1267,Elementary
+1076,26,340729005544,Hillside,7205,1058.0,Elementary,25.1267,Elementary
+1077,27,340549005202,Somerset,8873,1058.0,Elementary,25.1267,Elementary
+1078,28,341209004684,Waretown,8758,1058.0,Elementary,25.1267,Elementary
+1079,29,341134002360,Newark,7107,1058.0,Elementary,25.1267,Elementary
+1080,30,340459005516,Elizabeth,7208,1058.0,Elementary,25.1267,Elementary
+1081,31,340135001968,Belleville,7109,1058.0,Elementary,25.1267,Elementary
+1082,32,341758002948,West New York,7093,1058.0,Elementary,25.1267,Elementary
+1083,33,340522001086,Roebling,8554,1058.0,Elementary,25.1267,Elementary
+1084,34,340783002846,Jersey City,7304,1058.0,Elementary,25.1267,Elementary
+1085,35,340002100283,East Orange,7017,1058.0,Elementary,25.1267,Elementary
+1086,36,340744005370,Hopatcong,7843,1058.0,Elementary,25.1267,Elementary
+1087,37,341164005260,North Plainfield,7060,1058.0,Elementary,25.1267,Elementary
+1088,38,340459003197,Elizabeth,7206,1058.0,Elementary,25.1267,Elementary
+1089,39,340074503137,Passaic,7055,1058.0,Elementary,25.1267,Other
+1090,40,341122005940,New Brunswick,8901,1058.0,Elementary,25.1267,Elementary
+1091,41,341827001700,Woodlynne,8107,1058.0,Elementary,25.1267,Elementary
+1092,42,340918000703,Lumberton,8048,1058.0,Elementary,25.1267,Elementary
+1093,43,340423002062,East Orange,7017,1058.0,Elementary,25.1267,Elementary
+1094,44,340003300303,Jersey City,7305,1058.0,Elementary,25.1267,Elementary
+1095,45,340423000273,East Orange,7018,1058.0,Elementary,25.1267,Elementary
+1096,46,340423002054,East Orange,7018,1058.0,Elementary,25.1267,Elementary
+1097,47,341269004926,Paterson,7501,1058.0,Elementary,25.1267,Elementary
+1098,48,341314005618,Plainfield,7062,1058.0,Elementary,25.1267,Elementary
+1099,49,340459002997,Elizabeth,7208,1058.0,Elementary,25.1267,Elementary
+1150,0,341758002944,West New York,7093,1010.0,Elementary,28.50238,Elementary
+1151,1,340074403139,Willingboro,8046,1010.0,Elementary,28.50238,Elementary
+1152,2,340459000207,Elizabeth,7206,1010.0,Elementary,28.50238,Elementary
+1153,3,341281001224,Browns Mills,8015,1010.0,Elementary,28.50238,Elementary
+1154,4,341428005654,Roselle,7203,1010.0,Elementary,28.50238,Elementary
+1155,5,341227002400,Orange,7050,1010.0,Elementary,28.50238,Elementary
+1156,6,341800001276,Willingboro,8046,1010.0,Elementary,28.50238,Elementary
+1157,7,340396001832,Newport,8345,1010.0,Elementary,28.50238,Elementary
+1158,8,341134002937,Newark,7106,1010.0,Elementary,28.50238,Elementary
+1159,9,340004100321,Trenton,8611,1010.0,Elementary,28.50238,Elementary
+1160,10,341374004080,Red Bank,7701,1010.0,Elementary,28.50238,Elementary
+1161,11,340474000390,Englewood,7631,1010.0,Elementary,28.50238,Elementary
+1162,12,341116004040,Neptune,7753,1010.0,Elementary,28.50238,Elementary
+1163,13,340096003259,Atlantic City,8401,1010.0,Elementary,28.50238,Elementary
+1164,14,340213003752,Bradley Beach,7720,1010.0,Elementary,28.50238,Elementary
+1165,15,340660002996,Hampton,8827,1010.0,Elementary,28.50238,Elementary
+1166,16,341812003722,Woodbridge,7095,1010.0,Elementary,28.50238,Elementary
+1167,17,340096000018,Atlantic City,8401,1010.0,Elementary,28.50238,Elementary
+1168,18,341134002284,Newark,7105,1010.0,Elementary,28.50238,Elementary
+1169,19,341134005976,Newark,7104,1010.0,Elementary,28.50238,Elementary
+1170,20,340459005494,Elizabeth,7201,1010.0,Elementary,28.50238,Elementary
+1171,21,340768002114,Irvington,7111,1010.0,Elementary,28.50238,Elementary
+1172,22,341314005616,Plainfield,7062,1010.0,Elementary,28.50238,Elementary
+1173,23,341320000200,Pleasantville,8232,1010.0,Elementary,28.50238,Elementary
+1174,24,341269004908,Paterson,7524,1010.0,Elementary,28.50238,Elementary
+1175,25,340282003272,Carteret,7008,1010.0,Elementary,28.50238,Elementary
+1176,26,341320000202,Pleasantville,8232,1010.0,Elementary,28.50238,Elementary
+1177,27,341725005924,Atco,8004,1010.0,Elementary,28.50238,Elementary
+1178,28,341032001880,Millville,8332,1010.0,Elementary,28.50238,Elementary
+1179,29,340002200285,Newark,7102,1010.0,Elementary,28.50238,Other
+1180,30,340783002816,Jersey City,7305,1010.0,Elementary,28.50238,Elementary
+1181,31,340822005981,Lakewood,8701,1010.0,Elementary,28.50238,Elementary
+1182,32,340768000089,Irvington,7111,1010.0,Elementary,28.50238,Elementary
+1183,33,340075603185,Jersey City,7304,1010.0,Elementary,28.50238,Elementary
+1184,34,341122003464,New Brunswick,8901,1010.0,Elementary,28.50238,Elementary
+1185,35,340007800487,Camden,8102,1010.0,Elementary,28.50238,Other
+1186,36,340459002983,Elizabeth,7206,1010.0,Elementary,28.50238,Elementary
+1187,37,341254003035,Passaic,7055,1010.0,Elementary,28.50238,Middle
+1188,38,340894003325,Long Branch,7740,1010.0,Elementary,28.50238,Elementary
+1189,39,341806001694,Sicklerville,8081,1010.0,Elementary,28.50238,Elementary
+1190,40,341134002354,Newark,7103,1010.0,Elementary,28.50238,Elementary
+1191,41,341134002278,Newark,7104,1010.0,Elementary,28.50238,Elementary
+1192,42,341269004918,Paterson,7503,1010.0,Elementary,28.50238,Elementary
+1193,43,341122003472,New Brunswick,8901,1010.0,Elementary,28.50238,Elementary
+1194,44,340834001572,Lawnside,8045,1010.0,Elementary,28.50238,Elementary
+1195,45,341134002270,Newark,7104,1010.0,Elementary,28.50238,Elementary
+1196,46,340588000064,Glassboro,8028,1010.0,Elementary,28.50238,Elementary
+1197,47,340768005965,Irvington,7111,1010.0,Elementary,28.50238,Elementary
+1198,48,341287001634,Pennsauken,8109,1010.0,Elementary,28.50238,Elementary
+1199,49,340079303413,Paterson,7501,1010.0,Elementary,28.50238,Elementary
+1200,0,340783002824,Jersey City,7305,1183.0,Elementary,13.3584,Elementary
+1201,1,340822004640,Lakewood,8701,1183.0,Elementary,13.3584,Elementary
+1202,2,340768002116,Irvington,7111,1183.0,Elementary,13.3584,Elementary
+1203,3,340822004638,Lakewood,8701,1183.0,Elementary,13.3584,Elementary
+1204,4,341269003382,Paterson,7503,1183.0,Elementary,13.3584,Elementary
+1205,5,340423002052,East Orange,7017,1183.0,Elementary,13.3584,Elementary
+1206,6,341629003234,Trenton,8611,1183.0,Elementary,13.3584,Elementary
+1207,7,340240003221,Minotola,8341,1183.0,Elementary,13.3584,Elementary
+1208,8,341401001236,Riverside,8075,1183.0,Elementary,13.3584,Elementary
+1209,9,340073003028,Newark,7102,1183.0,Elementary,13.3584,Elementary
+1210,10,341272002612,Paulsboro,8066,1183.0,Elementary,13.3584,Elementary
+1211,11,341122003379,New Brunswick,8901,1183.0,Elementary,13.3584,Middle
+1212,12,340423002060,East Orange,7017,1183.0,Elementary,13.3584,Elementary
+1213,13,340264000793,Camden,8105,1183.0,Elementary,13.3584,Elementary
+1214,14,340459005498,Elizabeth,7201,1183.0,Elementary,13.3584,Elementary
+1215,15,341134002252,Newark,7103,1183.0,Elementary,13.3584,Elementary
+1216,16,340507000438,Fairview,7022,1183.0,Elementary,13.3584,Elementary
+1217,17,340783002832,Jersey City,7306,1183.0,Elementary,13.3584,Elementary
+1218,18,341134002302,Newark,7106,1183.0,Elementary,13.3584,Elementary
+1219,19,340144005796,Belvidere,7823,1183.0,Elementary,13.3584,Middle
+1220,20,341629003216,Trenton,8638,1183.0,Elementary,13.3584,Elementary
+1221,21,341254004838,Passaic,7055,1183.0,Elementary,13.3584,Elementary
+1222,22,341287001630,Delair,8110,1183.0,Elementary,13.3584,Elementary
+1223,23,341629003218,Trenton,8610,1183.0,Elementary,13.3584,Elementary
+1224,24,340002300287,Newark,7103,1183.0,Elementary,13.3584,Elementary
+1225,25,341134002318,Newark,7104,1183.0,Elementary,13.3584,Elementary
+1226,26,340210003360,Bound Brook,8805,1183.0,Elementary,13.3584,Elementary
+1227,27,340654003108,Hamilton,8619,1183.0,Elementary,13.3584,Elementary
+1228,28,340077703307,Camden,8103,1183.0,Elementary,13.3584,Elementary
+1229,29,341254000168,Passaic,7055,1183.0,Elementary,13.3584,Elementary
+1230,30,341269004900,Paterson,7522,1183.0,Elementary,13.3584,Elementary
+1231,31,341314005620,Plainfield,7060,1183.0,Elementary,13.3584,Elementary
+1232,32,341269003384,Paterson,7513,1183.0,Elementary,13.3584,Elementary
+1233,33,340074903184,Millville,8332,1183.0,Elementary,13.3584,Other
+1234,34,341347004938,Prospect Park,7508,1183.0,Elementary,13.3584,Elementary
+1235,35,341254004854,Passaic,7055,1183.0,Elementary,13.3584,Elementary
+1236,36,340654003112,Hamilton,8610,1183.0,Elementary,13.3584,Elementary
+1237,37,340768002945,Irvington,7111,1183.0,Elementary,13.3584,Elementary
+1238,38,341479004706,Seaside Heights,8751,1183.0,Elementary,13.3584,Elementary
+1239,39,340459003293,Elizabeth,7206,1183.0,Elementary,13.3584,Elementary
+1240,40,341122003460,New Brunswick,8901,1183.0,Elementary,13.3584,Elementary
+1241,41,341443001650,Runnemede,8078,1183.0,Elementary,13.3584,Elementary
+1242,42,341134002334,Newark,7103,1183.0,Elementary,13.3584,Elementary
+1243,43,341227002408,Orange,7050,1183.0,Elementary,13.3584,Elementary
+1244,44,341164005264,North Plainfield,7060,1183.0,Elementary,13.3584,Elementary
+1245,45,341116004042,Neptune,7753,1183.0,Elementary,13.3584,Elementary
+1246,46,341314005610,Plainfield,7060,1183.0,Elementary,13.3584,Elementary
+1247,47,340786003884,Keansburg,7734,1183.0,Elementary,13.3584,Elementary
+1248,48,340423002044,East Orange,7017,1183.0,Elementary,13.3584,Elementary
+1249,49,340075203186,Blackwood,8012,1183.0,Elementary,13.3584,Elementary
+1250,0,340225001794,Bridgeton,8302,1256.0,Elementary,7.7965800000000005,Elementary
+1251,1,341122003462,New Brunswick,8901,1256.0,Elementary,7.7965800000000005,Elementary
+1252,2,341122003456,New Brunswick,8901,1256.0,Elementary,7.7965800000000005,Elementary
+1253,3,341134002356,Newark,7106,1256.0,Elementary,7.7965800000000005,Elementary
+1254,4,340768002108,Irvington,7111,1256.0,Elementary,7.7965800000000005,Elementary
+1255,5,341320000194,Pleasantville,8232,1256.0,Elementary,7.7965800000000005,Elementary
+1256,6,340459005526,Elizabeth,7208,1256.0,Elementary,7.7965800000000005,Elementary
+1257,7,341254004852,Passaic,7055,1256.0,Elementary,7.7965800000000005,Elementary
+1258,8,340264001368,Camden,8105,1256.0,Elementary,7.7965800000000005,Elementary
+1259,9,340783002808,Jersey City,7304,1256.0,Elementary,7.7965800000000005,Elementary
+1260,10,341032001878,Millville,8332,1256.0,Elementary,7.7965800000000005,Elementary
+1261,11,340008000566,Camden,8104,1256.0,Elementary,7.7965800000000005,Other
+1262,12,341122003466,New Brunswick,8901,1256.0,Elementary,7.7965800000000005,Elementary
+1263,13,340078203371,Bridgeton,8302,1256.0,Elementary,7.7965800000000005,Elementary
+1264,14,340096000032,Atlantic City,8401,1256.0,Elementary,7.7965800000000005,Elementary
+1265,15,340077903353,Plainfield,7062,1256.0,Elementary,7.7965800000000005,Other
+1266,16,340768002947,Irvington,7111,1256.0,Elementary,7.7965800000000005,Elementary
+1267,17,341623004742,Toms River,8757,1256.0,Elementary,7.7965800000000005,Elementary
+1268,18,340225001804,Bridgeton,8302,1256.0,Elementary,7.7965800000000005,Elementary
+1269,19,341134002288,Newark,7112,1256.0,Elementary,7.7965800000000005,Elementary
+1270,20,341314005628,Plainfield,7060,1256.0,Elementary,7.7965800000000005,Elementary
+1271,21,341116004048,Neptune,7753,1256.0,Elementary,7.7965800000000005,Elementary
+1272,22,341800001282,Willingboro,8046,1256.0,Elementary,7.7965800000000005,Elementary
+1273,23,340096000026,Atlantic City,8401,1256.0,Elementary,7.7965800000000005,Elementary
+1274,24,341134002232,Newark,7108,1256.0,Elementary,7.7965800000000005,Elementary
+1275,25,340077103287,Galloway,8205,1256.0,Elementary,7.7965800000000005,Elementary
+1276,26,340459005506,Elizabeth,7206,1256.0,Elementary,7.7965800000000005,Elementary
+1277,27,340654003102,Hamilton,8610,1256.0,Elementary,7.7965800000000005,Elementary
+1278,28,341134002266,Newark,7112,1256.0,Elementary,7.7965800000000005,Elementary
+1279,29,340077203313,Camden,8105,1256.0,Elementary,7.7965800000000005,Other
+1280,30,341629003238,Trenton,8611,1256.0,Elementary,7.7965800000000005,Elementary
+1281,31,341314005612,Plainfield,7060,1256.0,Elementary,7.7965800000000005,Elementary
+1282,32,341269004876,Paterson,7501,1256.0,Elementary,7.7965800000000005,Elementary
+1283,33,340783002838,Jersey City,7305,1256.0,Elementary,7.7965800000000005,Elementary
+1284,34,340816004632,Lakehurst,8733,1256.0,Elementary,7.7965800000000005,Elementary
+1285,35,341680003031,Vineland,8360,1256.0,Elementary,7.7965800000000005,Elementary
+1286,36,341269004920,Paterson,7514,1256.0,Elementary,7.7965800000000005,Elementary
+1287,37,341134002256,Newark,7112,1256.0,Elementary,7.7965800000000005,Elementary
+1288,38,340864001580,Lindenwold,8021,1256.0,Elementary,7.7965800000000005,Elementary
+1289,39,341032000061,Millville,8332,1256.0,Elementary,7.7965800000000005,Elementary
+1290,40,340008400575,Newark,7103,1256.0,Elementary,7.7965800000000005,Elementary
+1291,41,341254004850,Passaic,7055,1256.0,Elementary,7.7965800000000005,Middle
+1292,42,341134000091,Newark,7104,1256.0,Elementary,7.7965800000000005,Elementary
+1293,43,340654003110,Hamilton,8629,1256.0,Elementary,7.7965800000000005,Elementary
+1294,44,341254004848,Passaic,7055,1256.0,Elementary,7.7965800000000005,Elementary
+1295,45,341254004844,Passaic,7055,1256.0,Elementary,7.7965800000000005,Elementary
+1296,46,341269004898,Paterson,7504,1256.0,Elementary,7.7965800000000005,Elementary
+1297,47,341314005614,Plainfield,7063,1256.0,Elementary,7.7965800000000005,Elementary
+1298,48,341134003150,Newark,7104,1256.0,Elementary,7.7965800000000005,Elementary
+1299,49,340783002798,Jersey City,7305,1256.0,Elementary,7.7965800000000005,Elementary
+1300,0,341629003242,Trenton,8609,1297.0,Elementary,4.89074,Elementary
+1301,1,340225001788,Bridgeton,8302,1297.0,Elementary,4.89074,Elementary
+1302,2,341134005912,Newark,7112,1297.0,Elementary,4.89074,Elementary
+1303,3,341314005622,Plainfield,7063,1297.0,Elementary,4.89074,Elementary
+1304,4,341269005916,Paterson,7513,1297.0,Elementary,4.89074,Elementary
+1305,5,340768002110,Irvington,7111,1297.0,Elementary,4.89074,Elementary
+1306,6,340864001578,Lindenwold,8021,1297.0,Elementary,4.89074,Elementary
+1307,7,340783002796,Jersey City,7304,1297.0,Elementary,4.89074,Elementary
+1308,8,340504000811,Bridgeton,8302,1297.0,Elementary,4.89074,Elementary
+1309,9,340079103403,Asbury Park,7712,1297.0,Elementary,4.89074,Elementary
+1310,10,341032001872,Millville,8332,1297.0,Elementary,4.89074,Elementary
+1311,11,341269003369,Prospect Park,7508,1297.0,Elementary,4.89074,Middle
+1312,12,341269004888,Paterson,7503,1297.0,Elementary,4.89074,Elementary
+1313,13,341134002364,Newark,7103,1297.0,Elementary,4.89074,Elementary
+1314,14,341269004912,Paterson,7504,1297.0,Elementary,4.89074,Elementary
+1315,15,341134002304,Newark,7108,1297.0,Elementary,4.89074,Elementary
+1316,16,341269004902,Paterson,7501,1297.0,Elementary,4.89074,Elementary
+1317,17,341134002262,Newark,7103,1297.0,Elementary,4.89074,Elementary
+1318,18,340453000074,Egg Harbor City,8215,1297.0,Elementary,4.89074,Elementary
+1319,19,340264001394,Camden,8105,1297.0,Elementary,4.89074,Elementary
+1320,20,340093000157,Asbury Park,7712,1297.0,Elementary,4.89074,Elementary
+1321,21,340264001408,Camden,8104,1297.0,Elementary,4.89074,Elementary
+1322,22,341269004896,Paterson,7522,1297.0,Elementary,4.89074,Elementary
+1323,23,341134002280,Newark,7107,1297.0,Elementary,4.89074,Elementary
+1324,24,340264001366,Camden,8105,1297.0,Elementary,4.89074,Elementary
+1325,25,341629003226,Trenton,8618,1297.0,Elementary,4.89074,Elementary
+1326,26,340225001790,Bridgeton,8302,1297.0,Elementary,4.89074,Elementary
+1327,27,341794001770,Wildwood,8260,1297.0,Elementary,4.89074,Elementary
+1328,28,341269004880,Paterson,7522,1297.0,Elementary,4.89074,Middle
+1329,29,340264001374,Camden,8103,1297.0,Elementary,4.89074,Elementary
+1330,30,341269000803,Paterson,7522,1297.0,Elementary,4.89074,Elementary
+1331,31,341629003220,Trenton,8609,1297.0,Elementary,4.89074,Elementary
+1332,32,340225001800,Bridgeton,8302,1297.0,Elementary,4.89074,Elementary
+1333,33,340264001364,Camden,8102,1297.0,Elementary,4.89074,Elementary
+1334,34,340264001400,Camden,8103,1297.0,Elementary,4.89074,Elementary
+1335,35,340225001786,Bridgeton,8302,1297.0,Elementary,4.89074,Elementary
+1336,36,340264006084,Camden,8104,1297.0,Elementary,4.89074,Elementary
+1337,37,341269004884,Paterson,7501,1297.0,Elementary,4.89074,Elementary
+1338,38,341629003236,Trenton,8609,1297.0,Elementary,4.89074,Elementary
+1339,39,341134002234,Newark,7108,1297.0,Elementary,4.89074,Elementary
+1340,40,340096000020,Atlantic City,8401,1297.0,Elementary,4.89074,Elementary
+1341,41,340348001810,Port Norris,8349,1297.0,Elementary,4.89074,Elementary
+1342,42,341269004892,Paterson,7524,1297.0,Elementary,4.89074,Elementary
+1343,43,340096000022,Atlantic City,8401,1297.0,Elementary,4.89074,Elementary
+1344,44,341455005094,Salem,8079,1297.0,Elementary,4.89074,Middle
+1345,45,341629003248,Trenton,8638,1297.0,Elementary,4.89074,Elementary
+1346,46,341629003222,Trenton,8618,1297.0,Elementary,4.89074,Elementary
+1347,47,341269004914,Paterson,7514,1297.0,Elementary,4.89074,Elementary
+1348,48,341269004872,Paterson,7501,1297.0,Elementary,4.89074,Elementary
+1349,49,340264001354,Camden,8105,1297.0,Elementary,4.89074,Elementary
+1350,0,340264003065,Camden,8105,1336.0,Elementary,2.1117,Elementary
+1351,1,340093003740,Asbury Park,7712,1336.0,Elementary,2.1117,Elementary
+1352,2,340264001406,Camden,8104,1336.0,Elementary,2.1117,Elementary
+1353,3,340093003301,Asbury Park,7712,1336.0,Elementary,2.1117,Elementary
+1354,4,341314005626,Plainfield,7060,1336.0,Elementary,2.1117,Elementary
+1355,5,341629003123,Trenton,8638,1336.0,Elementary,2.1117,Elementary
+1356,0,340783003121,Jersey City,7305,1.0,High,96.08451,High
+1357,1,341638000143,Union City,7087,1.0,High,96.08451,Elementary
+1358,2,340993004322,Brookside,7926,1.0,High,96.08451,Middle
+1359,3,340879003898,Little Silver,7739,1.0,High,96.08451,Middle
+1360,4,340087000228,Alpine,7620,1.0,High,96.08451,Elementary
+1361,5,341134002200,Newark,7102,1.0,High,96.08451,High
+1362,6,341437004092,Rumson,7760,1.0,High,96.08451,Middle
+1363,7,340732000530,Ho Ho Kus,7423,1.0,High,96.08451,Elementary
+1364,8,340672004260,New Vernon,7976,1.0,High,96.08451,Elementary
+1365,9,340381000334,Demarest,7627,1.0,High,96.08451,Middle
+1366,10,340495003778,Fair Haven,7704,1.0,High,96.08451,Middle
+1367,11,340075000224,Allendale,7401,1.0,High,96.08451,Middle
+1368,12,340002500291,Newark,7104,1.0,High,96.08451,Elementary
+1369,13,340073403037,Hoboken,7030,1.0,High,96.08451,Elementary
+1370,14,341821000936,Woodcliff Lake,7677,1.0,High,96.08451,Middle
+1371,15,340339000318,Closter,7624,1.0,High,96.08451,Middle
+1372,16,340969000162,Margate City,8402,1.0,High,96.08451,Middle
+1373,17,341020002150,Millburn,7041,1.0,High,96.08451,Middle
+1374,18,341131006097,New Providence,7974,1.0,High,96.08451,Middle
+1375,19,341617003042,Califon,7830,1.0,High,96.08451,Middle
+1376,20,341269004924,Paterson,7522,1.0,High,96.08451,Elementary
+1377,21,341662000880,Upper Saddle River,7458,1.0,High,96.08451,Middle
+1378,22,340882002128,Livingston,7039,1.0,High,96.08451,Middle
+1379,23,340831004648,Lavallette,8735,1.0,High,96.08451,Elementary
+1380,24,340004300323,Princeton,8540,1.0,High,96.08451,Elementary
+1381,25,340408002980,Ringoes,8551,1.0,High,96.08451,Elementary
+1382,26,341611000872,Tenafly,7670,1.0,High,96.08451,Middle
+1383,27,340783000142,Jersey City,7305,1.0,High,96.08451,Middle
+1384,28,341590005710,Summit,7901,1.0,High,96.08451,Middle
+1385,29,341038004018,Monmouth Beach,7750,1.0,High,96.08451,Elementary
+1386,30,341473004098,Sea Girt,8750,1.0,High,96.08451,Elementary
+1387,31,340076703251,Jersey City,7307,1.0,High,96.08451,Elementary
+1388,32,340216005154,Branchburg,8876,1.0,High,96.08451,Middle
+1389,33,341104005588,Mountainside,7092,1.0,High,96.08451,Middle
+1390,34,340477000406,Englewood Cliffs,7632,1.0,High,96.08451,Middle
+1391,35,340165005126,Basking Ridge,7920,1.0,High,96.08451,Middle
+1392,36,341218000674,Old Tappan,7675,1.0,High,96.08451,Middle
+1393,37,341776005766,Westfield,7090,1.0,High,96.08451,Middle
+1394,38,341770006012,Plainsboro,8536,1.0,High,96.08451,Middle
+1395,39,340073503055,East Brunswick,8816,1.0,High,96.08451,Elementary
+1396,40,340126000141,Bayonne,7002,1.0,High,96.08451,Elementary
+1397,41,340873004822,Little Falls,7424,1.0,High,96.08451,Middle
+1398,42,340074603143,Somerset,8873,1.0,High,96.08451,Other
+1399,43,340924004308,Madison,7940,1.0,High,96.08451,Middle
+1400,44,341226000788,River Edge,7661,1.0,High,96.08451,Middle
+1401,45,341101004418,Mountain Lakes,7046,1.0,High,96.08451,Middle
+1402,46,340357005462,Cranford,7016,1.0,High,96.08451,Middle
+1403,47,341062000616,Montvale,7645,1.0,High,96.08451,Middle
+1404,48,341065004336,Montville,7045,1.0,High,96.08451,Middle
+1405,49,340003200302,Hoboken,7030,1.0,High,96.08451,Other
+1406,0,341077004358,Morris Plains,7950,31.0,Middle,88.71592,Middle
+1407,1,340450003334,Edison,8820,31.0,Middle,88.71592,Middle
+1408,2,340684000508,Harrington Park,7640,31.0,Middle,88.71592,Elementary
+1409,3,340972000515,Morganville,7751,31.0,Middle,88.71592,Middle
+1410,4,341182000656,Northvale,7647,31.0,Middle,88.71592,Elementary
+1411,5,341728004972,Wayne,7470,31.0,Middle,88.71592,Middle
+1412,6,340981000602,Maywood,7607,31.0,Middle,88.71592,Middle
+1413,7,341770000313,West Windsor,8550,31.0,Middle,88.71592,Middle
+1414,8,340594002092,Glen Ridge,7028,31.0,Middle,88.71592,High
+1415,9,340525004238,Florham Park,7932,31.0,Middle,88.71592,Middle
+1416,10,340450003328,Edison,8820,31.0,Middle,88.71592,Middle
+1417,11,340000406015,Chatham,7928,31.0,Middle,88.71592,Middle
+1418,12,341332004704,Point Pleasant Beach,8742,31.0,Middle,88.71592,Elementary
+1419,13,341713004544,Long Valley,7853,31.0,Middle,88.71592,Middle
+1420,14,341719005318,Watchung,7069,31.0,Middle,88.71592,Middle
+1421,15,340171002958,Asbury,8802,31.0,Middle,88.71592,Middle
+1422,16,340621005810,Stewartsville,8886,31.0,Middle,88.71592,Middle
+1423,17,340609005350,Greendell,7839,31.0,Middle,88.71592,Elementary
+1424,18,341557004106,Spring Lake,7762,31.0,Middle,88.71592,Elementary
+1425,19,341497004102,Shrewsbury,7702,31.0,Middle,88.71592,Elementary
+1426,20,341185000660,Norwood,7648,31.0,Middle,88.71592,Elementary
+1427,21,341728000558,Wayne,7470,31.0,Middle,88.71592,Middle
+1428,22,341011003982,Middletown,7748,31.0,Middle,88.71592,Middle
+1429,23,340498000053,Fair Lawn,7410,31.0,Middle,88.71592,Middle
+1430,24,340354003282,Cranbury,8512,31.0,Middle,88.71592,Elementary
+1431,25,340696000520,Haworth,7641,31.0,Middle,88.71592,Elementary
+1432,26,340726000526,Hillsdale,7642,31.0,Middle,88.71592,Middle
+1433,27,341467005678,Scotch Plains,7076,31.0,Middle,88.71592,Middle
+1434,28,341836000944,Wyckoff,7481,31.0,Middle,88.71592,Middle
+1435,29,340867000144,Linwood,8221,31.0,Middle,88.71592,Middle
+1436,30,341746002464,North Caldwell,7006,31.0,Middle,88.71592,Middle
+1437,31,340999003396,Metuchen,8840,31.0,Middle,88.71592,Middle
+1438,32,341071001140,Moorestown,8057,31.0,Middle,88.71592,Middle
+1439,33,340597000077,Glen Rock,7452,31.0,Middle,88.71592,Middle
+1440,34,341383000768,Ridgewood,7451,31.0,Middle,88.71592,Middle
+1441,35,340639001558,Haddonfield,8033,31.0,Middle,88.71592,Middle
+1442,36,340804004286,Kinnelon,7405,31.0,Middle,88.71592,Middle
+1443,37,340933000594,Mahwah,7430,31.0,Middle,88.71592,Middle
+1444,38,340003600309,Jersey City,7305,31.0,Middle,88.71592,Elementary
+1445,39,341290004478,Pompton Plains,7444,31.0,Middle,88.71592,Middle
+1446,40,340300000265,Cherry Hill,8003,31.0,Middle,88.71592,Middle
+1447,41,340360002993,Cresskill,7626,31.0,Middle,88.71592,Middle
+1448,42,340885000556,Lodi,7644,31.0,Middle,88.71592,Middle
+1449,43,341467005680,Scotch Plains,7076,31.0,Middle,88.71592,Middle
+1450,44,341728004990,Wayne,7470,31.0,Middle,88.71592,Middle
+1451,45,340198004162,Boonton,7005,31.0,Middle,88.71592,Elementary
+1452,46,341776005768,Westfield,7090,31.0,Middle,88.71592,Middle
+1453,47,340123004568,Bay Head,8742,31.0,Middle,88.71592,Elementary
+1454,48,340858004296,Lincoln Park,7035,31.0,Middle,88.71592,Middle
+1455,49,341266004462,Stirling,7980,31.0,Middle,88.71592,Middle
+1456,0,341665001758,Woodbine,8270,244.0,Middle,63.89889,Middle
+1457,1,340723005224,Hillsborough,8844,244.0,Middle,63.89889,Middle
+1458,2,340990004316,Mendham,7945,244.0,Middle,63.89889,Middle
+1459,3,341269005942,Paterson,7505,244.0,Middle,63.89889,Elementary
+1460,4,340939000029,Manalapan,7726,244.0,Middle,63.89889,Middle
+1461,5,341395000798,River Vale,7675,244.0,Middle,63.89889,Middle
+1462,6,341551000360,Sparta,7871,244.0,Middle,63.89889,Middle
+1463,7,341248004434,Parsippany,7054,244.0,Middle,63.89889,Middle
+1464,8,340513003782,Farmingdale,7727,244.0,Middle,63.89889,Elementary
+1465,9,340306004194,Chester,7930,244.0,Middle,63.89889,Middle
+1466,10,341359000732,Ramsey,7446,244.0,Middle,63.89889,Middle
+1467,11,340009000829,Somerset,8873,244.0,Middle,63.89889,Other
+1468,12,340231003754,Brielle,8730,244.0,Middle,63.89889,Elementary
+1469,13,340153005436,Berkeley Hts,7922,244.0,Middle,63.89889,Middle
+1470,14,341383000766,Ridgewood,7451,244.0,Middle,63.89889,Middle
+1471,15,341698005308,Warren,7060,244.0,Middle,63.89889,Middle
+1472,16,340984001114,Medford Lakes,8055,244.0,Middle,63.89889,Middle
+1473,17,341686000537,Waldwick,7463,244.0,Middle,63.89889,Middle
+1474,18,340387004208,Denville,7834,244.0,Middle,63.89889,Middle
+1475,19,341212004072,Oceanport,7757,244.0,Middle,63.89889,Middle
+1476,20,340705003844,Highlands,7732,244.0,Middle,63.89889,High
+1477,21,340921000580,Lyndhurst,7071,244.0,Middle,63.89889,Middle
+1478,22,341695004960,Wanaque,7465,244.0,Middle,63.89889,Elementary
+1479,23,340132005120,Bedminster,7921,244.0,Middle,63.89889,Elementary
+1480,24,340411003298,E Brunswick,8816,244.0,Middle,63.89889,Middle
+1481,25,340757000189,Jersey City,7302,244.0,Middle,63.89889,Middle
+1482,26,340972003950,Marlboro,7746,244.0,Middle,63.89889,Middle
+1483,27,341098000459,Budd Lake,7828,244.0,Middle,63.89889,Middle
+1484,28,340345003760,Colts Neck,7722,244.0,Middle,63.89889,Middle
+1485,29,340002900297,Hoboken,7030,244.0,Middle,63.89889,Elementary
+1486,30,340336002935,Clinton,8809,244.0,Middle,63.89889,Middle
+1487,31,340114003748,Avon by the Sea,7717,244.0,Middle,63.89889,Elementary
+1488,32,340741003852,Holmdel,7733,244.0,Middle,63.89889,Middle
+1489,33,340975003962,Cliffwood,7721,244.0,Middle,63.89889,Middle
+1490,34,340519000541,Flemington,8822,244.0,Middle,63.89889,Middle
+1491,35,341404001238,Riverton,8077,244.0,Middle,63.89889,Elementary
+1492,36,341695004958,Haskell,7420,244.0,Middle,63.89889,Elementary
+1493,37,340987001124,Medford,8055,244.0,Middle,63.89889,Middle
+1494,38,341584001890,Bridgeton,8323,244.0,Middle,63.89889,Elementary
+1495,39,340888003231,Logan Township,8085,244.0,Middle,63.89889,Middle
+1496,40,341710000146,Robbinsville,8691,244.0,Middle,63.89889,Middle
+1497,41,340612005216,Green Brook,8812,244.0,Middle,63.89889,Middle
+1498,42,341341003188,Princeton,8540,244.0,Middle,63.89889,Middle
+1499,43,340537000117,Franklin Lakes,7417,244.0,Middle,63.89889,Middle
+1500,44,341191000670,Oakland,7436,244.0,Middle,63.89889,Middle
+1501,45,340852000536,Leonia,7605,244.0,Middle,63.89889,Middle
+1502,46,340471000380,Emerson,7630,244.0,Middle,63.89889,High
+1503,47,341560004108,Spring Lake,7762,244.0,Middle,63.89889,Elementary
+1504,48,340564003816,Freehold,7728,244.0,Middle,63.89889,Middle
+1505,49,341188002380,Nutley,7110,244.0,Middle,63.89889,Middle
+1506,0,340002400289,Newark,7102,140.0,Other,78.31655,Other
+1507,1,341377000750,Ridgefield,7657,140.0,Other,78.31655,Other
+1508,2,340570002992,Frenchtown,8825,140.0,Other,78.31655,Elementary
+1509,3,340252004170,Butler,7405,140.0,Other,78.31655,Middle
+1510,4,341242000692,Paramus,7652,140.0,Other,78.31655,Middle
+1511,5,341689004140,Wall,7719,140.0,Other,78.31655,Middle
+1512,6,340228005162,Bridgewater,8807,140.0,Other,78.31655,Middle
+1513,7,340738003004,Milford,8848,140.0,Other,78.31655,Elementary
+1514,8,341059006031,Skillman,8558,140.0,Other,78.31655,Middle
+1515,9,341335004932,Pompton Lakes,7442,140.0,Other,78.31655,Middle
+1516,10,341329004694,Point Pleasant Beach,8742,140.0,Other,78.31655,Middle
+1517,11,341050003442,Monroe Township,8831,140.0,Other,78.31655,Middle
+1518,12,340006400373,Newark,7102,140.0,Other,78.31655,Elementary
+1519,13,340669004254,Whippany,7981,140.0,Other,78.31655,Middle
+1520,14,340000900178,Bernardsville,7924,140.0,Other,78.31655,Middle
+1521,15,340005200351,Clifton,7011,140.0,Other,78.31655,Middle
+1522,16,341521003618,Monmouth Junction,8852,140.0,Other,78.31655,Middle
+1523,17,340300001436,Cherry Hill,8003,140.0,Other,78.31655,Middle
+1524,18,341245000710,Park Ridge,7656,140.0,Other,78.31655,High
+1525,19,341644003046,Hampton,8827,140.0,Other,78.31655,Middle
+1526,20,341542000127,Southampton,8088,140.0,Other,78.31655,Middle
+1527,21,340564003814,Freehold,7728,140.0,Other,78.31655,Middle
+1528,22,341269000353,Paterson,7501,140.0,Other,78.31655,Elementary
+1529,23,340753003146,Pennington,8534,140.0,Other,78.31655,Middle
+1530,24,341521000196,Monmouth Junction,8852,140.0,Other,78.31655,Middle
+1531,25,341248004436,Parsippany,7054,140.0,Other,78.31655,Middle
+1532,26,340315005452,Clark,7066,140.0,Other,78.31655,Middle
+1533,27,341782000912,Westwood,7675,140.0,Other,78.31655,Middle
+1534,28,340399000344,Dumont,7628,140.0,Other,78.31655,Elementary
+1535,29,340633001528,Haddon Heights,8035,140.0,Other,78.31655,High
+1536,30,340285006025,Cedar Grove,7009,140.0,Other,78.31655,Middle
+1537,31,340417004230,East Hanover,7936,140.0,Other,78.31655,Middle
+1538,32,340399000348,Dumont,7628,140.0,Other,78.31655,Elementary
+1539,33,341128000632,New Milford,7646,140.0,Other,78.31655,Middle
+1540,34,341785000220,Dorothy,8317,140.0,Other,78.31655,Elementary
+1541,35,341683001682,Voorhees,8043,140.0,Other,78.31655,Middle
+1542,36,340747005826,Hope,7844,140.0,Other,78.31655,Elementary
+1543,37,340693000491,Hasbrouck Heights,7604,140.0,Other,78.31655,Middle
+1544,38,340468005032,Salem,8079,140.0,Other,78.31655,Elementary
+1545,39,341434004526,Succasunna,7876,140.0,Other,78.31655,Middle
+1546,40,340000800248,Great Meadows,7838,140.0,Other,78.31655,Middle
+1547,41,341134003061,Newark,7104,140.0,Other,78.31655,Elementary
+1548,42,341524000836,South Hackensack,7606,140.0,Other,78.31655,Elementary
+1549,43,340846003016,Califon,7830,140.0,Other,78.31655,Middle
+1550,44,340002000282,Newark,7102,140.0,Other,78.31655,Middle
+1551,45,341749004148,West Long Branch,7764,140.0,Other,78.31655,Middle
+1552,46,340942003942,Manasquan,8736,140.0,Other,78.31655,Elementary
+1553,47,341134002274,Newark,7107,140.0,Other,78.31655,Elementary
+1554,48,341023004014,Millstone Township,8535,140.0,Other,78.31655,Middle
+1555,49,341620004116,Tinton Falls,7724,140.0,Other,78.31655,Middle
+1556,0,340498000414,Fair Lawn,7410,180.0,Middle,73.21615,Middle
+1557,1,340333002964,Clinton,8809,180.0,Middle,73.21615,Elementary
+1558,2,340004900336,Red Bank,7701,180.0,Middle,73.21615,Elementary
+1559,3,341086004394,Mount Arlington,7856,180.0,Middle,73.21615,Middle
+1560,4,341446000818,Rutherford,7070,180.0,Middle,73.21615,Middle
+1561,5,340801003008,Frenchtown,8825,180.0,Middle,73.21615,Elementary
+1562,6,341533002426,South Orange,7079,180.0,Middle,73.21615,Middle
+1563,7,340195004156,Boonton,7005,180.0,Middle,73.21615,Middle
+1564,8,341371003030,Whitehouse Station,8889,180.0,Middle,73.21615,Middle
+1565,9,341014000608,Midland Park,7432,180.0,Middle,73.21615,High
+1566,10,341155004830,North Haledon,7508,180.0,Middle,73.21615,Middle
+1567,11,341242000690,Paramus,7652,180.0,Middle,73.21615,Middle
+1568,12,340090005326,Newton,7860,180.0,Middle,73.21615,Middle
+1569,13,340357005460,Cranford,7016,180.0,Middle,73.21615,Elementary
+1570,14,341068000620,Moonachie,7074,180.0,Middle,73.21615,Elementary
+1571,15,340678000729,Hamburg,7419,180.0,Middle,73.21615,Middle
+1572,16,340159001324,Berlin,8009,180.0,Middle,73.21615,Elementary
+1573,17,341386004944,Ringwood,7456,180.0,Middle,73.21615,Middle
+1574,18,341680001928,Vineland,8361,180.0,Middle,73.21615,Middle
+1575,19,340006100378,Plainfield,7063,180.0,Middle,73.21615,Elementary
+1576,20,341656003098,Allentown,8501,180.0,Middle,73.21615,Middle
+1577,21,341365004494,Randolph,7869,180.0,Middle,73.21615,Middle
+1578,22,340642001088,Hainesport,8036,180.0,Middle,73.21615,Elementary
+1579,23,340459000013,Elizabeth,7206,180.0,Middle,73.21615,Middle
+1580,24,340003500307,Jersey City,7304,180.0,Middle,73.21615,Elementary
+1581,25,340783002812,Jersey City,7307,180.0,Middle,73.21615,Elementary
+1582,26,340903005034,Salem,8079,180.0,Middle,73.21615,Elementary
+1583,27,341668000216,Ventnor City,8406,180.0,Middle,73.21615,Middle
+1584,28,340798000093,Woolwich Twp,8085,180.0,Middle,73.21615,Middle
+1585,29,341125001168,Wrightstown,8562,180.0,Middle,73.21615,Elementary
+1586,30,341221005042,Pedricktown,8067,180.0,Middle,73.21615,Elementary
+1587,31,340111001702,Avalon,8202,180.0,Middle,73.21615,Middle
+1588,32,340756000331,Howell,7731,180.0,Middle,73.21615,Middle
+1589,33,340630005816,Hackettstown,7840,180.0,Middle,73.21615,Middle
+1590,34,340840003154,Lawrenceville,8648,180.0,Middle,73.21615,Middle
+1591,35,340001400258,Englewood,7631,180.0,Middle,73.21615,Elementary
+1592,36,340927003500,Old Bridge,8857,180.0,Middle,73.21615,Middle
+1593,37,340255005334,Stanhope,7874,180.0,Middle,73.21615,Middle
+1594,38,341545006060,Franklinville,8322,180.0,Middle,73.21615,Middle
+1595,39,341197001748,Ocean City,8226,180.0,Middle,73.21615,Middle
+1596,40,341011003984,Port Monmouth,7758,180.0,Middle,73.21615,Middle
+1597,41,340489000057,Marlton,8053,180.0,Middle,73.21615,Middle
+1598,42,340756000097,Farmingdale,7727,180.0,Middle,73.21615,Middle
+1599,43,340489001074,Marlton,8053,180.0,Middle,73.21615,Middle
+1600,44,340423002040,East Orange,7017,180.0,Middle,73.21615,High
+1601,45,340615001848,Greenwich,8323,180.0,Middle,73.21615,Elementary
+1602,46,340072005788,Allamuchy,7820,180.0,Middle,73.21615,Middle
+1603,47,340069002954,Pittstown,8867,180.0,Middle,73.21615,Middle
+1604,48,341782000906,Township Of Washington,7676,180.0,Middle,73.21615,High
+1605,49,341413004512,Rockaway,7866,180.0,Middle,73.21615,Middle
+1606,0,341407000804,Rochelle Park,7662,279.0,Elementary,60.100469999999994,Elementary
+1607,1,341081004372,Morristown,7960,279.0,Elementary,60.100469999999994,Middle
+1608,2,340459005524,Elizabeth,7202,279.0,Elementary,60.100469999999994,Middle
+1609,3,340534005336,Branchville,7826,279.0,Elementary,60.100469999999994,Elementary
+1610,4,340126002710,Bayonne,7002,279.0,Elementary,60.100469999999994,Elementary
+1611,5,340321002508,Mullica Hill,8062,279.0,Elementary,60.100469999999994,Middle
+1612,6,340008200569,Blairstown,7825,279.0,Elementary,60.100469999999994,Elementary
+1613,7,341056002178,Upper Montclair,7042,279.0,Elementary,60.100469999999994,Middle
+1614,8,340393000005,Dover,7801,279.0,Elementary,60.100469999999994,Middle
+1615,9,341488006103,Shamong,8088,279.0,Elementary,60.100469999999994,Middle
+1616,10,341170001184,Columbus,8022,279.0,Elementary,60.100469999999994,Middle
+1617,11,340258002010,Caldwell,7006,279.0,Elementary,60.100469999999994,Middle
+1618,12,341449000824,Saddle Brook,7663,279.0,Elementary,60.100469999999994,High
+1619,13,340372002974,Sergeantsville,8557,279.0,Elementary,60.100469999999994,Elementary
+1620,14,341812003682,Iselin,8830,279.0,Elementary,60.100469999999994,Middle
+1621,15,341011003980,Leonardo,7737,279.0,Elementary,60.100469999999994,Middle
+1622,16,340004200322,Hamilton,8619,279.0,Elementary,60.100469999999994,Elementary
+1623,17,340927003508,Old Bridge,8857,279.0,Elementary,60.100469999999994,Middle
+1624,18,340186004758,Bloomingdale,7403,279.0,Elementary,60.100469999999994,Middle
+1625,19,341398004498,Riverdale,7457,279.0,Elementary,60.100469999999994,Elementary
+1626,20,341587001670,Stratford,8084,279.0,Elementary,60.100469999999994,Middle
+1627,21,340921000574,Lyndhurst,7071,279.0,Elementary,60.100469999999994,Middle
+1628,22,340579005532,Garwood,7027,279.0,Elementary,60.100469999999994,Elementary
+1629,23,340813005374,Lafayette,7848,279.0,Elementary,60.100469999999994,Elementary
+1630,24,340324005899,Clementon,8021,279.0,Elementary,60.100469999999994,Elementary
+1631,25,340002600292,Newark,7104,279.0,Elementary,60.100469999999994,Elementary
+1632,26,340429000352,East Rutherford,7073,279.0,Elementary,60.100469999999994,Middle
+1633,27,340312001024,Cinnaminson,8077,279.0,Elementary,60.100469999999994,Middle
+1634,28,340076403256,Newark,7103,279.0,Elementary,60.100469999999994,Elementary
+1635,29,340081005028,Alloway,8001,279.0,Elementary,60.100469999999994,Elementary
+1636,30,341674002456,Verona,7044,279.0,Elementary,60.100469999999994,Middle
+1637,31,341743002676,West Deptford,8066,279.0,Elementary,60.100469999999994,Middle
+1638,32,340450003330,Edison,8837,279.0,Elementary,60.100469999999994,Middle
+1639,33,341752005002,West Milford,7480,279.0,Elementary,60.100469999999994,Middle
+1640,34,340774004624,Jackson,8527,279.0,Elementary,60.100469999999994,Middle
+1641,35,341410004502,Rockaway,7866,279.0,Elementary,60.100469999999994,Middle
+1642,36,341554000068,Spotswood,8884,279.0,Elementary,60.100469999999994,Middle
+1643,37,341572005404,Stanhope,7874,279.0,Elementary,60.100469999999994,Elementary
+1644,38,341791005894,Belvidere,7823,279.0,Elementary,60.100469999999994,Elementary
+1645,39,340174000952,Beverly,8010,279.0,Elementary,60.100469999999994,Elementary
+1646,40,341134002228,Newark,7105,279.0,Elementary,60.100469999999994,Elementary
+1647,41,340546002990,Quakertown,8868,279.0,Elementary,60.100469999999994,Elementary
+1648,42,340390002514,Sewell,8080,279.0,Elementary,60.100469999999994,Middle
+1649,43,340636000707,Westmont,8108,279.0,Elementary,60.100469999999994,Middle
+1650,44,340222004590,Brick,8723,279.0,Elementary,60.100469999999994,Middle
+1651,45,341311006056,Pittsgrove,8318,279.0,Elementary,60.100469999999994,Middle
+1652,46,341635004120,Union Beach,7735,279.0,Elementary,60.100469999999994,Elementary
+1653,47,340074803144,Paterson,7501,279.0,Elementary,60.100469999999994,Elementary
+1654,48,341671005948,Vernon,7462,279.0,Elementary,60.100469999999994,Middle
+1655,49,340327000312,Cliffside Park,7010,279.0,Elementary,60.100469999999994,Elementary
+1656,0,341029003432,Milltown,8850,292.0,Middle,58.67491999999999,Middle
+1657,1,340005100339,Morristown,7960,292.0,Middle,58.67491999999999,Elementary
+1658,2,340222004602,Brick,8724,292.0,Middle,58.67491999999999,Middle
+1659,3,340531000452,Fort Lee,7024,292.0,Middle,58.67491999999999,Middle
+1660,4,341485006059,Secaucus,7094,292.0,Middle,58.67491999999999,Middle
+1661,5,341146002892,North Bergen,7047,292.0,Middle,58.67491999999999,Elementary
+1662,6,341134002326,Newark,7106,292.0,Middle,58.67491999999999,Elementary
+1663,7,341659005110,Monroeville,8343,292.0,Middle,58.67491999999999,Elementary
+1664,8,340900000731,Phillipsburg,8865,292.0,Middle,58.67491999999999,Middle
+1665,9,341305003556,Piscataway,8854,292.0,Middle,58.67491999999999,Middle
+1666,10,340162001328,West Berlin,8091,292.0,Middle,58.67491999999999,Middle
+1667,11,340126002722,Bayonne,7002,292.0,Middle,58.67491999999999,Elementary
+1668,12,341833005118,Woodstown,8098,292.0,Middle,58.67491999999999,Middle
+1669,13,340192000284,Bogota,7603,292.0,Middle,58.67491999999999,High
+1670,14,341146002886,North Bergen,7047,292.0,Middle,58.67491999999999,Elementary
+1671,15,341350005086,Quinton,8072,292.0,Middle,58.67491999999999,Elementary
+1672,16,340783002814,Jersey City,7307,292.0,Middle,58.67491999999999,Elementary
+1673,17,340459005522,Elizabeth,7208,292.0,Middle,58.67491999999999,Elementary
+1674,18,340783002786,Jersey City,7302,292.0,Middle,58.67491999999999,Elementary
+1675,19,340411003296,E Brunswick,8816,292.0,Middle,58.67491999999999,Other
+1676,20,340001500259,Teaneck,7666,292.0,Middle,58.67491999999999,Elementary
+1677,21,340450003332,Edison,8817,292.0,Middle,58.67491999999999,Middle
+1678,22,341143000644,North Arlington,7031,292.0,Middle,58.67491999999999,Middle
+1679,23,341119004426,Netcong,7857,292.0,Middle,58.67491999999999,Elementary
+1680,24,340876000542,Little Ferry,7643,292.0,Middle,58.67491999999999,Middle
+1681,25,340687002742,Harrison,7029,292.0,Middle,58.67491999999999,Middle
+1682,26,340071502923,Garfield,7026,292.0,Middle,58.67491999999999,Other
+1683,27,341533002424,Maplewood,7040,292.0,Middle,58.67491999999999,Middle
+1684,28,340618006091,Gibbstown,8027,292.0,Middle,58.67491999999999,Middle
+1685,29,341053005380,Montague,7827,292.0,Middle,58.67491999999999,Elementary
+1686,30,341227002402,Orange,7050,292.0,Middle,58.67491999999999,Elementary
+1687,31,341563005700,Springfield,7081,292.0,Middle,58.67491999999999,Middle
+1688,32,341323000167,New Egypt,8533,292.0,Middle,58.67491999999999,Middle
+1689,33,341518000465,South Bound Brook,8880,292.0,Middle,58.67491999999999,Elementary
+1690,34,340795003890,Keyport,7735,292.0,Middle,58.67491999999999,Elementary
+1691,35,341269004890,Paterson,7503,292.0,Middle,58.67491999999999,Elementary
+1692,36,340096000016,Atlantic City,8401,292.0,Middle,58.67491999999999,Elementary
+1693,37,340810000242,Forked River,8731,292.0,Middle,58.67491999999999,Middle
+1694,38,341095001164,Mount Laurel,8054,292.0,Middle,58.67491999999999,Middle
+1695,39,340004600329,Trenton,8638,292.0,Middle,58.67491999999999,Elementary
+1696,40,341638000546,Union City,7087,292.0,Middle,58.67491999999999,Middle
+1697,41,340540005342,Franklin,7416,292.0,Middle,58.67491999999999,Elementary
+1698,42,340183001982,Bloomfield,7003,292.0,Middle,58.67491999999999,Middle
+1699,43,340948005036,Salem,8079,292.0,Middle,58.67491999999999,Elementary
+1700,44,341431005670,Roselle Park,7204,292.0,Middle,58.67491999999999,Middle
+1701,45,340441003770,Eatontown,7724,292.0,Middle,58.67491999999999,Middle
+1702,46,340076903036,Lambertville,8530,292.0,Middle,58.67491999999999,High
+1703,47,341650005746,Union,7083,292.0,Middle,58.67491999999999,Middle
+1704,48,340105001298,Audubon,8106,292.0,Middle,58.67491999999999,High
+1705,49,341608000844,Teaneck,7666,292.0,Middle,58.67491999999999,Middle
+1706,0,340126002730,Bayonne,7002,305.0,Elementary,55.994980000000005,Elementary
+1707,1,341134002368,Newark,7108,305.0,Elementary,55.994980000000005,Elementary
+1708,2,340699004810,Hawthorne,7506,305.0,Elementary,55.994980000000005,Middle
+1709,3,340126002728,Bayonne,7002,305.0,Elementary,55.994980000000005,Elementary
+1710,4,341638003073,Union City,7087,305.0,Elementary,55.994980000000005,Middle
+1711,5,340711003000,High Bridge,8829,305.0,Elementary,55.994980000000005,Middle
+1712,6,341536003634,South Plainfield,7080,305.0,Elementary,55.994980000000005,Middle
+1713,7,340459000825,Elizabeth,7208,305.0,Elementary,55.994980000000005,Elementary
+1714,8,341305003560,Piscataway,8854,305.0,Elementary,55.994980000000005,Middle
+1715,9,340624002734,Guttenberg,7093,305.0,Elementary,55.994980000000005,Elementary
+1716,10,340486000102,Estell Manor,8319,305.0,Elementary,55.994980000000005,Elementary
+1717,11,340126002716,Bayonne,7002,305.0,Elementary,55.994980000000005,Elementary
+1718,12,341548005944,Manahawkin,8050,305.0,Elementary,55.994980000000005,Middle
+1719,13,340459000806,Elizabeth,7208,305.0,Elementary,55.994980000000005,Elementary
+1720,14,341707000185,Sewell,8080,305.0,Elementary,55.994980000000005,Middle
+1721,15,340806005372,Newton,7860,305.0,Elementary,55.994980000000005,High
+1722,16,340096000028,Atlantic City,8401,305.0,Elementary,55.994980000000005,Elementary
+1723,17,341623004726,Toms River,8753,305.0,Elementary,55.994980000000005,Middle
+1724,18,340150000278,Bergenfield,7621,305.0,Elementary,55.994980000000005,Middle
+1725,19,340072703029,Jersey City,7306,305.0,Elementary,55.994980000000005,Elementary
+1726,20,341179000215,Northfield,8225,305.0,Elementary,55.994980000000005,Middle
+1727,21,341623004728,Toms River,8753,305.0,Elementary,55.994980000000005,Middle
+1728,22,341056000181,Montclair,7042,305.0,Elementary,55.994980000000005,Middle
+1729,23,341812003678,Colonia,7067,305.0,Elementary,55.994980000000005,Middle
+1730,24,341326000366,Phillipsburg,8865,305.0,Elementary,55.994980000000005,Elementary
+1731,25,341005003412,Middlesex,8846,305.0,Elementary,55.994980000000005,Middle
+1732,26,341608000842,Teaneck,7666,305.0,Elementary,55.994980000000005,Middle
+1733,27,340921000576,Lyndhurst,7071,305.0,Elementary,55.994980000000005,Middle
+1734,28,340342001476,Collingswood,8108,305.0,Elementary,55.994980000000005,Middle
+1735,29,341134002298,Newark,7105,305.0,Elementary,55.994980000000005,Elementary
+1736,30,340909001722,Cape May,8204,305.0,Elementary,55.994980000000005,Middle
+1737,31,340783000539,Jersey City,7302,305.0,Elementary,55.994980000000005,Middle
+1738,32,341368003840,Hazlet,7730,305.0,Elementary,55.994980000000005,Middle
+1739,33,340096000012,Atlantic City,8401,305.0,Elementary,55.994980000000005,Elementary
+1740,34,341107000174,Elwood,8217,305.0,Elementary,55.994980000000005,Middle
+1741,35,340456002955,Egg Harbor Township,8234,305.0,Elementary,55.994980000000005,Middle
+1742,36,341056002172,Montclair,7042,305.0,Elementary,55.994980000000005,Middle
+1743,37,340126002712,Bayonne,7002,305.0,Elementary,55.994980000000005,Elementary
+1744,38,341626004954,Totowa,7512,305.0,Elementary,55.994980000000005,Middle
+1745,39,340918006092,Lumberton,8048,305.0,Elementary,55.994980000000005,Middle
+1746,40,340075903196,Jersey City,7302,305.0,Elementary,55.994980000000005,Elementary
+1747,41,340077303275,Newark,7114,305.0,Elementary,55.994980000000005,Middle
+1748,42,340459003197,Elizabeth,7206,305.0,Elementary,55.994980000000005,Elementary
+1749,43,341692000898,Wallington,7057,305.0,Elementary,55.994980000000005,High
+1750,44,341761002476,West Orange,7052,305.0,Elementary,55.994980000000005,Middle
+1751,45,341047000183,Williamstown,8094,305.0,Elementary,55.994980000000005,Middle
+1752,46,341761006112,West Orange,7052,305.0,Elementary,55.994980000000005,Middle
+1753,47,341134002330,Newark,7105,305.0,Elementary,55.994980000000005,Elementary
+1754,48,340780004274,Oak Ridge,7438,305.0,Elementary,55.994980000000005,Middle
+1755,49,340585001490,Gibbsboro,8026,305.0,Elementary,55.994980000000005,Elementary
+1756,0,341206004060,Ocean,7712,274.0,Middle,60.4927,Middle
+1757,1,340126002720,Bayonne,7002,274.0,Middle,60.4927,Elementary
+1758,2,340402000149,Dunellen,8812,274.0,Middle,60.4927,Middle
+1759,3,341146002894,North Bergen,7047,274.0,Middle,60.4927,Elementary
+1760,4,340603000131,Sicklerville,8081,274.0,Middle,60.4927,Middle
+1761,5,340071903017,East Orange,7018,274.0,Middle,60.4927,Middle
+1762,6,341773001258,Westampton,8060,274.0,Middle,60.4927,Middle
+1763,7,340203000801,Bordentown,8505,274.0,Middle,60.4927,Middle
+1764,8,340117001312,Barrington,8007,274.0,Middle,60.4927,Middle
+1765,9,340717006118,Highland Park,8904,274.0,Middle,60.4927,Middle
+1766,10,340279000813,Carlstadt,7072,274.0,Middle,60.4927,Elementary
+1767,11,340072903027,Vineland,8332,274.0,Middle,60.4927,Other
+1768,12,340141003750,Belmar,7719,274.0,Middle,60.4927,Elementary
+1769,13,341305003558,Piscataway,8854,274.0,Middle,60.4927,Middle
+1770,14,340657000140,Hammonton,8037,274.0,Middle,60.4927,Middle
+1771,15,340783002792,Jersey City,7306,274.0,Middle,60.4927,Elementary
+1772,16,340573000383,Galloway,8205,274.0,Middle,60.4927,Middle
+1773,17,341314003041,Plainfield,7063,274.0,Middle,60.4927,High
+1774,18,340330004766,Clifton,7013,274.0,Middle,60.4927,Middle
+1775,19,340774000069,Jackson,8527,274.0,Middle,60.4927,Middle
+1776,20,340603001516,Blackwood,8012,274.0,Middle,60.4927,Middle
+1777,21,341089001598,Mount Ephraim,8059,274.0,Middle,60.4927,Middle
+1778,22,341830000922,Wood Ridge,7075,274.0,Middle,60.4927,High
+1779,23,341764005022,Woodland Park,7424,274.0,Middle,60.4927,Middle
+1780,24,340005500361,Sparta,7871,274.0,Middle,60.4927,Middle
+1781,25,340456002953,Egg Harbor Township,8234,274.0,Middle,60.4927,Middle
+1782,26,340300001426,Cherry Hill,8034,274.0,Middle,60.4927,Middle
+1783,27,340126002714,Bayonne,7002,274.0,Middle,60.4927,Elementary
+1784,28,341707006075,Sewell,8080,274.0,Middle,60.4927,Middle
+1785,29,340459000245,Elizabeth,7202,274.0,Middle,60.4927,Elementary
+1786,30,341500001660,Somerdale,8083,274.0,Middle,60.4927,Elementary
+1787,31,340420002732,East Newark,7029,274.0,Middle,60.4927,Elementary
+1788,32,340084005790,Alpha,8865,274.0,Middle,60.4927,Elementary
+1789,33,340945005967,Manchester,8759,274.0,Middle,60.4927,Middle
+1790,34,340558003790,Freehold,7728,274.0,Middle,60.4927,Middle
+1791,35,340654003096,Hamilton,8690,274.0,Middle,60.4927,Middle
+1792,36,340007000529,Newark,7102,274.0,Middle,60.4927,Other
+1793,37,341464003582,Parlin,8859,274.0,Middle,60.4927,Middle
+1794,38,340549000563,Somerset,8873,274.0,Middle,60.4927,Middle
+1795,39,341697005880,Washington,7882,274.0,Middle,60.4927,Middle
+1796,40,340432003060,East Windsor,8520,274.0,Middle,60.4927,Middle
+1797,41,341788004558,Wharton,7885,274.0,Middle,60.4927,Middle
+1798,42,340078703387,Kearny,7032,274.0,Middle,60.4927,Elementary
+1799,43,341380000754,Ridgefield Park,7660,274.0,Middle,60.4927,High
+1800,44,340071702925,Trenton,8608,274.0,Middle,60.4927,Other
+1801,45,340138001316,Bellmawr,8031,274.0,Middle,60.4927,Middle
+1802,46,340366001826,Rosenhayn,8352,274.0,Middle,60.4927,Elementary
+1803,47,340466000075,Elmwood Park,7407,274.0,Middle,60.4927,Middle
+1804,48,341236000682,Palisades Park,7650,274.0,Middle,60.4927,High
+1805,49,341239001188,Palmyra,8065,274.0,Middle,60.4927,High
+1806,0,341167001742,North Wildwood,8260,435.0,Elementary,41.51021,Elementary
+1807,1,340378001042,Delran,8075,435.0,Elementary,41.51021,Middle
+1808,2,340066000004,Absecon,8201,435.0,Elementary,41.51021,Middle
+1809,3,340246002939,Burlington,8016,435.0,Elementary,41.51021,Middle
+1810,4,340996001594,Merchantville,8109,435.0,Elementary,41.51021,Elementary
+1811,5,340955005844,Blairstown,7825,435.0,Elementary,41.51021,High
+1812,6,341215005390,Ogdensburg,7439,435.0,Elementary,41.51021,Elementary
+1813,7,341300006101,Little Egg Harbor,8087,435.0,Elementary,41.51021,Middle
+1814,8,341149003486,North Brunswick,8902,435.0,Elementary,41.51021,Middle
+1815,9,341731002928,Weehawken,7086,435.0,Elementary,41.51021,High
+1816,10,341596005410,Sussex,7461,435.0,Elementary,41.51021,Middle
+1817,11,340837001856,Cedarville,8311,435.0,Elementary,41.51021,Elementary
+1818,12,340126000001,Bayonne,7002,435.0,Elementary,41.51021,Elementary
+1819,13,340213003752,Bradley Beach,7720,435.0,Elementary,41.51021,Elementary
+1820,14,341140005386,Newton,7860,435.0,Elementary,41.51021,Middle
+1821,15,340603001510,Blackwood,8012,435.0,Elementary,41.51021,Middle
+1822,16,341134002338,Newark,7104,435.0,Elementary,41.51021,Elementary
+1823,17,340777003386,Jamesburg,8831,435.0,Elementary,41.51021,Middle
+1824,18,341134002222,Newark,7107,435.0,Elementary,41.51021,Elementary
+1825,19,340008300573,Plainfield,7060,435.0,Elementary,41.51021,Other
+1826,20,341227006117,Orange,7050,435.0,Elementary,41.51021,Elementary
+1827,21,340384006115,Dennisville,8214,435.0,Elementary,41.51021,Middle
+1828,22,341374004078,Red Bank,7701,435.0,Elementary,41.51021,Middle
+1829,23,341134002252,Newark,7103,435.0,Elementary,41.51021,Elementary
+1830,24,341650005744,Union,7083,435.0,Elementary,41.51021,Middle
+1831,25,340576000470,Garfield,7026,435.0,Elementary,41.51021,Middle
+1832,26,341002001738,Cape May Court House,8210,435.0,Elementary,41.51021,Middle
+1833,27,341227002404,Orange,7050,435.0,Elementary,41.51021,Elementary
+1834,28,340783002828,Jersey City,7302,435.0,Elementary,41.51021,Elementary
+1835,29,340930001592,Magnolia,8049,435.0,Elementary,41.51021,Elementary
+1836,30,341758000547,West New York,7093,435.0,Elementary,41.51021,Middle
+1837,31,340528000104,Hammonton,8037,435.0,Elementary,41.51021,Elementary
+1838,32,340003400305,Jersey City,7306,435.0,Elementary,41.51021,Elementary
+1839,33,341647006074,Barnegat,8005,435.0,Elementary,41.51021,Middle
+1840,34,340008700735,Paterson,7503,435.0,Elementary,41.51021,Other
+1841,35,340963005240,Manville,8835,435.0,Elementary,41.51021,Middle
+1842,36,341134002360,Newark,7107,435.0,Elementary,41.51021,Elementary
+1843,37,340600003401,Gloucester City,8030,435.0,Elementary,41.51021,Middle
+1844,38,340075603185,Jersey City,7304,435.0,Elementary,41.51021,Elementary
+1845,39,340912005066,Pennsville,8070,435.0,Elementary,41.51021,Middle
+1846,40,341653001898,Seabrook,8302,435.0,Elementary,41.51021,Middle
+1847,41,341227002410,Orange,7050,435.0,Elementary,41.51021,Other
+1848,42,341122003476,New Brunswick,8901,435.0,Elementary,41.51021,Elementary
+1849,43,340282003274,Carteret,7008,435.0,Elementary,41.51021,Middle
+1850,44,340645005904,Haledon,7508,435.0,Elementary,41.51021,Elementary
+1851,45,340423002064,East Orange,7017,435.0,Elementary,41.51021,High
+1852,46,340330004764,Clifton,7011,435.0,Elementary,41.51021,Middle
+1853,47,340648005352,Hamburg,7419,435.0,Elementary,41.51021,Elementary
+1854,48,341443001654,Runnemede,8078,435.0,Elementary,41.51021,Middle
+1855,49,340459005508,Elizabeth,7202,435.0,Elementary,41.51021,Elementary
+1856,0,340072303015,Trenton,8638,486.0,Middle,34.84275,Middle
+1857,1,340077603299,Camden,8104,486.0,Middle,34.84275,Elementary
+1858,2,341308000095,Pitman,8071,486.0,Middle,34.84275,Middle
+1859,3,340007600483,Asbury Park,7712,486.0,Middle,34.84275,Elementary
+1860,4,340074503137,Passaic,7055,486.0,Middle,34.84275,Other
+1861,5,341797001776,Wildwood Crest,8260,486.0,Middle,34.84275,Elementary
+1862,6,341254003365,Passaic,7055,486.0,Middle,34.84275,Middle
+1863,7,341230005846,Oxford,7863,486.0,Middle,34.84275,Elementary
+1864,8,340447001064,Edgewater Park,8010,486.0,Middle,34.84275,Middle
+1865,9,340459002997,Elizabeth,7208,486.0,Middle,34.84275,Elementary
+1866,10,340363003764,Deal,7723,486.0,Middle,34.84275,Elementary
+1867,11,341503000210,Somers Point,8244,486.0,Middle,34.84275,Middle
+1868,12,341812005972,Avenel,7001,486.0,Middle,34.84275,Middle
+1869,13,340234000040,Brigantine,8203,486.0,Middle,34.84275,Middle
+1870,14,341707006076,Sewell,8080,486.0,Middle,34.84275,Middle
+1871,15,341227002406,Orange,7050,486.0,Middle,34.84275,Elementary
+1872,16,340651006029,Mays Landing,8330,486.0,Middle,34.84275,Middle
+1873,17,340783002842,Jersey City,7305,486.0,Middle,34.84275,Elementary
+1874,18,340078503390,Camden,8105,486.0,Middle,34.84275,Other
+1875,19,340075103180,Newark,7102,486.0,Middle,34.84275,Other
+1876,20,340582002554,Woodbury Hts,8096,486.0,Middle,34.84275,High
+1877,21,340459005512,Elizabeth,7201,486.0,Middle,34.84275,Elementary
+1878,22,341623000555,Beachwood,8722,486.0,Middle,34.84275,Middle
+1879,23,340750001854,Bridgeton,8302,486.0,Middle,34.84275,Elementary
+1880,24,341092001152,Mount Holly,8060,486.0,Middle,34.84275,Middle
+1881,25,341512000154,South Amboy,8879,486.0,Middle,34.84275,High
+1882,26,340492003070,Ewing,8618,486.0,Middle,34.84275,Middle
+1883,27,340291005928,Bayville,8721,486.0,Middle,34.84275,Middle
+1884,28,340549005212,Somerset,8873,486.0,Middle,34.84275,Middle
+1885,29,341809001780,Woodbine,8270,486.0,Middle,34.84275,Elementary
+1886,30,340783002846,Jersey City,7304,486.0,Middle,34.84275,Elementary
+1887,31,341539003650,South River,8882,486.0,Middle,34.84275,Middle
+1888,32,341824001294,Chatsworth,8019,486.0,Middle,34.84275,Elementary
+1889,33,341146002890,North Bergen,7047,486.0,Middle,34.84275,Elementary
+1890,34,340783006114,Jersey City,7306,486.0,Middle,34.84275,Middle
+1891,35,340459005516,Elizabeth,7208,486.0,Middle,34.84275,Elementary
+1892,36,340792000209,Kenilworth,7033,486.0,Middle,34.84275,High
+1893,37,340654006049,Hamilton,8691,486.0,Middle,34.84275,Middle
+1894,38,340744005905,Hopatcong,7843,486.0,Middle,34.84275,Middle
+1895,39,340522006066,Florence,8518,486.0,Middle,34.84275,Middle
+1896,40,340654003094,Hamilton,8610,486.0,Middle,34.84275,Middle
+1897,41,340834001572,Lawnside,8045,486.0,Middle,34.84275,Elementary
+1898,42,340627003191,Hackensack,7601,486.0,Middle,34.84275,Middle
+1899,43,340264001384,Camden,8104,486.0,Middle,34.84275,High
+1900,44,341602005946,Tabernacle,8088,486.0,Middle,34.84275,Middle
+1901,45,340435001056,Eastampton,8060,486.0,Middle,34.84275,Elementary
+1902,46,340002200285,Newark,7102,486.0,Middle,34.84275,Other
+1903,47,341812003680,Fords,8863,486.0,Middle,34.84275,Middle
+1904,48,340966001104,Maple Shade,8052,486.0,Middle,34.84275,High
+1905,49,341299000433,Pine Hill,8021,486.0,Middle,34.84275,Middle
+1906,0,340071803014,Paterson,7501,501.0,Elementary,33.0213,Elementary
+1907,1,340459005962,Elizabeth,7202,501.0,Elementary,33.0213,Elementary
+1908,2,340588002564,Glassboro,8028,501.0,Elementary,33.0213,Middle
+1909,3,341113004028,Neptune City,7753,501.0,Elementary,33.0213,Elementary
+1910,4,340369001036,Delanco,8075,501.0,Elementary,33.0213,Middle
+1911,5,340003300303,Jersey City,7305,501.0,Elementary,33.0213,Elementary
+1912,6,340074903184,Millville,8332,501.0,Elementary,33.0213,Other
+1913,7,340459005492,Elizabeth,7206,501.0,Elementary,33.0213,Elementary
+1914,8,341146002884,North Bergen,7047,501.0,Elementary,33.0213,Elementary
+1915,9,340735003381,Hoboken,7030,501.0,Elementary,33.0213,Middle
+1916,10,341296005862,Phillipsburg,8865,501.0,Elementary,33.0213,Middle
+1917,11,341269004916,Paterson,7513,501.0,Elementary,33.0213,Elementary
+1918,12,341509005288,Somerville,8876,501.0,Elementary,33.0213,Middle
+1919,13,340459005504,Elizabeth,7208,501.0,Elementary,33.0213,Elementary
+1920,14,341281001200,Pemberton,8068,501.0,Elementary,33.0213,Middle
+1921,15,341812003684,Woodbridge,7095,501.0,Elementary,33.0213,Middle
+1922,16,340318002502,Clayton,8312,501.0,Elementary,33.0213,Middle
+1923,17,340789002872,Kearny,7032,501.0,Elementary,33.0213,Middle
+1924,18,340729005546,Hillside,7205,501.0,Elementary,33.0213,Middle
+1925,19,340459005518,Elizabeth,7202,501.0,Elementary,33.0213,Elementary
+1926,20,341803005786,Winfield Park,7036,501.0,Elementary,33.0213,Elementary
+1927,21,341146002888,North Bergen,7047,501.0,Elementary,33.0213,Elementary
+1928,22,340423002050,East Orange,7017,501.0,Elementary,33.0213,Elementary
+1929,23,340681005824,Phillipsburg,8865,501.0,Elementary,33.0213,Elementary
+1930,24,340396001832,Newport,8345,501.0,Elementary,33.0213,Elementary
+1931,25,340126002718,Bayonne,7002,501.0,Elementary,33.0213,Elementary
+1932,26,340459000071,Elizabeth,7202,501.0,Elementary,33.0213,Elementary
+1933,27,340978001862,Port Elizabeth,8348,501.0,Elementary,33.0213,Elementary
+1934,28,340459000207,Elizabeth,7206,501.0,Elementary,33.0213,Elementary
+1935,29,340816004632,Lakehurst,8733,501.0,Elementary,33.0213,Elementary
+1936,30,340076503254,Paterson,7501,501.0,Elementary,33.0213,Other
+1937,31,341353005636,Rahway,7065,501.0,Elementary,33.0213,Middle
+1938,32,340861005560,Linden,7036,501.0,Elementary,33.0213,Middle
+1939,33,340135001956,Belleville,7109,501.0,Elementary,33.0213,Middle
+1940,34,340507000436,Fairview,7022,501.0,Elementary,33.0213,Middle
+1941,35,341227002412,Orange,7050,501.0,Elementary,33.0213,Elementary
+1942,36,340459005482,Elizabeth,7202,501.0,Elementary,33.0213,Elementary
+1943,37,341806000439,Atco,8004,501.0,Elementary,33.0213,Middle
+1944,38,341122005940,New Brunswick,8901,501.0,Elementary,33.0213,Elementary
+1945,39,340783002806,Jersey City,7306,501.0,Elementary,33.0213,Elementary
+1946,40,341293003548,Perth Amboy,8861,501.0,Elementary,33.0213,Middle
+1947,41,340861005558,Linden,7036,501.0,Elementary,33.0213,Middle
+1948,42,341680001908,Vineland,8360,501.0,Elementary,33.0213,Middle
+1949,43,340237001340,Brooklawn,8030,501.0,Elementary,33.0213,Elementary
+1950,44,341116004036,Neptune,7753,501.0,Elementary,33.0213,Middle
+1951,45,340075303183,Jersey City,7307,501.0,Elementary,33.0213,High
+1952,46,341134002288,Newark,7112,501.0,Elementary,33.0213,Elementary
+1953,47,341134002937,Newark,7106,501.0,Elementary,33.0213,Elementary
+1954,48,340459005520,Elizabeth,7206,501.0,Elementary,33.0213,Elementary
+1955,49,340894003906,Long Branch,7740,501.0,Elementary,33.0213,Middle
+1956,0,341269004918,Paterson,7503,545.0,Elementary,26.2635,Elementary
+1957,1,340079303413,Paterson,7501,545.0,Elementary,26.2635,Elementary
+1958,2,340210003340,Bound Brook,8805,545.0,Elementary,26.2635,Middle
+1959,3,340243000966,Burlington,8016,545.0,Elementary,26.2635,High
+1960,4,340240000046,Buena,8310,545.0,Elementary,26.2635,Middle
+1961,5,340783002832,Jersey City,7306,545.0,Elementary,26.2635,Elementary
+1962,6,341164003337,North Plainfield,7060,545.0,Elementary,26.2635,Middle
+1963,7,341134002202,Newark,7108,545.0,Elementary,26.2635,High
+1964,8,341269004908,Paterson,7524,545.0,Elementary,26.2635,Elementary
+1965,9,341293003542,Perth Amboy,8861,545.0,Elementary,26.2635,Middle
+1966,10,341134002284,Newark,7105,545.0,Elementary,26.2635,Elementary
+1967,11,340225001804,Bridgeton,8302,545.0,Elementary,26.2635,Elementary
+1968,12,341815002688,Woodbury,8096,545.0,Elementary,26.2635,High
+1969,13,340144005796,Belvidere,7823,545.0,Elementary,26.2635,Middle
+1970,14,341287001612,Pennsauken,8109,545.0,Elementary,26.2635,Middle
+1971,15,340074403139,Willingboro,8046,545.0,Elementary,26.2635,Elementary
+1972,16,340096000018,Atlantic City,8401,545.0,Elementary,26.2635,Elementary
+1973,17,340822004642,Lakewood,8701,545.0,Elementary,26.2635,Middle
+1974,18,341122003379,New Brunswick,8901,545.0,Elementary,26.2635,Middle
+1975,19,341254000168,Passaic,7055,545.0,Elementary,26.2635,Elementary
+1976,20,341428005660,Roselle,7203,545.0,Elementary,26.2635,Middle
+1977,21,340474000394,Englewood,7631,545.0,Elementary,26.2635,Middle
+1978,22,341122002936,New Brunswick,8901,545.0,Elementary,26.2635,Middle
+1979,23,341269004886,Paterson,7501,545.0,Elementary,26.2635,Middle
+1980,24,340459005510,Elizabeth,7202,545.0,Elementary,26.2635,Elementary
+1981,25,341134002356,Newark,7106,545.0,Elementary,26.2635,Elementary
+1982,26,341269003263,Paterson,7514,545.0,Elementary,26.2635,Middle
+1983,27,341227002400,Orange,7050,545.0,Elementary,26.2635,Elementary
+1984,28,341269003382,Paterson,7503,545.0,Elementary,26.2635,Elementary
+1985,29,341269004878,Paterson,7501,545.0,Elementary,26.2635,Elementary
+1986,30,341347004938,Prospect Park,7508,545.0,Elementary,26.2635,Elementary
+1987,31,341122003466,New Brunswick,8901,545.0,Elementary,26.2635,Elementary
+1988,32,341269004876,Paterson,7501,545.0,Elementary,26.2635,Elementary
+1989,33,341134002262,Newark,7103,545.0,Elementary,26.2635,Elementary
+1990,34,341794006039,Wildwood,8260,545.0,Elementary,26.2635,Middle
+1991,35,340004700330,New Brunswick,8901,545.0,Elementary,26.2635,Elementary
+1992,36,340077703307,Camden,8103,545.0,Elementary,26.2635,Elementary
+1993,37,340768002122,Irvington,7111,545.0,Elementary,26.2635,Middle
+1994,38,340007800487,Camden,8102,545.0,Elementary,26.2635,Other
+1995,39,341134002266,Newark,7112,545.0,Elementary,26.2635,Elementary
+1996,40,341134002232,Newark,7108,545.0,Elementary,26.2635,Elementary
+1997,41,340786000027,Keansburg,7734,545.0,Elementary,26.2635,Middle
+1998,42,340264001368,Camden,8105,545.0,Elementary,26.2635,Elementary
+1999,43,341269003384,Paterson,7513,545.0,Elementary,26.2635,Elementary
+2000,44,340008400575,Newark,7103,545.0,Elementary,26.2635,Elementary
+2001,45,340002300287,Newark,7103,545.0,Elementary,26.2635,Elementary
+2002,46,340008000566,Camden,8104,545.0,Elementary,26.2635,Other
+2003,47,340783002824,Jersey City,7305,545.0,Elementary,26.2635,Elementary
+2004,48,340459005494,Elizabeth,7201,545.0,Elementary,26.2635,Elementary
+2005,49,340459003293,Elizabeth,7206,545.0,Elementary,26.2635,Elementary
+2056,0,340768002120,Irvington,7111,658.0,Middle,8.507480000000001,Middle
+2057,1,340225001790,Bridgeton,8302,658.0,Middle,8.507480000000001,Elementary
+2058,2,340077003291,Ewing,8618,658.0,Middle,8.507480000000001,High
+2059,3,341272003289,Paulsboro,8066,658.0,Middle,8.507480000000001,Middle
+2060,4,340225001786,Bridgeton,8302,658.0,Middle,8.507480000000001,Elementary
+2061,5,341269004912,Paterson,7504,658.0,Middle,8.507480000000001,Elementary
+2062,6,340096000022,Atlantic City,8401,658.0,Middle,8.507480000000001,Elementary
+2063,7,341629003267,Trenton,8629,658.0,Middle,8.507480000000001,Middle
+2064,8,341269004914,Paterson,7514,658.0,Middle,8.507480000000001,Elementary
+2065,9,340077903353,Plainfield,7062,658.0,Middle,8.507480000000001,Other
+2066,10,341134005912,Newark,7112,658.0,Middle,8.507480000000001,Elementary
+2067,11,341227002408,Orange,7050,658.0,Middle,8.507480000000001,Elementary
+2068,12,340264003065,Camden,8105,658.0,Middle,8.507480000000001,Elementary
+2069,13,341269004896,Paterson,7522,658.0,Middle,8.507480000000001,Elementary
+2070,14,341629003228,Trenton,8618,658.0,Middle,8.507480000000001,Middle
+2071,15,341134002234,Newark,7108,658.0,Middle,8.507480000000001,Elementary
+2072,16,341269005916,Paterson,7513,658.0,Middle,8.507480000000001,Elementary
+2073,17,340093003742,Asbury Park,7712,658.0,Middle,8.507480000000001,Middle
+2074,18,340783002808,Jersey City,7304,658.0,Middle,8.507480000000001,Elementary
+2075,19,340864000431,Lindenwold,8021,658.0,Middle,8.507480000000001,Middle
+2076,20,341629003230,Trenton,8618,658.0,Middle,8.507480000000001,Middle
+2077,21,340453000076,Egg Harbor City,8215,658.0,Middle,8.507480000000001,Middle
+2078,22,340504000811,Bridgeton,8302,658.0,Middle,8.507480000000001,Elementary
+2079,23,340264001364,Camden,8102,658.0,Middle,8.507480000000001,Elementary
+2080,24,340264001400,Camden,8103,658.0,Middle,8.507480000000001,Elementary
+2081,25,340264001408,Camden,8104,658.0,Middle,8.507480000000001,Elementary
+2082,26,341254004838,Passaic,7055,658.0,Middle,8.507480000000001,Elementary
+2083,27,341629003210,Trenton,8610,658.0,Middle,8.507480000000001,Middle
+2084,28,341269004894,Paterson,7501,658.0,Middle,8.507480000000001,Middle
+2085,29,340783002836,Jersey City,7305,658.0,Middle,8.507480000000001,Middle
+2086,30,340264006084,Camden,8104,658.0,Middle,8.507480000000001,Elementary
+2087,31,340079103403,Asbury Park,7712,658.0,Middle,8.507480000000001,Elementary
+2088,32,341455005094,Salem,8079,658.0,Middle,8.507480000000001,Middle
+2089,33,341254004852,Passaic,7055,658.0,Middle,8.507480000000001,Elementary
+2090,34,340264001406,Camden,8104,658.0,Middle,8.507480000000001,Elementary
+2091,35,340264001354,Camden,8105,658.0,Middle,8.507480000000001,Elementary
+2092,36,341254004854,Passaic,7055,658.0,Middle,8.507480000000001,Elementary
+2093,37,341254004850,Passaic,7055,658.0,Middle,8.507480000000001,Middle
+2094,38,341134003227,Newark,7112,658.0,Middle,8.507480000000001,High
+2095,39,341254004844,Passaic,7055,658.0,Middle,8.507480000000001,Elementary
+2096,40,341254004848,Passaic,7055,658.0,Middle,8.507480000000001,Elementary
+2097,41,340264000579,Camden,8103,658.0,Middle,8.507480000000001,High
+2098,0,341804006134,Scotch Plains,7076,7.0,High,97.11939,High
+2099,1,341804000214,Scotch Plains,7076,7.0,High,97.11939,High
+2100,2,341008000395,Edison,8837,7.0,High,97.11939,High
+2101,3,341804000584,Scotch Plains,7076,7.0,High,97.11939,High
+2102,4,341750000409,Wall,7719,7.0,High,97.11939,High
+2103,5,341750000163,Neptune,7753,7.0,High,97.11939,High
+2104,6,340147000250,Hackensack,7601,7.0,High,97.11939,High
+2105,7,341750006121,Freehold,7728,7.0,High,97.11939,High
+2106,8,340005003405,Annandale,8801,7.0,High,97.11939,High
+2107,9,341804005738,Scotch Plains,7076,7.0,High,97.11939,High
+2108,10,341750006095,Lincroft,7738,7.0,High,97.11939,High
+2109,11,341072000522,Rockaway,7866,7.0,High,97.11939,High
+2110,12,341072003418,Mountain Lakes,7046,7.0,High,97.11939,High
+2111,13,340147000262,Teterboro,7608,7.0,High,97.11939,High
+2112,14,341072004348,Denville,7834,7.0,High,97.11939,High
+2113,15,340783002778,Jersey City,7302,7.0,High,97.11939,High
+2114,16,341008003428,Woodbridge,7095,7.0,High,97.11939,High
+2115,17,341750005989,Highlands,7732,7.0,High,97.11939,High
+2116,18,341072003375,Oak Ridge,7438,7.0,High,97.11939,High
+2117,19,341176000650,Demarest,7627,7.0,High,97.11939,High
+2118,20,341198000559,Manahawkin,8050,7.0,High,97.11939,High
+2119,21,341590005708,Summit,7901,7.0,High,97.11939,High
+2120,22,341251000718,Montvale,7645,7.0,High,97.11939,High
+2121,23,341804003009,Scotch Plains,7076,7.0,High,97.11939,High
+2122,24,341134000139,Newark,7102,7.0,High,97.11939,High
+2123,25,340594002092,Glen Ridge,7028,7.0,High,97.11939,High
+2124,26,341176000652,Old Tappan,7675,7.0,High,97.11939,High
+2125,27,341131005592,New Providence,7974,7.0,High,97.11939,High
+2126,28,340783003121,Jersey City,7305,7.0,High,97.11939,High
+2127,29,340450003326,Edison,8820,7.0,High,97.11939,High
+2128,30,341226000786,Oradell,7649,7.0,High,97.11939,High
+2129,31,341173000646,Allendale,7401,7.0,High,97.11939,High
+2130,32,341755004550,Chester,7930,7.0,High,97.11939,High
+2131,33,340165005124,Basking Ridge,7920,7.0,High,97.11939,High
+2132,34,340639001554,Haddonfield,8033,7.0,High,97.11939,High
+2133,35,341020002148,Millburn,7041,7.0,High,97.11939,High
+2134,36,341755004552,Mendham,7945,7.0,High,97.11939,High
+2135,37,341071001132,Moorestown,8057,7.0,High,97.11939,High
+2136,38,340882002126,Livingston,7039,7.0,High,97.11939,High
+2137,39,341059005250,Skillman,8558,7.0,High,97.11939,High
+2138,40,341746002462,North Caldwell,7006,7.0,High,97.11939,High
+2139,41,341611000864,Tenafly,7670,7.0,High,97.11939,High
+2140,42,340666004246,Whippany,7981,7.0,High,97.11939,High
+2141,43,341383000764,Ridgewood,7451,7.0,High,97.11939,High
+2142,44,341356000726,Franklin Lakes,7417,7.0,High,97.11939,High
+2143,45,340361001816,Vineland,8360,7.0,High,97.11939,High
+2144,46,341065004332,Montville,7045,7.0,High,97.11939,High
+2145,47,340498000410,Fair Lawn,7410,7.0,High,97.11939,High
+2146,48,341776005764,Westfield,7090,7.0,High,97.11939,High
+2147,49,340759003006,Flemington,8822,7.0,High,97.11939,High
+2148,0,340147003341,Paramus,7652,49.0,High,76.45519,High
+2149,1,341356000724,Oakland,7436,49.0,High,76.45519,High
+2150,2,340924004300,Madison,7940,49.0,High,76.45519,High
+2151,3,340000406014,Chatham,7928,49.0,High,76.45519,High
+2152,4,340933000586,Mahwah,7430,49.0,High,76.45519,High
+2153,5,341290004470,Pompton Plains,7444,49.0,High,76.45519,High
+2154,6,340009000829,Somerset,8873,49.0,High,76.45519,Other
+2155,7,341245000710,Park Ridge,7656,49.0,High,76.45519,High
+2156,8,341251000720,Hillsdale,7642,49.0,High,76.45519,High
+2157,9,341134002200,Newark,7102,49.0,High,76.45519,High
+2158,10,341728004966,Wayne,7470,49.0,High,76.45519,High
+2159,11,340804004282,Kinnelon,7405,49.0,High,76.45519,High
+2160,12,340741003850,Holmdel,7733,49.0,High,76.45519,High
+2161,13,340360000324,Cresskill,7626,49.0,High,76.45519,High
+2162,14,340723005222,Hillsborough,8844,49.0,High,76.45519,High
+2163,15,341440004094,Rumson,7760,49.0,High,76.45519,High
+2164,16,340561003804,Marlboro,7746,49.0,High,76.45519,High
+2165,17,341728004964,Wayne,7470,49.0,High,76.45519,High
+2166,18,341359000730,Ramsey,7446,49.0,High,76.45519,High
+2167,19,341770000191,Plainsboro,8536,49.0,High,76.45519,High
+2168,20,340321002506,Mullica Hill,8062,49.0,High,76.45519,High
+2169,21,341710000549,Robbinsville,8691,49.0,High,76.45519,High
+2170,22,341506005278,Bridgewater,8807,49.0,High,76.45519,High
+2171,23,340228000173,Bridgewater,8807,49.0,High,76.45519,High
+2172,24,341248004432,Morris Plains,7950,49.0,High,76.45519,High
+2173,25,341101004416,Mountain Lakes,7046,49.0,High,76.45519,High
+2174,26,340399000340,Dumont,7628,49.0,High,76.45519,High
+2175,27,341161003024,Annandale,8801,49.0,High,76.45519,High
+2176,28,341467005676,Scotch Plains,7076,49.0,High,76.45519,High
+2177,29,340300001418,Cherry Hill,8003,49.0,High,76.45519,High
+2178,30,340666004244,East Hanover,7936,49.0,High,76.45519,High
+2179,31,340312001020,Cinnaminson,8077,49.0,High,76.45519,High
+2180,32,341161003026,Glen Gardner,8826,49.0,High,76.45519,High
+2181,33,340597000484,Glen Rock,7452,49.0,High,76.45519,High
+2182,34,340995003415,Pennington,8534,49.0,High,76.45519,High
+2183,35,341014000608,Midland Park,7432,49.0,High,76.45519,High
+2184,36,341341003182,Princeton,8540,49.0,High,76.45519,High
+2185,37,340999003392,Metuchen,8840,49.0,High,76.45519,High
+2186,38,341551005396,Sparta,7871,49.0,High,76.45519,High
+2187,39,341248004430,Parsippany,7054,49.0,High,76.45519,High
+2188,40,340975003958,Aberdeen,7747,49.0,High,76.45519,High
+2189,41,340798002580,Woolwich Twp,8085,49.0,High,76.45519,High
+2190,42,341375004084,Little Silver,7739,49.0,High,76.45519,High
+2191,43,341770003258,West Windsor,8550,49.0,High,76.45519,High
+2192,44,341011003978,Middletown,7748,49.0,High,76.45519,High
+2193,45,340852000534,Leonia,7605,49.0,High,76.45519,High
+2194,46,340819004818,Wanaque,7465,49.0,High,76.45519,High
+2195,47,340942003940,Manasquan,8736,49.0,High,76.45519,High
+2196,48,341365004486,Randolph,7869,49.0,High,76.45519,High
+2197,49,341656004124,Allentown,8501,49.0,High,76.45519,High
+2198,0,340071502923,Garfield,7026,91.0,Other,65.17264,Other
+2199,1,341332004702,Point Pleasant Beach,8742,91.0,Other,65.17264,High
+2200,2,340411003294,E Brunswick,8816,91.0,Other,65.17264,High
+2201,3,341242000688,Paramus,7652,91.0,Other,65.17264,High
+2202,4,341050003438,Monroe Township,8831,91.0,Other,65.17264,High
+2203,5,340375002978,Frenchtown,8825,91.0,Other,65.17264,High
+2204,6,341074004354,Denville,7834,91.0,Other,65.17264,High
+2205,7,340153000201,Berkeley Heights,7922,91.0,Other,65.17264,High
+2206,8,340757005906,Jersey City,7306,91.0,Other,65.17264,High
+2207,9,341335004930,Pompton Lakes,7442,91.0,Other,65.17264,High
+2208,10,341005003404,Middlesex,8846,91.0,Other,65.17264,High
+2209,11,341782000906,Township Of Washington,7676,91.0,Other,65.17264,High
+2210,12,340783000391,Jersey City,7306,91.0,Other,65.17264,High
+2211,13,341098004398,Flanders,7836,91.0,Other,65.17264,High
+2212,14,340849001096,Medford,8055,91.0,Other,65.17264,High
+2213,15,340806005372,Newton,7860,91.0,Other,65.17264,High
+2214,16,341674002448,Verona,7044,91.0,Other,65.17264,High
+2215,17,340850005378,Stanhope,7874,91.0,Other,65.17264,High
+2216,18,341056002166,Montclair,7042,91.0,Other,65.17264,High
+2217,19,340753003136,Pennington,8534,91.0,Other,65.17264,High
+2218,20,341323000341,New Egypt,8533,91.0,Other,65.17264,High
+2219,21,340258002008,West Caldwell,7006,91.0,Other,65.17264,High
+2220,22,340423002040,East Orange,7017,91.0,Other,65.17264,High
+2221,23,340252004166,Butler,7405,91.0,Other,65.17264,High
+2222,24,340995003409,Trenton,8690,91.0,Other,65.17264,High
+2223,25,340693000512,Hasbrouck Heights,7604,91.0,Other,65.17264,High
+2224,26,341521003610,Monmouth Junction,8852,91.0,Other,65.17264,High
+2225,27,341128000624,New Milford,7646,91.0,Other,65.17264,High
+2226,28,340561000237,Colts Neck,7722,91.0,Other,65.17264,High
+2227,29,340936000158,Linwood,8221,91.0,Other,65.17264,High
+2228,30,341686000888,Waldwick,7463,91.0,Other,65.17264,High
+2229,31,341263004860,Wayne,7470,91.0,Other,65.17264,High
+2230,32,341533002422,Maplewood,7040,91.0,Other,65.17264,High
+2231,33,340630005814,Hackettstown,7840,91.0,Other,65.17264,High
+2232,34,340000900176,Bernardsville,7924,91.0,Other,65.17264,High
+2233,35,341362001230,Mount Holly,8060,91.0,Other,65.17264,High
+2234,36,341722005320,Warren,7059,91.0,Other,65.17264,High
+2235,37,340195004154,Boonton,7005,91.0,Other,65.17264,High
+2236,38,341833005114,Woodstown,8098,91.0,Other,65.17264,High
+2237,39,340604002570,Sewell,8080,91.0,Other,65.17264,High
+2238,40,341434004524,Succasunna,7876,91.0,Other,65.17264,High
+2239,41,341188002378,Nutley,7110,91.0,Other,65.17264,High
+2240,42,340002400289,Newark,7102,91.0,Other,65.17264,Other
+2241,43,340531000442,Fort Lee,7024,91.0,Other,65.17264,High
+2242,44,341074004352,Rockaway,7866,91.0,Other,65.17264,High
+2243,45,340450003324,Edison,8817,91.0,Other,65.17264,High
+2244,46,341329004692,Point Pleasant Beach,8742,91.0,Other,65.17264,High
+2245,47,341134003158,Newark,7103,91.0,Other,65.17264,High
+2246,48,341689004132,Wall,7719,91.0,Other,65.17264,High
+2247,49,340714005358,Sussex,7461,91.0,Other,65.17264,High
+2248,0,340438001488,Voorhees,8043,160.0,High,49.726620000000004,High
+2249,1,341446000810,Rutherford,7070,160.0,High,49.726620000000004,High
+2250,2,340076903036,Lambertville,8530,160.0,High,49.726620000000004,High
+2251,3,340459005478,Elizabeth,7202,160.0,High,49.726620000000004,High
+2252,4,341485002900,Secaucus,7094,160.0,High,49.726620000000004,High
+2253,5,340471000380,Emerson,7630,160.0,High,49.726620000000004,High
+2254,6,340757002766,Secaucus,7094,160.0,High,49.726620000000004,High
+2255,7,341554003660,Spotswood,8884,160.0,High,49.726620000000004,High
+2256,8,340150000268,Bergenfield,7621,160.0,High,49.726620000000004,High
+2257,9,340705003844,Highlands,7732,160.0,High,49.726620000000004,High
+2258,10,340071702925,Trenton,8608,160.0,High,49.726620000000004,Other
+2259,11,340885000550,Lodi,7644,160.0,High,49.726620000000004,High
+2260,12,341671005422,Vernon,7462,160.0,High,49.726620000000004,High
+2261,13,340849001092,Marlton,8053,160.0,High,49.726620000000004,High
+2262,14,341449000824,Saddle Brook,7663,160.0,High,49.726620000000004,High
+2263,15,340222004582,Brick,8723,160.0,High,49.726620000000004,High
+2264,16,340561003798,Freehold,7728,160.0,High,49.726620000000004,High
+2265,17,340357005458,Cranford,7016,160.0,High,49.726620000000004,High
+2266,18,341377000742,Ridgefield,7657,160.0,High,49.726620000000004,High
+2267,19,341296005852,Phillipsburg,8865,160.0,High,49.726620000000004,High
+2268,20,340480000137,Newark,7103,160.0,High,49.726620000000004,High
+2269,21,340849001094,Medford,8055,160.0,High,49.726620000000004,High
+2270,22,340456005961,Egg Harbor Township,8234,160.0,High,49.726620000000004,High
+2271,23,341812003670,Iselin,8830,160.0,High,49.726620000000004,High
+2272,24,341170001182,Columbus,8022,160.0,High,49.726620000000004,High
+2273,25,341300005917,Little Egg Harbor,8087,160.0,High,49.726620000000004,High
+2274,26,341305003554,Piscataway,8854,160.0,High,49.726620000000004,High
+2275,27,341697005878,Washington,7882,160.0,High,49.726620000000004,High
+2276,28,341197001746,Ocean City,8226,160.0,High,49.726620000000004,High
+2277,29,340657000136,Hammonton,8037,160.0,High,49.726620000000004,High
+2278,30,341081004366,Morristown,7960,160.0,High,49.726620000000004,High
+2279,31,341638003059,Union City,7087,160.0,High,49.726620000000004,High
+2280,32,340561003796,Freehold,7728,160.0,High,49.726620000000004,High
+2281,33,341047002594,Williamstown,8094,160.0,High,49.726620000000004,High
+2282,34,340480002074,Newark,7107,160.0,High,49.726620000000004,High
+2283,35,341494004100,West Long Branch,7764,160.0,High,49.726620000000004,High
+2284,36,341608000840,Teaneck,7666,160.0,High,49.726620000000004,High
+2285,37,340849000701,Tabernacle,8088,160.0,High,49.726620000000004,High
+2286,38,340192000284,Bogota,7603,160.0,High,49.726620000000004,High
+2287,39,340774004612,Jackson,8527,160.0,High,49.726620000000004,High
+2288,40,341536003632,South Plainfield,7080,160.0,High,49.726620000000004,High
+2289,41,340075103180,Newark,7102,160.0,High,49.726620000000004,Other
+2290,42,340840003152,Lawrenceville,8648,160.0,High,49.726620000000004,High
+2291,43,340636001540,Westmont,8108,160.0,High,49.726620000000004,High
+2292,44,341368003826,Hazlet,7730,160.0,High,49.726620000000004,High
+2293,45,341623004722,Toms River,8753,160.0,High,49.726620000000004,High
+2294,46,340780004264,Oak Ridge,7438,160.0,High,49.726620000000004,High
+2295,47,340285002026,Cedar Grove,7009,160.0,High,49.726620000000004,High
+2296,48,341044004026,Tinton Falls,7724,160.0,High,49.726620000000004,High
+2297,49,341140005384,Newton,7860,160.0,High,49.726620000000004,High
+2298,0,340561003802,Englishtown,7726,213.0,High,40.289640000000006,High
+2299,1,341743002662,West Deptford,8093,213.0,High,40.289640000000006,High
+2300,2,340955005844,Blairstown,7825,213.0,High,40.289640000000006,High
+2301,3,340549005194,Somerset,8873,213.0,High,40.289640000000006,High
+2302,4,340105001298,Audubon,8106,213.0,High,40.289640000000006,High
+2303,5,340921000568,Lyndhurst,7071,213.0,High,40.289640000000006,High
+2304,6,341458005098,Woodstown,8098,213.0,High,40.289640000000006,High
+2305,7,340909001720,Cape May,8204,213.0,High,40.289640000000006,High
+2306,8,340126002704,Bayonne,7002,213.0,High,40.289640000000006,High
+2307,9,340222005896,Brick,8724,213.0,High,40.289640000000006,High
+2308,10,341257004858,Little Falls,7424,213.0,High,40.289640000000006,High
+2309,11,341752004996,West Milford,7480,213.0,High,40.289640000000006,High
+2310,12,340600001494,Gloucester City,8030,213.0,High,40.289640000000006,High
+2311,13,341308002616,Pitman,8071,213.0,High,40.289640000000006,High
+2312,14,341563000213,Springfield,7081,213.0,High,40.289640000000006,High
+2313,15,341650005742,Union,7083,213.0,High,40.289640000000006,High
+2314,16,340432003054,Hightstown,8520,213.0,High,40.289640000000006,High
+2315,17,340717003372,Highland Park,8904,213.0,High,40.289640000000006,High
+2316,18,340393004212,Dover,7801,213.0,High,40.289640000000006,High
+2317,19,340342001474,Collingswood,8108,213.0,High,40.289640000000006,High
+2318,20,340315000205,Clark,7066,213.0,High,40.289640000000006,High
+2319,21,340699004806,Hawthorne,7506,213.0,High,40.289640000000006,High
+2320,22,340177000425,Erial,8081,213.0,High,40.289640000000006,High
+2321,23,341509005284,Somerville,8876,213.0,High,40.289640000000006,High
+2322,24,341548004710,Manahawkin,8050,213.0,High,40.289640000000006,High
+2323,25,340144005794,Belvidere,7823,213.0,High,40.289640000000006,High
+2324,26,340378001040,Delran,8075,213.0,High,40.289640000000006,High
+2325,27,340390002512,Deptford,8096,213.0,High,40.289640000000006,High
+2326,28,340606000122,Galloway,8205,213.0,High,40.289640000000006,High
+2327,29,340099000034,Mays Landing,8330,213.0,High,40.289640000000006,High
+2328,30,340633001528,Haddon Heights,8035,213.0,High,40.289640000000006,High
+2329,31,340927003496,Matawan,7747,213.0,High,40.289640000000006,High
+2330,32,341206004058,Oakhurst,7755,213.0,High,40.289640000000006,High
+2331,33,341380000754,Ridgefield Park,7660,213.0,High,40.289640000000006,High
+2332,34,340183001980,Bloomfield,7003,213.0,High,40.289640000000006,High
+2333,35,340459003043,Elizabeth,7208,213.0,High,40.289640000000006,High
+2334,36,340627000496,Hackensack,7601,213.0,High,40.289640000000006,High
+2335,37,341623005919,Toms River,8753,213.0,High,40.289640000000006,High
+2336,38,340963005238,Manville,8835,213.0,High,40.289640000000006,High
+2337,39,341593005416,Sparta,7871,213.0,High,40.289640000000006,High
+2338,40,341830000922,Wood Ridge,7075,213.0,High,40.289640000000006,High
+2339,41,340177001338,Runnemede,8078,213.0,High,40.289640000000006,High
+2340,42,341314003041,Plainfield,7063,213.0,High,40.289640000000006,High
+2341,43,341431005664,Roselle Park,7204,213.0,High,40.289640000000006,High
+2342,44,340474000388,Englewood,7631,213.0,High,40.289640000000006,High
+2343,45,341812003668,Colonia,7067,213.0,High,40.289640000000006,High
+2344,46,340561003800,Farmingdale,7727,213.0,High,40.289640000000006,High
+2345,47,341687005949,Hamburg,7419,213.0,High,40.289640000000006,High
+2346,48,340606003115,Egg Harbor City,8215,213.0,High,40.289640000000006,High
+2347,49,340177001336,Blackwood,8012,213.0,High,40.289640000000006,High
+2348,0,341731002928,Weehawken,7086,280.0,High,31.55388,High
+2349,1,340327000304,Cliffside Park,7010,280.0,High,31.55388,High
+2350,2,341239001188,Palmyra,8065,280.0,High,31.55388,High
+2351,3,340074503137,Passaic,7055,280.0,High,31.55388,Other
+2352,4,340267001414,Sicklerville,8081,280.0,High,31.55388,High
+2353,5,341545002630,Franklinville,8322,280.0,High,31.55388,High
+2354,6,340480002080,West Caldwell,7006,280.0,High,31.55388,High
+2355,7,340246001004,Burlington,8016,280.0,High,31.55388,High
+2356,8,340423002064,East Orange,7017,280.0,High,31.55388,High
+2357,9,340300001420,Cherry Hill,8034,280.0,High,31.55388,High
+2358,10,341149003480,North Brunswick,8902,280.0,High,31.55388,High
+2359,11,341707002640,Sewell,8080,280.0,High,31.55388,High
+2360,12,341647000557,Barnegat,8005,280.0,High,31.55388,High
+2361,13,340330004762,Clifton,7013,280.0,High,31.55388,High
+2362,14,340783003378,Jersey City,7305,280.0,High,31.55388,High
+2363,15,340466000368,Elmwood Park,7407,280.0,High,31.55388,High
+2364,16,340810005935,Lanoka Harbor,8734,280.0,High,31.55388,High
+2365,17,340291004604,Bayville,8721,280.0,High,31.55388,High
+2366,18,341464003580,Parlin,8859,280.0,High,31.55388,High
+2367,19,340135001954,Belleville,7109,280.0,High,31.55388,High
+2368,20,341011003976,Middletown,7748,280.0,High,31.55388,High
+2369,21,340654003090,Hamilton,8690,280.0,High,31.55388,High
+2370,22,341008003424,Perth Amboy,8861,280.0,High,31.55388,High
+2371,23,340774000787,Jackson,8527,280.0,High,31.55388,High
+2372,24,340945004660,Manchester,8759,280.0,High,31.55388,High
+2373,25,340402003286,Dunellen,8812,280.0,High,31.55388,High
+2374,26,341236000682,Palisades Park,7650,280.0,High,31.55388,High
+2375,27,340007000529,Newark,7102,280.0,High,31.55388,Other
+2376,28,341623004724,Toms River,8753,280.0,High,31.55388,High
+2377,29,340249000998,Medford,8055,280.0,High,31.55388,High
+2378,30,341806000437,Atco,8004,280.0,High,31.55388,High
+2379,31,340606000124,Mays Landing,8330,280.0,High,31.55388,High
+2380,32,340008300573,Plainfield,7060,280.0,High,31.55388,Other
+2381,33,341692000898,Wallington,7057,280.0,High,31.55388,High
+2382,34,340203000960,Bordentown,8505,280.0,High,31.55388,High
+2383,35,341539003648,South River,8882,280.0,High,31.55388,High
+2384,36,341143000636,North Arlington,7031,280.0,High,31.55388,High
+2385,37,340522001082,Burlington,8016,280.0,High,31.55388,High
+2386,38,340249000996,Westampton,8060,280.0,High,31.55388,High
+2387,39,341761002468,West Orange,7052,280.0,High,31.55388,High
+2388,40,340280000300,East Rutherford,7073,280.0,High,31.55388,High
+2389,41,340588002558,Glassboro,8028,280.0,High,31.55388,High
+2390,42,341134002188,Newark,7102,280.0,High,31.55388,High
+2391,43,340894003904,Long Branch,7740,280.0,High,31.55388,High
+2392,44,340003200302,Hoboken,7030,280.0,High,31.55388,Other
+2393,45,341008003420,East Brunswick,8816,280.0,High,31.55388,High
+2394,46,340582002554,Woodbury Hts,8096,280.0,High,31.55388,High
+2395,47,341794001768,Wildwood,8260,280.0,High,31.55388,High
+2396,48,341164005258,North Plainfield,7060,280.0,High,31.55388,High
+2397,49,340654005933,Hamilton,8619,280.0,High,31.55388,High
+2398,0,341293003530,Perth Amboy,8861,312.0,High,25.23755,High
+2399,1,341311005080,Pittsgrove,8318,312.0,High,25.23755,High
+2400,2,341002001732,Cape May Court House,8210,312.0,High,25.23755,High
+2401,3,340966001104,Maple Shade,8052,312.0,High,25.23755,High
+2402,4,341299000432,Pine Hill,8021,312.0,High,25.23755,High
+2403,5,340795003888,Keyport,7735,312.0,High,25.23755,High
+2404,6,340240000044,Buena,8310,312.0,High,25.23755,High
+2405,7,340008700735,Paterson,7503,312.0,High,25.23755,Other
+2406,8,341008003426,Piscataway,8854,312.0,High,25.23755,High
+2407,9,340267001412,Pennsauken,8109,312.0,High,25.23755,High
+2408,10,340264000087,Camden,8103,312.0,High,25.23755,High
+2409,11,341812003672,Woodbridge,7095,312.0,High,25.23755,High
+2410,12,340243000966,Burlington,8016,312.0,High,25.23755,High
+2411,13,340282003268,Carteret,7008,312.0,High,25.23755,High
+2412,14,340654003092,Hamilton,8610,312.0,High,25.23755,High
+2413,15,341758002938,West New York,7093,312.0,High,25.23755,High
+2414,16,340912005064,Pennsville,8070,312.0,High,25.23755,High
+2415,17,340362001820,Bridgeton,8302,312.0,High,25.23755,High
+2416,18,340074003047,Plainfield,7060,312.0,High,25.23755,High
+2417,19,341227002396,Orange,7050,312.0,High,25.23755,High
+2418,20,340576000466,Garfield,7026,312.0,High,25.23755,High
+2419,21,340744005362,Hopatcong,7843,312.0,High,25.23755,High
+2420,22,340687002738,Harrison,7029,312.0,High,25.23755,High
+2421,23,341281001202,Pemberton,8068,312.0,High,25.23755,High
+2422,24,341512000154,South Amboy,8879,312.0,High,25.23755,High
+2423,25,340459003049,Elizabeth,7201,312.0,High,25.23755,High
+2424,26,340264001384,Camden,8104,312.0,High,25.23755,High
+2425,27,340492003068,Ewing,8618,312.0,High,25.23755,High
+2426,28,340273001712,Cape May Court House,8210,312.0,High,25.23755,High
+2427,29,341792005872,Washington,7882,312.0,High,25.23755,High
+2428,30,340861005556,Linden,7036,312.0,High,25.23755,High
+2429,31,340735002746,Hoboken,7030,312.0,High,25.23755,High
+2430,32,340093003732,Asbury Park,7712,312.0,High,25.23755,High
+2431,33,341815002688,Woodbury,8096,312.0,High,25.23755,High
+2432,34,341284005048,Carneys Point,8069,312.0,High,25.23755,High
+2433,35,340288001662,Somerdale,8083,312.0,High,25.23755,High
+2434,36,340318002498,Clayton,8312,312.0,High,25.23755,High
+2435,37,340792000209,Kenilworth,7033,312.0,High,25.23755,High
+2436,38,340995003410,Pennington,8534,312.0,High,25.23755,High
+2437,39,340757003198,Jersey City,7302,312.0,High,25.23755,High
+2438,40,341269003370,Paterson,7501,312.0,High,25.23755,High
+2439,41,340729005540,Hillside,7205,312.0,High,25.23755,High
+2440,42,341455005090,Salem,8079,312.0,High,25.23755,High
+2441,43,340789002866,Kearny,7032,312.0,High,25.23755,High
+2442,44,341146002882,North Bergen,7047,312.0,High,25.23755,High
+2443,45,341260004856,Haledon,7508,312.0,High,25.23755,High
+2444,46,341269000809,Paterson,7501,312.0,High,25.23755,High
+2445,47,340783002780,Jersey City,7306,312.0,High,25.23755,High
+2446,48,340001900269,Somers Point,8244,312.0,High,25.23755,High
+2447,49,340074103050,Perth Amboy,8861,312.0,High,25.23755,High
+2448,0,340004800335,Lake Como,7719,343.0,High,20.949579999999997,High
+2449,1,340210005144,Bound Brook,8805,343.0,High,20.949579999999997,High
+2450,2,341134000791,Newark,7103,343.0,High,20.949579999999997,High
+2451,3,340096000010,Atlantic City,8401,343.0,High,20.949579999999997,High
+2452,4,340008000566,Camden,8104,343.0,High,20.949579999999997,Other
+2453,5,341122003454,New Brunswick,8901,343.0,High,20.949579999999997,High
+2454,6,341269003109,Paterson,7505,343.0,High,20.949579999999997,High
+2455,7,341401001234,Riverside,8075,343.0,High,20.949579999999997,High
+2456,8,341680001902,Vineland,8360,343.0,High,20.949579999999997,High
+2457,9,340822004636,Lakewood,8701,343.0,High,20.949579999999997,High
+2458,10,340786003880,Keansburg,7734,343.0,High,20.949579999999997,High
+2459,11,340007800487,Camden,8102,343.0,High,20.949579999999997,Other
+2460,12,341134002194,Newark,7105,343.0,High,20.949579999999997,High
+2461,13,340007300531,Jersey City,7305,343.0,High,20.949579999999997,High
+2462,14,340783002772,Jersey City,7305,343.0,High,20.949579999999997,High
+2463,15,341134002202,Newark,7108,343.0,High,20.949579999999997,High
+2464,16,341269003107,Paterson,7505,343.0,High,20.949579999999997,High
+2465,17,341032001870,Millville,8332,343.0,High,20.949579999999997,High
+2466,18,341353005634,Rahway,7065,343.0,High,20.949579999999997,High
+2467,19,341116004032,Neptune,7753,343.0,High,20.949579999999997,High
+2468,20,341428005650,Roselle,7203,343.0,High,20.949579999999997,High
+2469,21,340459003071,Elizabeth,7202,343.0,High,20.949579999999997,High
+2470,22,340075303183,Jersey City,7307,343.0,High,20.949579999999997,High
+2471,23,341269003169,Paterson,7502,343.0,High,20.949579999999997,High
+2472,24,340078503390,Camden,8105,343.0,High,20.949579999999997,Other
+2473,25,341314005604,Plainfield,7060,343.0,High,20.949579999999997,High
+2474,26,341629003200,Trenton,8611,343.0,High,20.949579999999997,High
+2475,27,340864000429,Lindenwold,8021,343.0,High,20.949579999999997,High
+2476,28,341269005998,Paterson,7514,343.0,High,20.949579999999997,High
+2477,29,340075403181,Newark,7103,343.0,High,20.949579999999997,High
+2478,30,340783002776,Jersey City,7304,343.0,High,20.949579999999997,High
+2479,31,341134002198,Newark,7108,343.0,High,20.949579999999997,High
+2480,32,340783002774,Jersey City,7302,343.0,High,20.949579999999997,High
+2481,33,341287001610,Pennsauken,8110,343.0,High,20.949579999999997,High
+2482,34,341134002190,Newark,7104,343.0,High,20.949579999999997,High
+2483,35,340459003045,Elizabeth,7202,343.0,High,20.949579999999997,High
+2484,36,340077003291,Ewing,8618,343.0,High,20.949579999999997,High
+2485,37,340459003389,Elizabeth,7202,343.0,High,20.949579999999997,High
+2486,38,340459003039,Elizabeth,7202,343.0,High,20.949579999999997,High
+2487,39,340423000494,East Orange,7017,343.0,High,20.949579999999997,High
+2488,40,340768002104,Irvington,7111,343.0,High,20.949579999999997,High
+2489,41,340225001784,Bridgeton,8302,343.0,High,20.949579999999997,High
+2490,42,340264001348,Camden,8105,343.0,High,20.949579999999997,High
+2491,43,340264000579,Camden,8103,343.0,High,20.949579999999997,High
+2492,44,341008003176,East Brunswick,8816,343.0,High,20.949579999999997,High
+2493,45,340078803423,Newark,7103,343.0,High,20.949579999999997,High
+2494,46,341269003170,Paterson,7502,343.0,High,20.949579999999997,High
+2495,47,341800001264,Willingboro,8046,343.0,High,20.949579999999997,High
+2496,48,341272002608,Paulsboro,8066,343.0,High,20.949579999999997,High
+2497,49,341134002206,Newark,7112,343.0,High,20.949579999999997,High
+2498,0,341269003111,Paterson,7501,407.0,High,8.50347,High
+2499,1,341269003101,Paterson,7501,407.0,High,8.50347,High
+2500,2,341134002192,Newark,7103,407.0,High,8.50347,High
+2501,3,341629000449,Trenton,8618,407.0,High,8.50347,High
+2502,4,341269003103,Paterson,7501,407.0,High,8.50347,High
+2503,5,341254004836,Passaic,7055,407.0,High,8.50347,High
+2504,6,341269003168,Paterson,7502,407.0,High,8.50347,High
+2505,7,341269003171,Paterson,7502,407.0,High,8.50347,High
+2506,8,341320000192,Pleasantville,8232,407.0,High,8.50347,High
+2507,9,340264001346,Camden,8103,407.0,High,8.50347,High
+2508,10,341269003105,Paterson,7501,407.0,High,8.50347,High
+2509,11,341134003227,Newark,7112,407.0,High,8.50347,High
+2510,12,340244003303,Mount Laurel,8054,407.0,High,8.50347,High
+2511,13,340002200285,Newark,7102,407.0,High,8.50347,Other
