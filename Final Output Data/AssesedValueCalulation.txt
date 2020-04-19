@@ -1,12 +1,17 @@
-Equalization
+Equalization:
+
 When assessments are made by different persons in different places there is always room for variations in judgment. New Jersey has 21 counties comprised of 565 municipalities. With the exception of Gloucester County's 24 municipalities, each has its own local tax assessor.
 
 The General Tax Rate is a multiplier for use in determining the amount of tax levied upon each property. It is expressed as $1 per $100 of taxable assessed value. This rate is used to compute the tax bill.
+
 Example General Tax Rate: Assessed Value 150,000 x General Tax Rate .03758 = Tax Bill 5,637
 
 The Effective Tax Rate is a statistical study that enables the comparison of one district to another district (based on the assumption that all districts are at 100% valuation).
 
-Please do this for each by town level and possibly at zip level
+Please do this for each by town:
+
 Step 1: Use Tax Rate Table to get assessed value (Assessed Value=Property Tax/Tax Rate). Please use General Effective Tax Rates 1997-2019 web.xls to get Tax Rate
+
 Step 2: Use Table of Equalized Valuations to get value of property (Property Value=Assessed Value/Equalized Value Ratio). Please use 2018TEV.xls to get Equalized Value Ratio
+
 Step 3. Roll up to calculate average property value and average property tax
